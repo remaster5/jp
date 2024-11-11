@@ -27,17 +27,19 @@ data_dir = os.path.join(DATA_DIR_ROOT, date)
 os.makedirs(data_dir, exist_ok=True)
 
 for i in tse_list.itertuples():
-    print(f"작업({i.Index}): {i.Code} / {i.Name}")
-    filename = f"{i.Code}-{i.Name}.csv"
+    ssymbol = "TSE:"
+    ssymbol = ssymbol + "i.Symbol"
+    print(f"작업({i.Index}): {ssymbol} / {i.Name}")
+    filename = f"{ssymbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
 
     if os.path.exists(file_path):
         print(f"{file_path}가 이미 있습니다.\n가져오지 않습니다.")
     else:
-        print(f"{i.Code}를 가져옵니다.")
-        data = fdr.DataReader(i.Code, "2022")
+        print(f"{ssymbol}를 가져옵니다.")
+        data = fdr.DataReader(ssymbol, "2022")
         data.to_csv(file_path)
-        print(f"{i.Code}를 가져왔습니다. 잠시 대기합니다.")
+        print(f"{ssymbol}를 가져왔습니다. 잠시 대기합니다.")
         time.sleep(np.random.uniform(0.1, 0.9))
 
 print("모든 항목을 가져왔습니다.")
@@ -49,7 +51,7 @@ quater = 21 * 3
 # https://www.investopedia.com/articles/06/historicalvolatility.asp
 
 rs_df = pd.DataFrame(columns=[
-    'Code',
+    'Symbol',
     'Name',
     'Score',
     'YesterdayScore',
@@ -64,9 +66,9 @@ rs_df = pd.DataFrame(columns=[
 ])
 
 
-def c(code):
-    link = f"https://m.stock.naver.com/worldstock/stock/{code}.T/total"
-    return f"[{code}]({link})"
+def c(symbol):
+    link = f"https://m.stock.naver.com/worldstock/stock/{symbol}.T/total"
+    return f"[{symbol}]({link})"
 
 
 def calc_score(data, day=-1):
@@ -92,8 +94,10 @@ def calc_score(data, day=-1):
 
 
 for i in tse_list.itertuples():
-    print(f"작업({i.Index}): {i.Code} / {i.Name}")
-    filename = f"{i.Code}-{i.Name}.csv"
+    ssymbol = "TSE:"
+    ssymbol = ssymbol + "i.Symbol"
+    print(f"작업({i.Index}): {ssymbol} / {i.Name}")
+    filename = f"{ssymbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
     data = pd.read_csv(file_path)
     today_score = calc_score(data)
@@ -117,7 +121,7 @@ for i in tse_list.itertuples():
         ma_50 = int(data_50_close.mean())
 
         rs_df = rs_df.append({
-            'Code': i.Code,
+            'Symbol': ssymbol,
             'Name': i.Name,
             'Score': today_score,
             'YesterdayScore': yesterday_score,
@@ -175,6 +179,8 @@ with open(result_file_path, "w") as f:
     f.write(textwrap.dedent(comment))
 
     for i in sorted.itertuples():
+        ssymbol = "TSE:"
+        ssymbol = ssymbol + "i.Symbol"
         if i.RankChange == 0:
             change = ""
         elif i.RankChange > 0:
@@ -182,7 +188,7 @@ with open(result_file_path, "w") as f:
         else:
             change = f"({i.RankChange})"
         f.write(
-            f"|{c(i.Code)}|{i.Name}|{i.Close1}|{i.Close2}|{i.RS} {change}|\n")
+            f"|{c(ssymbol)}|{i.Name}|{i.Close1}|{i.Close2}|{i.RS} {change}|\n")
 
 
 result_file_path = os.path.join(
@@ -232,8 +238,10 @@ with open(result_file_path, "w") as f:
     f.write(textwrap.dedent(comment))
 
     for i in minervini.itertuples():
+        ssymbol = "TSE:"
+        ssymbol = ssymbol + "i.Symbol"
         f.write(
-            f"|{c(i.Code)}|{i.Name}|{i.Close2}|{i.RS}|{i.Max52W}, {i.Min52W}|{i.MA50}, {i.MA150}, {i.MA200}|\n")
+            f"|{c(i.Symbol)}|{i.Name}|{i.Close2}|{i.RS}|{i.Max52W}, {i.Min52W}|{i.MA50}, {i.MA150}, {i.MA200}|\n")
     
     f.write("\n")
     footer = '''\
