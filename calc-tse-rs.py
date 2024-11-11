@@ -28,7 +28,7 @@ os.makedirs(data_dir, exist_ok=True)
 
 for i in tse_list.itertuples():
     ssymbol = "TSE:"
-    ssymbol = ssymbol + "i.Symbol"
+    ssymbol = ssymbol + i.Symbol
     print(f"작업({i.Index}): {ssymbol} / {i.Name}")
     filename = f"{ssymbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
@@ -95,7 +95,7 @@ def calc_score(data, day=-1):
 
 for i in tse_list.itertuples():
     ssymbol = "TSE:"
-    ssymbol = ssymbol + "i.Symbol"
+    ssymbol = ssymbol + i.Symbol
     print(f"작업({i.Index}): {ssymbol} / {i.Name}")
     filename = f"{ssymbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
@@ -180,7 +180,7 @@ with open(result_file_path, "w") as f:
 
     for i in sorted.itertuples():
         ssymbol = "TSE:"
-        ssymbol = ssymbol + "i.Symbol"
+        ssymbol = ssymbol + i.Symbol
         if i.RankChange == 0:
             change = ""
         elif i.RankChange > 0:
@@ -239,7 +239,7 @@ with open(result_file_path, "w") as f:
 
     for i in minervini.itertuples():
         ssymbol = "TSE:"
-        ssymbol = ssymbol + "i.Symbol"
+        ssymbol = ssymbol + i.Symbol
         f.write(
             f"|{c(i.Symbol)}|{i.Name}|{i.Close2}|{i.RS}|{i.Max52W}, {i.Min52W}|{i.MA50}, {i.MA150}, {i.MA200}|\n")
     
