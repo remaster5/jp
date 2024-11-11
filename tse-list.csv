@@ -1,0 +1,4039 @@
+,Symbol,Name,IndustryCode,Industry
+0,7203,Toyota Motor Corp,53101010,자동차 및 트럭 제조
+1,8306,Mitsubishi UFJ Financial Group Inc,55101010,은행
+2,6501,Hitachi Ltd,54401010,소비재 대기업
+3,6758,Sony Group Corp,57106030,가정용 전자 제품
+4,6861,Keyence Corp,57104010,전자 장비 및 부품
+5,6098,Recruit Holdings Co Ltd,52203030,고용 서비스
+6,9983,Fast Retailing Co Ltd,53403040,의류 및 액세서리 소매
+7,9984,SoftBank Group Corp,57401020,무선 통신 서비스
+8,8316,Sumitomo Mitsui Financial Group Inc,55101010,은행
+9,9432,Nippon Telegraph and Telephone Corp,57401010,통합 통신 서비스
+10,8001,Itochu Corp,52202010,다각적 산업용 제품 도매
+11,4519,Chugai Pharmaceutical Co Ltd,56201040,제약
+12,8766,Tokio Marine Holdings Inc,55301020,손해보험
+13,4063,Shin-Etsu Chemical Co Ltd,51101090,다각적 화학 산업
+14,8035,Tokyo Electron Ltd,57101020,반도체 장비 및 테스트
+15,8058,Mitsubishi Corp,52202010,다각적 산업용 제품 도매
+16,9433,KDDI Corp,57401020,무선 통신 서비스
+17,7974,Nintendo Co Ltd,53205010,장난감 및 어린이 제품
+18,8031,Mitsui & Co Ltd,52202010,다각적 산업용 제품 도매
+19,4568,Daiichi Sankyo Co Ltd,56201040,제약
+20,9434,SoftBank Corp,57401020,무선 통신 서비스
+21,8411,Mizuho Financial Group Inc,55101010,은행
+22,2914,Japan Tobacco Inc,54102030,담배
+23,7011,Mitsubishi Heavy Industries Ltd,54401010,소비재 대기업
+24,6857,Advantest Corp,57101020,반도체 장비 및 테스트
+25,6902,Denso Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+26,7267,Honda Motor Co Ltd,53101010,자동차 및 트럭 제조
+27,7741,Hoya Corp,56101020,"의료 장비, 물품 및 유통"
+28,4661,Oriental Land Co Ltd,53301040,여가 및 오락시설
+29,7751,Canon Inc,57105010,사무기기
+30,4502,Takeda Pharmaceutical Co Ltd,56201040,제약
+31,6702,Fujitsu Ltd,57201010,IT 서비스 및 컨설팅
+32,8725,MS&AD Insurance Group Holdings Inc,55301020,손해보험
+33,3382,Seven & i Holdings Co Ltd,54301020,식품 소매 및 유통
+34,6503,Mitsubishi Electric Corp,54401010,소비재 대기업
+35,6367,Daikin Industries Ltd,52102030,전기 부품 및 장비
+36,6981,Murata Manufacturing Co Ltd,57104010,전자 장비 및 부품
+37,4578,Otsuka Holdings Co Ltd,56201040,제약
+38,7182,Japan Post Bank Co Ltd,55101010,은행
+39,6146,Disco Corp,57101020,반도체 장비 및 테스트
+40,6178,Japan Post Holdings Co Ltd,55301030,생명 및 건강 보험
+41,4543,Terumo Corp,56101020,"의료 장비, 물품 및 유통"
+42,6273,SMC Corp,52102010,산업용 기계 및 장비
+43,4901,Fujifilm Holdings Corp,51101030,특수 화학제
+44,6954,Fanuc Corp,52102010,산업용 기계 및 장비
+45,8591,ORIX Corp,55101030,소비자 대출
+46,8002,Marubeni Corp,52202010,다각적 산업용 제품 도매
+47,8750,Dai-ichi Life Holdings Inc,55301030,생명 및 건강 보험
+48,6301,Komatsu Ltd,52102020,중장비 및 차량
+49,8053,Sumitomo Corp,52202010,다각적 산업용 제품 도매
+50,6762,TDK Corp,52102030,전기 부품 및 장비
+51,5108,Bridgestone Corp,53101030,타이어 및 고무 제품
+52,9613,NTT Data Group Corp,57201010,IT 서비스 및 컨설팅
+53,6723,Renesas Electronics Corp,57101010,반도체
+54,8801,Mitsui Fudosan Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+55,6701,NEC Corp,57201010,IT 서비스 및 컨설팅
+56,6201,Toyota Industries Corp,52102020,중장비 및 차량
+57,6594,Nidec Corp,52102030,전기 부품 및 장비
+58,8630,Sompo Holdings Inc,55301020,손해보험
+59,5401,Nippon Steel Corp,51201020,철 및 강철
+60,6752,Panasonic Holdings Corp,57106030,가정용 전자 제품
+61,9020,East Japan Railway Co,52406020,지상 및 해상 여객 운송
+62,8267,Aeon Co Ltd,54301020,식품 소매 및 유통
+63,9022,Central Japan Railway Co,52406020,지상 및 해상 여객 운송
+64,7269,Suzuki Motor Corp,53101010,자동차 및 트럭 제조
+65,2802,Ajinomoto Co Inc,54102020,식품 가공
+66,4503,Astellas Pharma Inc,56201040,제약
+67,7733,Olympus Corp,56101010,첨단 의료 장비 및 기술
+68,4452,Kao Corp,54201020,개인 생활 필수 용품
+69,1925,Daiwa House Industry Co Ltd,53203010,주택 건설
+70,4689,LY Corp,57201030,온라인 서비스
+71,8015,Toyota Tsusho Corp,52202010,다각적 산업용 제품 도매
+72,8604,Nomura Holdings Inc,55102010,투자 은행 및 중개 서비스
+73,8802,Mitsubishi Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+74,4307,Nomura Research Institute Ltd,57201010,IT 서비스 및 컨설팅
+75,8308,Resona Holdings Inc,55101010,은행
+76,2502,Asahi Group Holdings Ltd,54101010,양조업
+77,4684,Obic Co Ltd,57201010,IT 서비스 및 컨설팅
+78,8309,Sumitomo Mitsui Trust Group Inc,55101010,은행
+79,8113,Unicharm Corp,54201020,개인 생활 필수 용품
+80,4612,Nippon Paint Holdings Co Ltd,51101010,상품 화학
+81,1605,Inpex Corp,50102020,"오일, 가스 탐사 및 생산"
+82,9735,Secom Co Ltd,52203040,경영 지원 서비스
+83,1928,Sekisui House Ltd,53203010,주택 건설
+84,7532,Pan Pacific International Holdings Corp,53402020,할인점
+85,8830,Sumitomo Realty & Development Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+86,6971,Kyocera Corp,57104010,전자 장비 및 부품
+87,5020,ENEOS Holdings Inc,50102030,"오일, 가스 정제 및 마케팅"
+88,9503,Kansai Electric Power Co Inc,59101010,전력 유틸리티
+89,6326,Kubota Corp,52102020,중장비 및 차량
+90,9101,Nippon Yusen KK,52405020,해양 화물 및 물류
+91,7832,Bandai Namco Holdings Inc,53205010,장난감 및 어린이 제품
+92,3659,Nexon Co Ltd,57201030,온라인 서비스
+93,5802,Sumitomo Electric Industries Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+94,9766,Konami Group Corp,57201020,소프트웨어
+95,4091,Nippon Sanso Holdings Corp,51101010,상품 화학
+96,7936,Asics Corp,53202030,제화
+97,4716,Oracle Corp Japan,57201020,소프트웨어
+98,8697,Japan Exchange Group Inc,55102050,"금융, 상품 시장 운영 및 서비스 제공"
+99,9843,Nitori Holdings Co Ltd,53403030,가정용 가구 소매
+100,6869,Sysmex Corp,56101020,"의료 장비, 물품 및 유통"
+101,4755,Rakuten Group Inc,57201030,온라인 서비스
+102,2503,Kirin Holdings Co Ltd,54101010,양조업
+103,7309,Shimano Inc,53205020,오락용 제품
+104,9104,Mitsui O.S.K. Lines Ltd,52405020,해양 화물 및 물류
+105,4507,Shionogi & Co Ltd,56201040,제약
+106,6920,Lasertec Corp,57101020,반도체 장비 및 테스트
+107,6988,Nitto Denko Corp,51101030,특수 화학제
+108,9697,Capcom Co Ltd,57201020,소프트웨어
+109,7270,Subaru Corp,53101010,자동차 및 트럭 제조
+110,5803,Fujikura Ltd,52102030,전기 부품 및 장비
+111,2801,Kikkoman Corp,54102020,식품 가공
+112,8601,Daiwa Securities Group Inc,55102010,투자 은행 및 중개 서비스
+113,3407,Asahi Kasei Corp,51101090,다각적 화학 산업
+114,3092,ZOZO Inc,53403040,의류 및 액세서리 소매
+115,8593,Mitsubishi HC Capital Inc,55101050,기업 금융 서비스
+116,2587,Suntory Beverage & Food Ltd,54101030,무알콜 음료
+117,7912,Dai Nippon Printing Co Ltd,52203020,상업 인쇄 서비스
+118,3402,Toray Industries Inc,51101010,상품 화학
+119,7911,TOPPAN Holdings Inc,52203020,상업 인쇄 서비스
+120,4523,Eisai Co Ltd,56201040,제약
+121,1802,Obayashi Corp,52201020,건설 및 엔지니어링
+122,9107,Kawasaki Kisen Kaisha Ltd,52405020,해양 화물 및 물류
+123,9531,Tokyo Gas Co Ltd,59102010,천연가스 유틸리티
+124,1812,Kajima Corp,52201020,건설 및 엔지니어링
+125,7272,Yamaha Motor Co Ltd,53101010,자동차 및 트럭 제조
+126,7013,IHI Corp,52102010,산업용 기계 및 장비
+127,5019,Idemitsu Kosan Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+128,9435,Hikari Tsushin Inc,57102010,통신 및 네트워킹
+129,3064,MonotaRO Co Ltd,53402010,백화점
+130,8795,T&D Holdings Inc,55301030,생명 및 건강 보험
+131,7202,Isuzu Motors Ltd,53101010,자동차 및 트럭 제조
+132,4768,Otsuka Corp,57201010,IT 서비스 및 컨설팅
+133,9202,ANA Holdings Inc,52406010,항공사
+134,4151,Kyowa Kirin Co Ltd,56201040,제약
+135,7701,Shimadzu Corp,57105010,사무기기
+136,7201,Nissan Motor Co Ltd,53101010,자동차 및 트럭 제조
+137,9532,Osaka Gas Co Ltd,59102010,천연가스 유틸리티
+138,9021,West Japan Railway Co,52406020,지상 및 해상 여객 운송
+139,6504,Fuji Electric Co Ltd,52102030,전기 부품 및 장비
+140,6586,Makita Corp,52102010,산업용 기계 및 장비
+141,7259,Aisin Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+142,4324,Dentsu Group Inc,53302010,광고 및 마케팅
+143,7550,Zensho Holdings Co Ltd,53301020,레스토랑 및 바
+144,1801,Taisei Corp,52201020,건설 및 엔지니어링
+145,9502,Chubu Electric Power Co Inc,59101010,전력 유틸리티
+146,4188,Mitsubishi Chemical Group Corp,51101090,다각적 화학 산업
+147,5713,Sumitomo Metal Mining Co Ltd,51201050,특수 채굴 및 금속
+148,9005,Tokyu Corp,52406020,지상 및 해상 여객 운송
+149,6383,Daifuku Co Ltd,52102040,중전기장비
+150,8136,Sanrio Co Ltd,53403090,기타 전문 소매
+151,1911,Sumitomo Forestry Co Ltd,53203010,주택 건설
+152,6361,Ebara Corp,52102010,산업용 기계 및 장비
+153,1878,Daito Trust Construction Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+154,2897,Nissin Foods Holdings Co Ltd,54102020,식품 가공
+155,6506,Yaskawa Electric Corp,52102030,전기 부품 및 장비
+156,4704,Trend Micro Inc,57201020,소프트웨어
+157,5411,JFE Holdings Inc,51201020,철 및 강철
+158,9024,Seibu Holdings Inc,52406020,지상 및 해상 여객 운송
+159,4911,Shiseido Co Ltd,54201020,개인 생활 필수 용품
+160,9602,Toho Co Ltd (Tokyo),53302030,엔터테인먼트 제작
+161,8729,Sony Financial Holdings Inc,55301030,생명 및 건강 보험
+162,6645,Omron Corp,52102030,전기 부품 및 장비
+163,7012,Kawasaki Heavy Industries Ltd,54401010,소비재 대기업
+164,3003,Hulic Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+165,6479,Minebea Mitsumi Inc,57104010,전자 장비 및 부품
+166,2267,Yakult Honsha Co Ltd,54102020,식품 가공
+167,8951,Nippon Building Fund Inc,60102020,상업용 REITs
+168,8473,SBI Holdings Inc,55102030,다각적 투자 서비스
+169,9201,Japan Airlines Co Ltd,52406010,항공사
+170,6724,Seiko Epson Corp,57106010,컴퓨터 하드웨어
+171,4204,Sekisui Chemical Co Ltd,53203010,주택 건설
+172,5201,AGC Inc,53203020,건설 자재 및 비품
+173,8331,Chiba Bank Ltd,55101010,은행
+174,5929,Sanwa Holdings Corp,53203020,건설 자재 및 비품
+175,7181,Japan Post Insurance Co Ltd,55301030,생명 및 건강 보험
+176,9042,Hankyu Hanshin Holdings Inc,52406020,지상 및 해상 여객 운송
+177,7735,Screen Holdings Co Ltd,57101020,반도체 장비 및 테스트
+178,3038,Kobe Bussan Co Ltd,54301020,식품 소매 및 유통
+179,2269,Meiji Holdings Co Ltd,54102020,식품 가공
+180,2875,Toyo Suisan Kaisha Ltd,54102020,식품 가공
+181,7186,Concordia Financial Group Ltd,55101010,은행
+182,6841,Yokogawa Electric Corp,52102010,산업용 기계 및 장비
+183,9501,Tokyo Electric Power Company Holdings Inc,59101010,전력 유틸리티
+184,5334,Niterra Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+185,7752,Ricoh Co Ltd,57105010,사무기기
+186,9143,SG Holdings Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+187,9023,Tokyo Metro Co Ltd,52406020,지상 및 해상 여객 운송
+188,9719,SCSK Corp,57201010,IT 서비스 및 컨설팅
+189,2413,M3 Inc,57201030,온라인 서비스
+190,4528,Ono Pharmaceutical Co Ltd,56201040,제약
+191,3626,TIS Inc,57201010,IT 서비스 및 컨설팅
+192,3099,Isetan Mitsukoshi Holdings Ltd,53402010,백화점
+193,3088,MatsukiyoCocokara & Co,54301010,의약품 소매
+194,2702,McDonald's Holdings Company Japan Ltd,53301020,레스토랑 및 바
+195,6532,BayCurrent Inc,52203040,경영 지원 서비스
+196,4527,Rohto Pharmaceutical Co Ltd,56201040,제약
+197,8952,Japan Real Estate Investment Corp,60102020,상업용 REITs
+198,5831,Shizuoka Financial Group Inc,55101010,은행
+199,9508,Kyushu Electric Power Co Inc,59101010,전력 유틸리티
+200,2327,NS Solutions Corp,57201010,IT 서비스 및 컨설팅
+201,1773,YTL Corporation Bhd,59104010,복합 유틸리티
+202,1803,Shimizu Corp,52201020,건설 및 엔지니어링
+203,6370,Kurita Water Industries Ltd,52203010,환경 서비스 및 장비
+204,7453,Ryohin Keikaku Co Ltd,53402010,백화점
+205,4062,Ibiden Co Ltd,57101010,반도체
+206,8439,Tokyo Century Corp,55101050,기업 금융 서비스
+207,2670,ABC-Mart Inc,53403040,의류 및 액세서리 소매
+208,3405,Kuraray Co Ltd,51101010,상품 화학
+209,5332,TOTO Ltd,53203020,건설 자재 및 비품
+210,9009,Keisei Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+211,6465,Hoshizaki Corp,52102010,산업용 기계 및 장비
+212,6305,Hitachi Construction Machinery Co Ltd,52102020,중장비 및 차량
+213,8354,Fukuoka Financial Group Inc,55101010,은행
+214,4816,Toei Animation Co Ltd,53302030,엔터테인먼트 제작
+215,6967,Shinko Electric Industries Co Ltd,57101010,반도체
+216,6845,Azbil Corp,52102030,전기 부품 및 장비
+217,4021,Nissan Chemical Corp,51101090,다각적 화학 산업
+218,6448,Brother Industries Ltd,57105010,사무기기
+219,5844,Kyoto Financial Group Inc,55101010,은행
+220,9962,Misumi Group Inc,52102010,산업용 기계 및 장비
+221,2768,Sojitz Corp,52202010,다각적 산업용 제품 도매
+222,4183,Mitsui Chemicals Inc,51101010,상품 화학
+223,4004,Resonac Holdings Corp,51101010,상품 화학
+224,3231,Nomura Real Estate Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+225,3283,Nippon Prologis REIT Inc,60102020,상업용 REITs
+226,6525,Kokusai Electric Corp,57101020,반도체 장비 및 테스트
+227,3288,Open House Group Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+228,3289,Tokyu Fudosan Holdings Corp,60101010,"부동산 임대, 개발 및 운영"
+229,7731,Nikon Corp,57106030,가정용 전자 제품
+230,7211,Mitsubishi Motors Corp,53101010,자동차 및 트럭 제조
+231,9684,Square Enix Holdings Co Ltd,57201030,온라인 서비스
+232,6460,Sega Sammy Holdings Inc,53302030,엔터테인먼트 제작
+233,3769,GMO Payment Gateway Inc,52203040,경영 지원 서비스
+234,4732,USS Co Ltd,57201030,온라인 서비스
+235,7747,Asahi Intecc Co Ltd,56101020,"의료 장비, 물품 및 유통"
+236,6806,Hirose Electric Co Ltd,57104010,전자 장비 및 부품
+237,4042,Tosoh Corp,51101090,다각적 화학 산업
+238,5406,Kobe Steel Ltd,51201020,철 및 강철
+239,6965,Hamamatsu Photonics KK,57101010,반도체
+240,9041,Kintetsu Group Holdings Co Ltd,52406020,지상 및 해상 여객 운송
+241,8953,Japan Metropolitan Fund Investment Corp,60102020,상업용 REITs
+242,7167,Mebuki Financial Group Inc,55101010,은행
+243,3462,Nomura Real Estate Master Fund Inc,60102010,복합부동산 REITs
+244,9506,Tohoku Electric Power Co Inc,59101010,전력 유틸리티
+245,4005,Sumitomo Chemical Co Ltd,51101090,다각적 화학 산업
+246,8253,Credit Saison Co Ltd,55101030,소비자 대출
+247,9401,TBS Holdings Inc,53302020,방송
+248,9147,Nippon Express Holdings Inc,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+249,5021,Cosmo Energy Holdings Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+250,2212,Yamazaki Baking Co Ltd,54102020,식품 가공
+251,5333,NGK Insulators Ltd,52102010,산업용 기계 및 장비
+252,7261,Mazda Motor Corp,53101010,자동차 및 트럭 제조
+253,3281,GLP J-REIT,60102020,상업용 REITs
+254,5838,Rakuten Bank Ltd,55101010,은행
+255,9142,Kyushu Railway Co,52406020,지상 및 해상 여객 운송
+256,6963,Rohm Co Ltd,57101010,반도체
+257,1944,Kinden Corp,52201020,건설 및 엔지니어링
+258,4536,Santen Pharmaceutical Co Ltd,56201040,제약
+259,9749,Fuji Soft Inc,57201010,IT 서비스 및 컨설팅
+260,3291,Iida Group Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+261,7951,Yamaha Corp,53205020,오락용 제품
+262,9007,Odakyu Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+263,9404,Nippon Television Holdings Inc,53302020,방송
+264,7276,Koito Manufacturing Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+265,8972,KDX Realty Investment Corp,60102010,복합부동산 REITs
+266,4403,NOF Corp,51101010,상품 화학
+267,5344,MARUWA Co Ltd,57104010,전자 장비 및 부품
+268,2181,Persol Holdings Co Ltd,52203030,고용 서비스
+269,4182,Mitsubishi Gas Chemical Co Inc,51101010,상품 화학
+270,9064,Yamato Holdings Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+271,8227,Shimamura Co Ltd,53403040,의류 및 액세서리 소매
+272,8572,Acom Co Ltd,55101030,소비자 대출
+273,3349,Cosmos Pharmaceutical Corp,54301010,의약품 소매
+274,2501,Sapporo Holdings Ltd,54101010,양조업
+275,6753,Sharp Corp,57106030,가정용 전자 제품
+276,2331,Sohgo Security Services Co Ltd,52203040,경영 지원 서비스
+277,3774,Internet Initiative Japan Inc,57401010,통합 통신 서비스
+278,3861,Oji Holdings Corp,51301020,종이 제품
+279,8804,Tokyo Tatemono Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+280,2871,Nichirei Corp,54102020,식품 가공
+281,1808,Haseko Corp,53203010,주택 건설
+282,6417,Sankyo Co Ltd,53301030,카지노 및 도박
+283,2002,Nisshin Seifun Group Inc,54102020,식품 가공
+284,3635,Koei Tecmo Holdings Co Ltd,57201030,온라인 서비스
+285,4733,Obic Business Consultants Co Ltd,57201020,소프트웨어
+286,7459,Medipal Holdings Corp,56201040,제약
+287,3197,Skylark Holdings Co Ltd,53301020,레스토랑 및 바
+288,8984,Daiwa House REIT Investment Corp,60102010,복합부동산 REITs
+289,5101,Yokohama Rubber Co Ltd,53101030,타이어 및 고무 제품
+290,9008,Keio Corp,52406020,지상 및 해상 여객 운송
+291,9001,Tobu Railway Co Ltd,52406020,지상 및 해상 여객 운송
+292,4751,CyberAgent Inc,53302010,광고 및 마케팅
+293,8060,Canon Marketing Japan Inc,57105010,사무기기
+294,6113,Amada Co Ltd,52102010,산업용 기계 및 장비
+295,9706,Japan Airport Terminal Co Ltd,52407010,공항 운영 및 서비스
+296,2371,Kakaku.com Inc,57201030,온라인 서비스
+297,5444,Yamato Kogyo Co Ltd,51201020,철 및 강철
+298,5830,Iyogin Holdings Inc,55101010,은행
+299,3436,Sumco Corp,57101010,반도체
+300,2809,Kewpie Corp,54102020,식품 가공
+301,2282,NH Foods Ltd,54102020,식품 가공
+302,8252,Marui Group Co Ltd,55101030,소비자 대출
+303,5938,LIXIL Corp,53203020,건설 자재 및 비품
+304,4912,Lion Corp,54201010,가정용 제품
+305,7649,Sugi Holdings Co Ltd,54301010,의약품 소매
+306,1973,NEC Networks & System Integration Corp,57201010,IT 서비스 및 컨설팅
+307,9513,Electric Power Development Co Ltd,59101010,전력 유틸리티
+308,5947,Rinnai Corp,53204030,"가전제품, 도구 및 가정 용품"
+309,8359,Hachijuni Bank Ltd,55101010,은행
+310,8963,Invincible Investment Corp,60102010,복합부동산 REITs
+311,2433,Hakuhodo DY Holdings Inc,53302010,광고 및 마케팅
+312,2579,Coca-Cola Bottlers Japan Holdings Inc,54101030,무알콜 음료
+313,4186,Tokyo Ohka Kogyo Co Ltd,51101030,특수 화학제
+314,4922,Kose Corp,54201020,개인 생활 필수 용품
+315,8056,Biprogy Inc,57201010,IT 서비스 및 컨설팅
+316,8088,Iwatani Corp,50102030,"오일, 가스 정제 및 마케팅"
+317,5991,NHK Spring Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+318,8905,Aeon Mall Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+319,3086,J.Front Retailing Co Ltd,53402010,백화점
+320,6526,Socionext Inc,57101010,반도체
+321,4980,Dexerials Corp,57104010,전자 장비 및 부품
+322,6005,Miura Co Ltd,52102010,산업용 기계 및 장비
+323,5110,Sumitomo Rubber Industries Ltd,53101030,타이어 및 고무 제품
+324,2784,Alfresa Holdings Corp,56101020,"의료 장비, 물품 및 유통"
+325,9076,Seino Holdings Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+326,6406,Fujitec Co Ltd,52102040,중전기장비
+327,8954,Orix JREIT Inc,60102020,상업용 REITs
+328,9989,Sundrug Co Ltd,54301010,의약품 소매
+329,1942,Kandenko Co Ltd,52201020,건설 및 엔지니어링
+330,9831,Yamada Holdings Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+331,4088,Air Water Inc,51101010,상품 화학
+332,6923,Stanley Electric Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+333,3269,Advance Residence Investment Corp,60102030,주거용 REITs
+334,5631,Japan Steel Works Ltd,52102010,산업용 기계 및 장비
+335,2229,Calbee Inc,54102020,식품 가공
+336,8960,United Urban Investment Corp,60102010,복합부동산 REITs
+337,7163,SBI Sumishin Net Bank Ltd,55101010,은행
+338,9468,Kadokawa Corp,53302040,소비자 출판
+339,9504,Chugoku Electric Power Co Inc,59101010,전력 유틸리티
+340,1721,Comsys Holdings Corp,52201020,건설 및 엔지니어링
+341,3391,Tsuruha Holdings Inc,54301010,의약품 소매
+342,4967,Kobayashi Pharmaceutical Co Ltd,54201020,개인 생활 필수 용품
+343,8111,Goldwin Inc,53202020,의류 및 액세서리
+344,6368,Organo Corp,52203010,환경 서비스 및 장비
+345,4613,Kansai Paint Co Ltd,51101010,상품 화학
+346,7867,Tomy Co Ltd,53205010,장난감 및 어린이 제품
+347,5233,Taiheiyo Cement Corp,51202010,건설 자재
+348,5393,Nichias Corp,52201020,건설 및 엔지니어링
+349,9301,Mitsubishi Logistics Corp,52407020,항만 운영 및 서비스
+350,6302,Sumitomo Heavy Industries Ltd,52102010,산업용 기계 및 장비
+351,8334,Gunma Bank Ltd,55101010,은행
+352,6856,Horiba Ltd,52102010,산업용 기계 및 장비
+353,3141,Welcia Holdings Co Ltd,54301010,의약품 소매
+354,8233,Takashimaya Co Ltd,53402010,백화점
+355,9533,Toho Gas Co Ltd,59102010,천연가스 유틸리티
+356,1959,Kyudenko Corp,52201020,건설 및 엔지니어링
+357,6323,Rorze Corp,57101020,반도체 장비 및 테스트
+358,5901,Toyo Seikan Group Holdings Ltd,51302010,용기(종이 제외) 및 포장재
+359,4676,Fuji Media Holdings Inc,53302020,방송
+360,1969,Takasago Thermal Engineering Co Ltd,52201020,건설 및 엔지니어링
+361,7240,NOK Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+362,4203,Sumitomo Bakelite Co Ltd,51101010,상품 화학
+363,5801,Furukawa Electric Co Ltd,52102030,전기 부품 및 장비
+364,6141,DMG Mori Co Ltd,52102010,산업용 기계 및 장비
+365,8410,Seven Bank Ltd,55101010,은행
+366,9045,Keihan Holdings Co Ltd,52406020,지상 및 해상 여객 운송
+367,9605,Toei Co Ltd,53302030,엔터테인먼트 제작
+368,6849,Nihon Kohden Corp,56101010,첨단 의료 장비 및 기술
+369,4202,Daicel Corp,51101010,상품 화학
+370,8012,Nagase & Co Ltd,51101010,상품 화학
+371,8279,Yaoko Co Ltd,54301020,식품 소매 및 유통
+372,9987,Suzuken Co Ltd,56201040,제약
+373,3923,Rakus Co Ltd,57201020,소프트웨어
+374,7164,Zenkoku Hosho Co Ltd,55101030,소비자 대출
+375,4540,Tsumura & Co,56201040,제약
+376,4530,Hisamitsu Pharmaceutical Co Inc,56201040,제약
+377,6473,JTEKT Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+378,3116,Toyota Boshoku Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+379,8304,Aozora Bank Ltd,55101010,은행
+380,7988,Nifco Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+381,8418,Yamaguchi Financial Group Inc,55101010,은행
+382,4587,PeptiDream Inc,56202010,생명 공학 및 의학 연구
+383,7518,Net One Systems Co Ltd,57201010,IT 서비스 및 컨설팅
+384,3563,Food & Life Companies Ltd,53301020,레스토랑 및 바
+385,4921,Fancl Corp,54201020,개인 생활 필수 용품
+386,1963,JGC Holdings Corp,52201020,건설 및 엔지니어링
+387,6728,Ulvac Inc,57101020,반도체 장비 및 테스트
+388,7180,Kyushu Financial Group Inc,55101010,은행
+389,7337,Hirogin Holdings Inc,55101010,은행
+390,7729,Tokyo Seimitsu Co Ltd,57101020,반도체 장비 및 테스트
+391,3397,TORIDOLL Holdings Corp,53301020,레스토랑 및 바
+392,4812,Dentsu Soken Inc,57201010,IT 서비스 및 컨설팅
+393,6770,Alps Alpine Co Ltd,57104010,전자 장비 및 부품
+394,8985,Japan Hotel Reit Investment Corp,60102040,특수 REITs
+395,9364,Kamigumi Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+396,9048,Nagoya Railroad Co Ltd,52406020,지상 및 해상 여객 운송
+397,4902,Konica Minolta Inc,57105010,사무기기
+398,3549,Kusuri No Aoki Holdings Co Ltd,54301010,의약품 소매
+399,141A,Trial Holdings Inc,53402020,할인점
+400,2222,Kotobuki Spirits Co Ltd,54102020,식품 가공
+401,6481,THK Co Ltd,52102010,산업용 기계 및 장비
+402,8424,Fuyo General Lease Co Ltd,55101050,기업 금융 서비스
+403,9006,Keikyu Corp,52406020,지상 및 해상 여객 운송
+404,6471,NSK Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+405,1951,EXEO Group Inc,52201020,건설 및 엔지니어링
+406,8341,77 Bank Ltd,55101010,은행
+407,7984,Kokuyo Co Ltd,52203060,비즈니스 지원 용품
+408,8955,Japan Prime Realty Investment Corp,60102020,상업용 REITs
+409,6436,Amano Corp,57105010,사무기기
+410,4205,Zeon Corp,51101010,상품 화학
+411,5214,Nippon Electric Glass Co Ltd,57104010,전자 장비 및 부품
+412,8129,Toho Holdings Co Ltd,56201040,제약
+413,8114,Descente Ltd,53202020,의류 및 액세서리
+414,4927,Pola Orbis Holdings Inc,54201020,개인 생활 필수 용품
+415,5105,Toyo Tire Corp,53101030,타이어 및 고무 제품
+416,7282,Toyoda Gosei Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+417,4194,Visional Inc,52203030,고용 서비스
+418,5714,DOWA Holdings Co Ltd,51201050,특수 채굴 및 금속
+419,5711,Mitsubishi Materials Corp,51201080,다각적 채굴
+420,3132,Macnica Holdings Inc,57101010,반도체
+421,7564,Workman Co Ltd,53403040,의류 및 액세서리 소매
+422,4666,Park24 Co Ltd,52407030,고속도로 및 철도
+423,3309,Sekisui House Reit Inc,60102010,복합부동산 REITs
+424,3471,Mitsui Fudosan Logistics Park Inc,60102020,상업용 REITs
+425,3048,Bic Camera Inc,53403050,컴퓨터 및 전자 제품 소매
+426,5076,Infroneer Holdings Inc,52201020,건설 및 엔지니어링
+427,4631,DIC Corp,51101030,특수 화학제
+428,6028,TechnoPro Holdings Inc,52203030,고용 서비스
+429,9065,Sankyu Inc,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+430,6976,Taiyo Yuden Co Ltd,57104010,전자 장비 및 부품
+431,4680,Round One Corp,53301040,여가 및 오락시설
+432,9336,Daiei Kankyo Co Ltd,52203010,환경 서비스 및 장비
+433,4681,Resorttrust Inc,53301010,"호텔, 모텔 및 크루즈 라인"
+434,3107,Daiwabo Holdings Co Ltd,57106010,컴퓨터 하드웨어
+435,6951,JEOL Ltd,57105010,사무기기
+436,4385,Mercari Inc,57201030,온라인 서비스
+437,6592,Mabuchi Motor Co Ltd,52102030,전기 부품 및 장비
+438,1860,Toda Corp,52201020,건설 및 엔지니어링
+439,3226,Nippon Accommodations Fund Inc,60102030,주거용 REITs
+440,1332,Nissui Corp,54102020,식품 가공
+441,9759,NSD Co Ltd,57201010,IT 서비스 및 컨설팅
+442,3697,SHIFT Inc,57201010,IT 서비스 및 컨설팅
+443,5832,Chugin Financial Group Inc,55101010,은행
+444,9418,U-Next Holdings Co Ltd,57201030,온라인 서비스
+445,9449,GMO Internet Group Inc,57201030,온라인 서비스
+446,4483,JMDC Inc,52203040,경영 지원 서비스
+447,7581,Saizeriya Co Ltd,53301020,레스토랑 및 바
+448,8976,Daiwa Office Investment Corp,60102020,상업용 REITs
+449,8425,Mizuho Leasing Co Ltd,55101050,기업 금융 서비스
+450,1414,Sho-Bond Holdings Co Ltd,52201020,건설 및 엔지니어링
+451,2206,Ezaki Glico Co Ltd,54102020,식품 가공
+452,4114,Nippon Shokubai Co Ltd,51101010,상품 화학
+453,6268,Nabtesco Corp,52102010,산업용 기계 및 장비
+454,3865,Hokuetsu Corp,51301020,종이 제품
+455,3249,Industrial & Infrastructure Fund Investment Corp,60102020,상업용 REITs
+456,4401,Adeka Corp,51101010,상품 화학
+457,2593,Ito En Ltd,54101030,무알콜 음료
+458,4443,Sansan Inc,57201010,IT 서비스 및 컨설팅
+459,6960,Fukuda Denshi Co Ltd,56101010,첨단 의료 장비 및 기술
+460,2811,Kagome Co Ltd,54102020,식품 가공
+461,9044,Nankai Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+462,1662,Japan Petroleum Exploration Co Ltd,50102020,"오일, 가스 탐사 및 생산"
+463,9507,Shikoku Electric Power Co Inc,59101010,전력 유틸리티
+464,2726,PAL Group Holdings Co Ltd,53403040,의류 및 액세서리 소매
+465,2810,House Foods Group Inc,54102020,식품 가공
+466,4516,Nippon Shinyaku Co Ltd,56201040,제약
+467,5706,Mitsui Mining and Smelting Co Ltd,51201050,특수 채굴 및 금속
+468,3765,GungHo Online Entertainment Inc,57201030,온라인 서비스
+469,2264,Morinaga Milk Industry Co Ltd,54102020,식품 가공
+470,3401,Teijin Ltd,53202010,직물 및 가죽제품
+471,7189,Nishi-Nippon Financial Holdings Inc,55101010,은행
+472,3994,Money Forward Inc,57201020,소프트웨어
+473,6674,GS Yuasa Corp,52102030,전기 부품 및 장비
+474,5463,Maruichi Steel Tube Ltd,51201020,철 및 강철
+475,3466,LaSalle Logiport REIT,60102020,상업용 REITs
+476,3292,Aeon Reit Investment Corp,60102020,상업용 REITs
+477,2607,Fuji Oil Holdings Inc,54102020,식품 가공
+478,8570,Aeon Financial Service Co Ltd,55101030,소비자 대출
+479,8876,Relo Group Inc,60101020,부동산 서비스
+480,2432,DeNA Co Ltd,57201020,소프트웨어
+481,8283,PALTAC Corp,54201020,개인 생활 필수 용품
+482,268A,Rigaku Holdings Corp,52102030,전기 부품 및 장비
+483,4887,Sawai Group Holdings Co Ltd,56201040,제약
+484,8282,K'S Holdings Corp,53403050,컴퓨터 및 전자 제품 소매
+485,6544,Japan Elevator Service Holdings Co Ltd,52203040,경영 지원 서비스
+486,8242,H2O Retailing Corp,53402010,백화점
+487,6324,Harmonic Drive Systems Inc,52102010,산업용 기계 및 장비
+488,5471,Daido Steel Co Ltd,51201020,철 및 강철
+489,3279,Activia Properties Inc,60102020,상업용 REITs
+490,6952,Casio Computer Co Ltd,57106030,가정용 전자 제품
+491,3591,Wacoal Holdings Corp,53202020,의류 및 액세서리
+492,8967,Japan Logistics Fund Inc,60102020,상업용 REITs
+493,9412,SKY Perfect JSAT Holdings Inc,57401020,무선 통신 서비스
+494,2201,Morinaga & Co Ltd,54102020,식품 가공
+495,3387,Create Restaurants Holdings Inc,53301020,레스토랑 및 바
+496,7327,Daishi Hokuetsu Financial Group Inc,55101010,은행
+497,3110,Nitto Boseki Co Ltd,53203020,건설 자재 및 비품
+498,7148,Financial Partners Group Co Ltd,55102020,투자 관리 및 펀드 운영
+499,4208,UBE Corp,51101090,다각적 화학 산업
+500,9003,Sotetsu Holdings Inc,52406020,지상 및 해상 여객 운송
+501,7716,Nakanishi Inc,56101020,"의료 장비, 물품 및 유통"
+502,7966,Lintec Corp,51101030,특수 화학제
+503,5741,UACJ Corp,51201030,알루미늄
+504,6432,Takeuchi Mfg Co Ltd,52102020,중장비 및 차량
+505,4118,Kaneka Corp,51101010,상품 화학
+506,4626,Taiyo Holdings Co Ltd,51101030,특수 화학제
+507,3234,Mori Hills Reit Investment Corp,60102020,상업용 REITs
+508,3941,Rengo Co Ltd,51302020,종이 포장재
+509,9072,Nikkon Holdings Co Ltd,52405030,지상 화물 및 물류
+510,6632,JVCKENWOOD Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+511,6269,Modec Inc,50103020,오일 관련 서비스 및 장비
+512,2531,Takara Holdings Inc,54101020,증류주 및 포도주
+513,4506,Sumitomo Pharma Co Ltd,56201040,제약
+514,7419,Nojima Corp,53403050,컴퓨터 및 전자 제품 소매
+515,8086,Nipro Corp,56101020,"의료 장비, 물품 및 유통"
+516,6925,Ushio Inc,52102030,전기 부품 및 장비
+517,9166,Genda Inc,53301040,여가 및 오락시설
+518,8174,Nippon Gas Co Ltd,59102010,천연가스 유틸리티
+519,7313,TS Tech Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+520,7476,As One Corp,56101020,"의료 장비, 물품 및 유통"
+521,9069,Senko Group Holdings Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+522,9744,MEITEC Group Holdings Inc,52203030,고용 서비스
+523,4206,Aica Kogyo Co Ltd,51101030,특수 화학제
+524,2127,Nihon M&A Center Holdings Inc,52203040,경영 지원 서비스
+525,8273,Izumi Co Ltd,53402010,백화점
+526,3282,Comforia Residential Reit Inc,60102030,주거용 REITs
+527,7947,FP Corp,51302010,용기(종이 제외) 및 포장재
+528,7762,Citizen Watch Co Ltd,53202020,의류 및 액세서리
+529,6134,Fuji Corp (Aichi),52102010,산업용 기계 및 장비
+530,8020,Kanematsu Corp,52202010,다각적 산업용 제품 도매
+531,2427,Outsourcing Inc,52203030,고용 서비스
+532,8986,Daiwa Securities Living Investment Corp,60102030,주거용 REITs
+533,3360,Ship Healthcare Holdings Inc,56101020,"의료 장비, 물품 및 유통"
+534,8961,Mori Trust Reit Inc,60102010,복합부동산 REITs
+535,1820,Nishimatsu Construction Co Ltd,52201020,건설 및 엔지니어링
+536,8377,Hokuhoku Financial Group Inc,55101010,은행
+537,8628,Matsui Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+538,4686,Justsystems Corp,57201020,소프트웨어
+539,8022,Mizuno Corp,53205020,오락용 제품
+540,3778,Sakura Internet Inc,57201030,온라인 서비스
+541,8698,Monex Group Inc,55102010,투자 은행 및 중개 서비스
+542,6787,Meiko Electronics Co Ltd,57101010,반도체
+543,8964,Frontier Real Estate Investment Corp,60102020,상업용 REITs
+544,4966,C.Uyemura & Co Ltd,51101010,상품 화학
+545,9934,Inaba Denki Sangyo Co Ltd,52102030,전기 부품 및 장비
+546,9409,TV Asahi Holdings Corp,53302020,방송
+547,2296,Itoham Yonekyu Holdings Inc,54102020,식품 가공
+548,5301,Tokai Carbon Co Ltd,51101010,상품 화학
+549,9936,Ohsho Food Service Corp,53301020,레스토랑 및 바
+550,9303,Sumitomo Warehouse Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+551,9787,Aeon Delight Co Ltd,52203040,경영 지원 서비스
+552,7205,Hino Motors Ltd,53101010,자동차 및 트럭 제조
+553,4046,Osaka Soda Co Ltd,51101010,상품 화학
+554,2782,Seria Co Ltd,53402020,할인점
+555,9505,Hokuriku Electric Power Co,59101010,전력 유틸리티
+556,6755,Fujitsu General Ltd,52102030,전기 부품 및 장비
+557,6371,Tsubakimoto Chain Co,52102010,산업용 기계 및 장비
+558,9861,Yoshinoya Holdings Co Ltd,53301020,레스토랑 및 바
+559,6103,Okuma Corp,52102010,산업용 기계 및 장비
+560,8358,Suruga Bank Ltd,55101010,은행
+561,6412,Heiwa Corp,53301040,여가 및 오락시설
+562,7846,Pilot Corp,52203060,비즈니스 지원 용품
+563,1719,Hazama Ando Corp,52201020,건설 및 엔지니어링
+564,6588,Toshiba Tec Corp,57105010,사무기기
+565,1417,Mirait One Corp,52201020,건설 및 엔지니어링
+566,8078,Hanwa Co Ltd,51201020,철 및 강철
+567,7451,Mitsubishi Shokuhin Co Ltd,54301020,식품 소매 및 유통
+568,9746,TKC Corp,52203040,경영 지원 서비스
+569,9509,Hokkaido Electric Power Co Inc,59101010,전력 유틸리티
+570,3050,DCM Holdings Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+571,9436,Okinawa Cellular Telephone Co,57401020,무선 통신 서비스
+572,9055,Alps Logistics Co Ltd,52405030,지상 화물 및 물류
+573,7458,Daiichikosho Co Ltd,53302030,엔터테인먼트 제작
+574,4272,Nippon Kayaku Co Ltd,51101090,다각적 화학 산업
+575,1941,Chudenko Corp,52201020,건설 및 엔지니어링
+576,7994,Okamura Corp,52203060,비즈니스 지원 용품
+577,8850,Starts Corp Inc,60101020,부동산 서비스
+578,9616,Kyoritsu Maintenance Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+579,94346,Softbank P-2 Prf Shs,57401020,무선 통신 서비스
+580,4722,Future Corp,57201010,IT 서비스 및 컨설팅
+581,2730,EDION Corp,53403050,컴퓨터 및 전자 제품 소매
+582,6995,Tokai Rika Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+583,5384,Fujimi Inc,51101030,특수 화학제
+584,6807,Japan Aviation Electronics Industry Ltd,57104010,전자 장비 및 부품
+585,9793,Daiseki Co Ltd,52203010,환경 서비스 및 장비
+586,2121,MIXI Inc,57201030,온라인 서비스
+587,3148,Create SD Holdings Co Ltd,54301010,의약품 소매
+588,8381,San-in Godo Bank Ltd,55101010,은행
+589,4043,Tokuyama Corp,51101010,상품 화학
+590,7730,MANI Inc,56101020,"의료 장비, 물품 및 유통"
+591,7278,Exedy Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+592,6736,Sun Corp,57102010,통신 및 네트워킹
+593,4665,Duskin Co Ltd,54201030,개인 서비스
+594,8133,Itochu Enex Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+595,7734,Riken Keiki Co Ltd,52102010,산업용 기계 및 장비
+596,8366,Shiga Bank Ltd,55101010,은행
+597,6055,Japan Material Co Ltd,57101020,반도체 장비 및 테스트
+598,8848,Leopalace21 Corp,60101010,"부동산 임대, 개발 및 운영"
+599,4634,artience Co Ltd,51101030,특수 화학제
+600,7740,Tamron Co Ltd,57106030,가정용 전자 제품
+601,7906,Yonex Co Ltd,53205020,오락용 제품
+602,9302,Mitsui Soko Holdings Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+603,6507,Sinfonia Technology Co Ltd,52102040,중전기장비
+604,6508,Meidensha Corp,52102040,중전기장비
+605,3295,Hulic Reit Inc,60102020,상업용 REITs
+606,8098,Inabata & Co Ltd,51101010,상품 화학
+607,4521,Kaken Pharmaceutical Co Ltd,56201040,제약
+608,6622,Daihen Corp,52102040,중전기장비
+609,2678,Askul Corp,57201030,온라인 서비스
+610,6744,Nohmi Bosai Ltd,52203060,비즈니스 지원 용품
+611,5805,SWCC Corp,52102030,전기 부품 및 장비
+612,6407,CKD Corp,52102010,산업용 기계 및 장비
+613,4061,Denka Co Ltd,51101010,상품 화학
+614,7616,Colowide Co Ltd,53301020,레스토랑 및 바
+615,8511,Japan Securities Finance Co Ltd,55101050,기업 금융 서비스
+616,2659,San-A Co Ltd,54301020,식품 소매 및 유통
+617,4045,Toagosei Co Ltd,51101010,상품 화학
+618,4547,Kissei Pharmaceutical Co Ltd,56201040,제약
+619,1949,Sumitomo Densetsu Co Ltd,52201020,건설 및 엔지니어링
+620,2270,Megmilk Snow Brand Co Ltd,54102020,식품 가공
+621,2815,Ariake Japan Co Ltd,54102020,식품 가공
+622,3481,Mitsubishi Estate Logistics REIT Investment Corp,60102020,상업용 REITs
+623,6136,OSG Corp,52102010,산업용 기계 및 장비
+624,9682,DTS Corp,57201010,IT 서비스 및 컨설팅
+625,2337,Ichigo Inc,60101010,"부동산 임대, 개발 및 운영"
+626,8278,Fuji Co Ltd,54301020,식품 소매 및 유통
+627,8218,Komeri Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+628,4478,freee KK,57201020,소프트웨어
+629,1893,Penta-Ocean Construction Co Ltd,52201020,건설 및 엔지니어링
+630,7956,Pigeon Corp,54201020,개인 생활 필수 용품
+631,9031,Nishi-Nippon Railroad Co Ltd,52406020,지상 및 해상 여객 운송
+632,2154,Open Up Group Inc,52203030,고용 서비스
+633,4180,Appier Group Inc,57201010,IT 서비스 및 컨설팅
+634,2685,Adastria Co Ltd,53403040,의류 및 액세서리 소매
+635,2001,Nippn Corp,54102020,식품 가공
+636,9627,AIN Holdings Inc,54301010,의약품 소매
+637,7732,Topcon Corp,52102010,산업용 기계 및 장비
+638,8890,Raysum Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+639,5191,Sumitomo Riko Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+640,8524,North Pacific Bank Ltd,55101010,은행
+641,2602,Nisshin OilliO Group Ltd,54102020,식품 가공
+642,3569,Seiren Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+643,4928,Noevir Holdings Co Ltd,54201020,개인 생활 필수 용품
+644,4095,Nihon Parkerizing Co Ltd,51101010,상품 화학
+645,6135,Makino Milling Machine Co Ltd,52102010,산업용 기계 및 장비
+646,187A,Samty Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+647,1833,Okumura Corp,52201020,건설 및 엔지니어링
+648,7380,Juroku Financial Group Inc,55101010,은행
+649,8130,Sangetsu Corp,53204040,가정용 가구
+650,8066,Mitani Corp,51202010,건설 자재
+651,5451,Yodogawa Steel Works Ltd,51201020,철 및 강철
+652,5423,Tokyo Steel Manufacturing Co Ltd,51201020,철 및 강철
+653,1979,Taikisha Ltd,52201020,건설 및 엔지니어링
+654,8919,Katitas Co Ltd,60101020,부동산 서비스
+655,8194,Life Corp,54301020,식품 소매 및 유통
+656,7630,Ichibanya Co Ltd,53301020,레스토랑 및 바
+657,2695,Kura Sushi Inc,53301020,레스토랑 및 바
+658,4819,Digital Garage Inc,57201010,IT 서비스 및 컨설팅
+659,7004,Kanadevia Corp,52102010,산업용 기계 및 장비
+660,1980,Dai-Dan Co Ltd,52201020,건설 및 엔지니어링
+661,7976,Mitsubishi Pencil Co Ltd,52203060,비즈니스 지원 용품
+662,8803,Heiwa Real Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+663,6454,Max Co Ltd,52102010,산업용 기계 및 장비
+664,5273,Mitani Sekisan Co Ltd,51202010,건설 자재
+665,8956,NTT UD REIT Investment Corp,60102010,복합부동산 REITs
+666,7157,Lifenet Insurance Co,55301030,생명 및 건강 보험
+667,8566,Ricoh Leasing Co Ltd,55101050,기업 금융 서비스
+668,1377,Sakata Seed Corp,54102010,어업 및 농업
+669,8050,Seiko Group Corp,53202020,의류 및 액세서리
+670,6754,Anritsu Corp,57104010,전자 장비 및 부품
+671,4553,Towa Pharmaceutical Co Ltd,56201040,제약
+672,2379,dip Corp,52203030,고용 서비스
+673,4023,Kureha Corp,51101010,상품 화학
+674,6966,Mitsui High-tec Inc,57101010,반도체
+675,7817,Paramount Bed Holdings Co Ltd,56101020,"의료 장비, 물품 및 유통"
+676,8154,Kaga Electronics Co Ltd,57104010,전자 장비 및 부품
+677,8987,Japan Excellent Inc,60102020,상업용 REITs
+678,2791,Daikokutenbussan Co Ltd,54301020,식품 소매 및 유통
+679,7545,Nishimatsuya Chain Co Ltd,53403040,의류 및 액세서리 소매
+680,3105,Nisshinbo Holdings Inc,54401010,소비재 대기업
+681,3046,Jins Holdings Inc,53403090,기타 전문 소매
+682,9601,Shochiku Co Ltd,53302030,엔터테인먼트 제작
+683,8368,Hyakugo Bank Ltd,55101010,은행
+684,8421,Shinkin Central Bank Pref Shs,55101010,은행
+685,1861,Kumagai Gumi Co Ltd,52201020,건설 및 엔지니어링
+686,7864,Fuji Seal International Inc,51302010,용기(종이 제외) 및 포장재
+687,9715,transcosmos Inc,52203040,경영 지원 서비스
+688,8515,Aiful Corp,55101030,소비자 대출
+689,6457,Glory Ltd,52102010,산업용 기계 및 장비
+690,9075,Fukuyama Transporting Co Ltd,52405030,지상 화물 및 물류
+691,2160,GNI Group Ltd,56202010,생명 공학 및 의학 연구
+692,7220,Musashi Seimitsu Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+693,8957,Tokyu REIT Inc,60102010,복합부동산 REITs
+694,4373,Simplex Holdings Inc,57201010,IT 서비스 및 컨설팅
+695,9830,Trusco Nakayama Corp,52102010,산업용 기계 및 장비
+696,3738,T-Gaia Corp,53403050,컴퓨터 및 전자 제품 소매
+697,2317,Systena Corp,57201010,IT 서비스 및 컨설팅
+698,7296,F.C.C. Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+699,5857,ARE Holdings Inc,52203010,환경 서비스 및 장비
+700,6871,Micronics Japan Co Ltd,57101020,반도체 장비 및 테스트
+701,9025,Konoike Transport Co Ltd,52405030,지상 화물 및 물류
+702,2175,SMS Co Ltd,52203030,고용 서비스
+703,9090,AZ-Com Maruwa Holdings Inc,52405030,지상 화물 및 물류
+704,1333,Maruha Nichiro Corp,54102010,어업 및 농업
+705,4544,H.U. Group Holdings Inc,56102010,의료 시설 및 서비스
+706,9869,Kato Sangyo Co Ltd,54301020,식품 소매 및 유통
+707,9603,HIS Co Ltd,53301040,여가 및 오락시설
+708,6590,Shibaura Mechatronics Corp,57101020,반도체 장비 및 테스트
+709,8966,Heiwa Real Estate REIT Inc,60102010,복합부동산 REITs
+710,6707,Sanken Electric Co Ltd,57101010,반도체
+711,6670,MCJ Co Ltd,57106010,컴퓨터 하드웨어
+712,8585,Orient Corp,55101030,소비자 대출
+713,9948,Arcs Co Ltd,54301020,식품 소매 및 유통
+714,7744,Noritsu Koki Co Ltd,53205020,오락용 제품
+715,8609,Okasan Securities Group Inc,55102010,투자 은행 및 중개 서비스
+716,4628,SK Kaken Co Ltd,51101010,상품 화학
+717,167A,Ryoyo Ryosan Holdings Inc,57101010,반도체
+718,6804,Hosiden Corp,57104010,전자 장비 및 부품
+719,7071,Amvis Holdings Inc,56102010,의료 시설 및 서비스
+720,1961,Sanki Engineering Co Ltd,52201020,건설 및 엔지니어링
+721,4617,Chugoku Marine Paints Ltd,51101010,상품 화학
+722,3296,Nippon REIT Investment Corp,60102010,복합부동산 REITs
+723,1766,Token Corp,53203010,주택 건설
+724,3880,Daio Paper Corp,51301020,종이 제품
+725,4958,T.Hasegawa Co Ltd,51101010,상품 화학
+726,4041,Nippon Soda Co Ltd,51101090,다각적 화학 산업
+727,6315,Towa Corp,57101020,반도체 장비 및 테스트
+728,3498,Kasumigaseki Capital Co Ltd,60101020,부동산 서비스
+729,6395,Tadano Ltd,52102020,중장비 및 차량
+730,9974,Belc Co Ltd,54301020,식품 소매 및 유통
+731,6013,Takuma Co Ltd,52203010,환경 서비스 및 장비
+732,5253,Cover Corp,53302030,엔터테인먼트 제작
+733,7970,Shin-Etsu Polymer Co Ltd,51101010,상품 화학
+734,3254,Pressance Corp,60101010,"부동산 임대, 개발 및 운영"
+735,9010,Fuji Kyuko Co Ltd,53301040,여가 및 오락시설
+736,5032,Anycolor Inc,53302030,엔터테인먼트 제작
+737,8584,JACCS Co Ltd,55101030,소비자 대출
+738,6413,Riso Kagaku Corp,57105010,사무기기
+739,5842,Integral Corp,55102020,투자 관리 및 펀드 운영
+740,3468,Star Asia Investment Corp,60102010,복합부동산 REITs
+741,9552,M&A Research Institute Holdings Inc,55102010,투자 은행 및 중개 서비스
+742,7105,Mitsubishi Logisnext Co Ltd,52102020,중장비 및 차량
+743,6750,Elecom Co Ltd,57106010,컴퓨터 하드웨어
+744,3543,Komeda Holdings Co Ltd,53301020,레스토랑 및 바
+745,5930,Bunka Shutter Co Ltd,53203020,건설 자재 및 비품
+746,8370,Kiyo Bank Ltd,55101010,은행
+747,3287,Hoshino Resorts REIT Inc,60102040,특수 REITs
+748,5449,Osaka Steel Co Ltd,51201020,철 및 강철
+749,7412,Atom Corp,53301020,레스토랑 및 바
+750,3076,Ai Holdings Corp,57106010,컴퓨터 하드웨어
+751,3097,Monogatari Corp,53301020,레스토랑 및 바
+752,8155,Mimasu Semiconductor Industry Co Ltd,57101010,반도체
+753,3191,Joyful Honda Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+754,6472,NTN Corp,52102010,산업용 기계 및 장비
+755,7222,Nissan Shatai Co Ltd,53101010,자동차 및 트럭 제조
+756,5192,Mitsuboshi Belting Ltd,52102040,중전기장비
+757,7780,Menicon Co Ltd,56101020,"의료 장비, 물품 및 유통"
+758,3167,Tokai Holdings Corp,50102030,"오일, 가스 정제 및 마케팅"
+759,7173,Tokyo Kiraboshi Financial Group Inc,55101010,은행
+760,4368,Fuso Chemical Co Ltd,51101010,상품 화학
+761,8097,San-Ai Obbli Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+762,3186,Nextage Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+763,2767,Tsuburaya Fields Holdings Inc,53301030,카지노 및 도박
+764,8179,Royal Holdings Co Ltd,53301020,레스토랑 및 바
+765,2733,Arata Corp,54201020,개인 생활 필수 용품
+766,4534,Mochida Pharmaceutical Co Ltd,56201040,제약
+767,8051,Yamazen Corp,52102010,산업용 기계 및 장비
+768,9068,Maruzen Showa Unyu Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+769,7516,Kohnan Shoji Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+770,7839,Shoei Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+771,8968,Fukuoka REIT Corp,60102020,상업용 REITs
+772,8616,Tokai Tokyo Financial Holdings Inc,55102010,투자 은행 및 중개 서비스
+773,9882,Yellow Hat Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+774,1890,Toyo Construction Co Ltd,52201020,건설 및 엔지니어링
+775,8975,Ichigo Office REIT Investment Corp,60102020,상업용 REITs
+776,9757,Funai Soken Holdings Inc,52203040,경영 지원 서비스
+777,5232,Sumitomo Osaka Cement Co Ltd,51202010,건설 자재
+778,6458,Sinko Industries Ltd,52102030,전기 부품 및 장비
+779,6278,Union Tool Co,52102010,산업용 기계 및 장비
+780,4974,Takara Bio Inc,56202010,생명 공학 및 의학 연구
+781,186A,Astroscale Holdings Inc,52101010,항공우주 및 방위
+782,7014,Namura Shipbuilding Co Ltd,52102050,조선
+783,7003,Mitsui E&S Co Ltd,52102050,조선
+784,6523,PHC Holdings Corp,56101020,"의료 장비, 물품 및 유통"
+785,4551,Torii Pharmaceutical Co Ltd,56201040,제약
+786,6420,Fukushima Galilei Co Ltd,52102030,전기 부품 및 장비
+787,8923,Tosei Corp,60101010,"부동산 임대, 개발 및 운영"
+788,9119,Iino Kaiun Kaisha Ltd,52405020,해양 화물 및 물류
+789,7512,Aeon Hokkaido Corp,53402010,백화점
+790,4480,Medley Inc,52203030,고용 서비스
+791,2124,JAC Recruitment Co Ltd,52203030,고용 서비스
+792,9672,Tokyotokeiba Co Ltd,53301030,카지노 및 도박
+793,3993,PKSHA Technology Inc,57201020,소프트웨어
+794,6490,PILLAR Corp,52102010,산업용 기계 및 장비
+795,9960,Totech Corp,52102030,전기 부품 및 장비
+796,5911,Yokogawa Bridge Holdings Corp,52201020,건설 및 엔지니어링
+797,9887,Matsuya Foods Holdings Co Ltd,53301020,레스토랑 및 바
+798,6651,Nitto Kogyo Corp,52102030,전기 부품 및 장비
+799,7242,KYB Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+800,7821,Maeda Kosen Co Ltd,51202010,건설 자재
+801,6875,MegaChips Corp,57101010,반도체
+802,7389,Aichi Financial Group Inc,55101010,은행
+803,3433,Tocalo Co Ltd,51201020,철 및 강철
+804,4432,WingArc1st Inc,57201020,소프트웨어
+805,4559,Zeria Pharmaceutical Co Ltd,56201040,제약
+806,6890,Ferrotec Holdings Corp,57104010,전자 장비 및 부품
+807,5331,Noritake Co Ltd,52102010,산업용 기계 및 장비
+808,4694,BML Inc,56102010,의료 시설 및 서비스
+809,4849,En Japan Inc,52203030,고용 서비스
+810,7965,Zojirushi Corp,53204030,"가전제품, 도구 및 가정 용품"
+811,94345,Softbank P-1 Prf Shs,57401020,무선 통신 서비스
+812,9708,Imperial Hotel Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+813,4776,Cybozu Inc,57201020,소프트웨어
+814,9832,Autobacs Seven Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+815,8153,Mos Food Services Inc,53301020,레스토랑 및 바
+816,8595,JAFCO Group Co Ltd,55102020,투자 관리 및 펀드 운영
+817,4985,Earth Corp,54201010,가정용 제품
+818,8388,Awa Bank Ltd,55101010,은행
+819,6866,Hioki EE Corp,52102030,전기 부품 및 장비
+820,1950,Nippon Densetsu Kogyo Co Ltd,52201020,건설 및 엔지니어링
+821,1835,Totetsu Kogyo Co Ltd,52201020,건설 및 엔지니어링
+822,9956,Valor Holdings Co Ltd,54301020,식품 소매 및 유통
+823,8276,Heiwado Co Ltd,54301020,식품 소매 및 유통
+824,6516,Sanyo Denki Co Ltd,52102030,전기 부품 및 장비
+825,3762,Techmatrix Corp,57201010,IT 서비스 및 컨설팅
+826,1419,Tama Home Co Ltd,53203010,주택 건설
+827,7943,Nichiha Corp,53203020,건설 자재 및 비품
+828,7981,Takara Standard Co Ltd,53203020,건설 자재 및 비품
+829,2281,Prima Meat Packers Ltd,54102020,식품 가공
+830,7599,IDOM Inc,53403010,"자동차 차량, 부품 및 서비스 소매"
+831,6351,Tsurumi Manufacturing Co Ltd,52102010,산업용 기계 및 장비
+832,7595,Argo Graphics Inc,57201010,IT 서비스 및 컨설팅
+833,6250,Yamabiko Corp,52102020,중장비 및 차량
+834,9663,Nagawa Co Ltd,53203010,주택 건설
+835,7381,Hokkoku Financial Holdings Inc,55101010,은행
+836,8522,Bank of Nagoya Ltd,55101010,은행
+837,5186,Nitta Corp,52102010,산업용 기계 및 장비
+838,9842,Arclands Corp,53403020,주택 개조 제품 및 서비스 소매
+839,3222,United Super Markets Holdings Inc,54301020,식품 소매 및 유통
+840,4914,Takasago International Corp,51101010,상품 화학
+841,6340,Shibuya Corp,52102010,산업용 기계 및 장비
+842,7944,Roland Corp,53205020,오락용 제품
+843,6036,KeePer Technical Laboratory Co Ltd,54201030,개인 서비스
+844,3106,Kurabo Industries Ltd,53202010,직물 및 가죽제품
+845,8871,Goldcrest Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+846,9824,Senshu Electric Co Ltd,52102030,전기 부품 및 장비
+847,4565,Nxera Pharma Co Ltd,56201040,제약
+848,4996,Kumiai Chemical Industry Co Ltd,51101020,농화학제
+849,9347,Nippon Kanzai Holdings Co Ltd,60101020,부동산 서비스
+850,9678,Kanamoto Co Ltd,52203040,경영 지원 서비스
+851,1968,Taihei Dengyo Kaisha Ltd,52201020,건설 및 엔지니어링
+852,9058,Trancom Co Ltd,52405030,지상 화물 및 물류
+853,2146,UT Group Co Ltd,52203030,고용 서비스
+854,2109,Mitsui DM Sugar Holdings Co Ltd,54102020,식품 가공
+855,9722,Fujita Kanko Inc,53301010,"호텔, 모텔 및 크루즈 라인"
+856,7739,Canon Electronics Inc,57104010,전자 장비 및 부품
+857,7433,Hakuto Co Ltd,57101010,반도체
+858,7611,Hiday Hidaka Corp,53301020,레스토랑 및 바
+859,6425,Universal Entertainment Corp,53301010,"호텔, 모텔 및 크루즈 라인"
+860,8367,Nanto Bank Ltd,55101010,은행
+861,5310,Toyo Tanso Co Ltd,52102030,전기 부품 및 장비
+862,8074,Yuasa Trading Co Ltd,53203020,건설 자재 및 비품
+863,6727,Wacom Co Ltd,57106010,컴퓨터 하드웨어
+864,1926,Raito Kogyo Co Ltd,52201020,건설 및 엔지니어링
+865,4975,JCU Corp,51101030,특수 화학제
+866,2653,Aeon Kyushu Co Ltd,53402010,백화점
+867,1934,Yurtec Corp,52201020,건설 및 엔지니어링
+868,8131,Mitsuuroko Group Holdings Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+869,8198,Maxvalu Tokai Co Ltd,54301020,식품 소매 및 유통
+870,9039,Sakai Moving Service Co Ltd,52405030,지상 화물 및 물류
+871,5481,Sanyo Special Steel Co Ltd,51201020,철 및 강철
+872,3593,Hogy Medical Co Ltd,56101020,"의료 장비, 물품 및 유통"
+873,4107,Ise Chemicals Corp,51101010,상품 화학
+874,3445,RS Technologies Co Ltd,57101010,반도체
+875,3087,DOUTOR NICHIRES Holdings Co Ltd,53301020,레스토랑 및 바
+876,4919,Milbon Co Ltd,54201020,개인 생활 필수 용품
+877,2585,Lifedrink Company Inc,54101030,무알콜 음료
+878,9699,Nishio Holdings Co Ltd,52203040,경영 지원 서비스
+879,6498,Kitz Corp,52102010,산업용 기계 및 장비
+880,8714,Senshu Ikeda Holdings Inc,55101010,은행
+881,1762,Takamatsu Construction Group Co Ltd,52201020,건설 및 엔지니어링
+882,2715,Elematec Corp,57104010,전자 장비 및 부품
+883,8214,Aoki Holdings Inc,53403040,의류 및 액세서리 소매
+884,2590,DyDo Group Holdings Inc,54101030,무알콜 음료
+885,7226,Kyokuto Kaihatsu Kogyo Co Ltd,52102020,중장비 및 차량
+886,8958,Global One Real Estate Investment Corp,60102020,상업용 REITs
+887,3863,Nippon Paper Industries Co Ltd,51301020,종이 제품
+888,2157,Koshidaka Holdings Co Ltd,53301040,여가 및 오락시설
+889,7575,Japan Lifeline Co Ltd,56101020,"의료 장비, 물품 및 유통"
+890,8544,Keiyo Bank Ltd,55101010,은행
+891,6737,Eizo Corp,57106010,컴퓨터 하드웨어
+892,6486,Eagle Industry Co Ltd,52102010,산업용 기계 및 장비
+893,6455,Morita Holdings Corp,52102020,중장비 및 차량
+894,2760,Tokyo Electron Device Ltd,57101010,반도체
+895,8892,Es-con Japan Ltd,60101010,"부동산 임대, 개발 및 운영"
+896,8014,Chori Co Ltd,51101010,상품 화학
+897,8032,Japan Pulp & Paper Co Ltd,51301020,종이 제품
+898,215A,Timee Inc,57201020,소프트웨어
+899,7915,Nissha Co Ltd,57104010,전자 장비 및 부품
+900,7552,Happinet Corp,53205010,장난감 및 어린이 제품
+901,8336,Musashino Bank Ltd,55101010,은행
+902,3201,Japan Wool Textile Co Ltd,53202010,직물 및 가죽제품
+903,4369,Tri Chemical Laboratories Inc,51101030,특수 화학제
+904,4956,Konishi Co Ltd,51101010,상품 화학
+905,2384,SBS Holdings Inc,52405030,지상 화물 및 물류
+906,9110,NS United Kaiun Kaisha Ltd,52405020,해양 화물 및 물류
+907,3962,Change Holdings Inc,57201010,IT 서비스 및 컨설팅
+908,4471,Sanyo Chemical Industries Ltd,51101010,상품 화학
+909,5122,Okamoto Industries Inc,51101010,상품 화학
+910,5482,Aichi Steel Corp,51201020,철 및 강철
+911,7224,ShinMaywa Industries Ltd,52102020,중장비 및 차량
+912,2220,Kameda Seika Co Ltd,54102020,식품 가공
+913,4569,Kyorin Pharmaceutical Co Ltd,56201040,제약
+914,7199,Premium Group Co Ltd,55101030,소비자 대출
+915,6183,Bellsystem24 Holdings Inc,52203040,경영 지원 서비스
+916,9037,Hamakyorex Co Ltd,52405030,지상 화물 및 물류
+917,4099,Shikoku Kasei Holdings Corp,51101010,상품 화학
+918,1952,Shin Nippon Air Technologies Co Ltd,52201020,건설 및 엔지니어링
+919,1407,West Holdings Corp,52201020,건설 및 엔지니어링
+920,1879,Shinnihon Corp,52201020,건설 및 엔지니어링
+921,9247,TRE Holdings Corp,52203010,환경 서비스 및 장비
+922,5703,Nippon Light Metal Holdings Co Ltd,51201030,알루미늄
+923,7931,Mirai Industry Co Ltd,52102030,전기 부품 및 장비
+924,50765,Infroneer Holdings P-1 Prf Shs,52201020,건설 및 엔지니어링
+925,9267,Genky DrugStores Co Ltd,54301010,의약품 소매
+926,5988,Piolax Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+927,8117,Central Automotive Products Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+928,9716,Nomura Co Ltd,52203040,경영 지원 서비스
+929,5975,Topre Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+930,4485,JTOWER Inc,52201020,건설 및 엔지니어링
+931,6104,Shibaura Machine Co Ltd,52102010,산업용 기계 및 장비
+932,9902,Nichiden Corp,52102010,산업용 기계 및 장비
+933,6200,Insource Co Ltd,63103010,전문 및 비즈니스 교육
+934,4526,Riken Vitamin Co Ltd,54102020,식품 가공
+935,7826,Furuya Metal Co Ltd,51201010,금 제외 귀금속 및 광물
+936,1982,Hibiya Engineering Ltd,52201020,건설 및 엔지니어링
+937,2004,Showa Sangyo Co Ltd,54102020,식품 가공
+938,8059,Daiichi Jitsugyo Co Ltd,52102010,산업용 기계 및 장비
+939,4044,Central Glass Co Ltd,51101090,다각적 화학 산업
+940,3002,Gunze Ltd,53202020,의류 및 액세서리
+941,8934,Sun Frontier Fudousan Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+942,2742,Halows Co Ltd,54301020,식품 소매 및 유통
+943,7283,Aisan Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+944,4293,Septeni Holdings Co Ltd,53302010,광고 및 마케팅
+945,5352,Krosaki Harima Corp,51202010,건설 자재
+946,6877,Obara Group Inc,52102010,산업용 기계 및 장비
+947,6345,Aichi Corp,52102020,중장비 및 차량
+948,4746,Toukei Computer Co Ltd,57201020,소프트웨어
+949,1946,Toenec Corp,52201020,건설 및 엔지니어링
+950,6810,Maxell Ltd,57104010,전자 장비 및 부품
+951,2292,S Foods Inc,54102020,식품 가공
+952,3487,CRE Logistics REIT Inc,60102020,상업용 REITs
+953,6366,Chiyoda Corp,52201020,건설 및 엔지니어링
+954,4290,Prestige International Inc,52203040,경영 지원 서비스
+955,7972,Itoki Corp,52203060,비즈니스 지원 용품
+956,9066,Nissin Corp,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+957,1663,K&O Energy Group Inc,50102020,"오일, 가스 탐사 및 생산"
+958,2588,Premium Water Holdings Inc,54101030,무알콜 음료
+959,4071,Plus Alpha Consulting Co Ltd,57201010,IT 서비스 및 컨설팅
+960,6652,IDEC Corp,52102030,전기 부품 및 장비
+961,6088,SIGMAXYZ Holdings Inc,52203040,경영 지원 서비스
+962,5943,Noritz Corp,53204030,"가전제품, 도구 및 가정 용품"
+963,6996,Nichicon Corp,52102030,전기 부품 및 장비
+964,2329,Tohokushinsha Film Corp,53302010,광고 및 마케팅
+965,4552,JCR Pharmaceuticals Co Ltd,56201040,제약
+966,1885,Toa Corp (Tokyo),52201020,건설 및 엔지니어링
+967,2692,Itochu-Shokuhin Co Ltd,54301020,식품 소매 및 유통
+968,7456,Matsuda Sangyo Co Ltd,52203010,환경 서비스 및 장비
+969,6740,Japan Display Inc,57104010,전자 장비 및 부품
+970,8244,Kintetsu Department Store Co Ltd,53402010,백화점
+971,6814,Furuno Electric Co Ltd,57102010,통신 및 네트워킹
+972,6703,Oki Electric Industry Co Ltd,57102010,통신 및 네트워킹
+973,2326,Digital Arts Inc,57201020,소프트웨어
+974,7917,Zacros Corp,51302010,용기(종이 제외) 및 포장재
+975,6235,Optorun Co Ltd,57104010,전자 장비 및 부품
+976,3101,Toyobo Co Ltd,51101010,상품 화학
+977,6363,Torishima Pump Mfg Co Ltd,52102010,산업용 기계 및 장비
+978,8255,Axial Retailing Inc,54301020,식품 소매 및 유통
+979,8977,Hankyu Hanshin REIT Inc,60102020,상업용 REITs
+980,9413,TV Tokyo Holdings Corp,53302020,방송
+981,8132,Sinanen Holdings Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+982,4216,Asahi Yukizai Corp,51101010,상품 화학
+983,8600,Tomony Holdings Inc,55101010,은행
+984,4549,Eiken Chemical Co Ltd,56101020,"의료 장비, 물품 및 유통"
+985,7250,Pacific Industrial Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+986,6947,Zuken Inc,57201010,IT 서비스 및 컨설팅
+987,8016,Onward Holdings Co Ltd,53202020,의류 및 액세서리
+988,6254,Nomura Micro Science Co Ltd,52102010,산업용 기계 및 장비
+989,9551,Metawater Co Ltd,52201020,건설 및 엔지니어링
+990,8708,Aizawa Securities Group Co Ltd,55102010,투자 은행 및 중개 서비스
+991,7177,GMO Financial Holdings Inc,55102010,투자 은행 및 중개 서비스
+992,2168,Pasona Group Inc,52203030,고용 서비스
+993,4633,Sakata Inx Corp,51101030,특수 화학제
+994,6474,Nachi-Fujikoshi Corp,52102010,산업용 기계 및 장비
+995,9889,JBCC Holdings Inc,57201010,IT 서비스 및 컨설팅
+996,7718,Star Micronics Co Ltd,52102010,산업용 기계 및 장비
+997,9519,Renova Inc,59101010,전력 유틸리티
+998,6080,M&A Capital Partners Co Ltd,55102010,투자 은행 및 중개 서비스
+999,8793,NEC Capital Solutions Ltd,55101050,기업 금융 서비스
+1000,7447,Nagaileben Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1001,8125,Wakita & Co Ltd,52102020,중장비 및 차량
+1002,6463,TPR Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1003,4365,Matsumoto Yushi-Seiyaku Co Ltd,51101010,상품 화학
+1004,7513,Kojima Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+1005,2353,Nippon Parking Development Co Ltd,52407030,고속도로 및 철도
+1006,9729,Tokai Corp (Gifu),52203040,경영 지원 서비스
+1007,2979,SOSiLA Logistics REIT Inc,60102020,상업용 REITs
+1008,3028,Alpen Co Ltd,53403090,기타 전문 소매
+1009,3854,I'LL Inc,57201010,IT 서비스 및 컨설팅
+1010,8361,Ogaki Kyoritsu Bank Ltd,55101010,은행
+1011,3156,Restar Corp,57101010,반도체
+1012,3493,Advance Logistics Investment Corp,60102020,상업용 REITs
+1013,6379,Raiznext Corp,52201020,건설 및 엔지니어링
+1014,2117,Wellneo Sugar Co Ltd,54102020,식품 가공
+1015,6524,Kohoku Kogyo Co Ltd,57104010,전자 장비 및 부품
+1016,3459,Samty Residential Investment Corp,60102030,주거용 REITs
+1017,5195,Bando Chemical Industries Ltd,52102010,산업용 기계 및 장비
+1018,5351,Shinagawa Refractories Co Ltd,51202010,건설 자재
+1019,7868,Kosaido Holdings Co Ltd,52203020,상업 인쇄 서비스
+1020,8386,Hyakujushi Bank Ltd,55101010,은행
+1021,2492,Infomart Corp,57201010,IT 서비스 및 컨설팅
+1022,7421,Kappa Create Co Ltd,53301020,레스토랑 및 바
+1023,7483,Doshisha Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+1024,6459,Daiwa Industries Ltd,52102010,산업용 기계 및 장비
+1025,3492,Takara Leben Real Estate Investment Corp,60102010,복합부동산 REITs
+1026,5440,Kyoei Steel Ltd,51201020,철 및 강철
+1027,5011,Nichireki Group Co Ltd,52201020,건설 및 엔지니어링
+1028,4189,KH Neochem Co Ltd,51101010,상품 화학
+1029,8079,Shoei Foods Corp,54102020,식품 가공
+1030,6196,Strike Co Ltd,52203040,경영 지원 서비스
+1031,3302,Teikoku Sen-I Co Ltd,53202010,직물 및 가죽제품
+1032,8337,Chiba Kogyo Bank Ltd,55101010,은행
+1033,9543,Shizuoka Gas Co Ltd,59102010,천연가스 유틸리티
+1034,7979,Shofu Inc,56101020,"의료 장비, 물품 및 유통"
+1035,4971,MEC Co Ltd,51101030,특수 화학제
+1036,4413,Baudroie Inc,57201010,IT 서비스 및 컨설팅
+1037,1976,Meisei Industrial Co Ltd,52201020,건설 및 엔지니어링
+1038,3476,Mirai Corp,60102020,상업용 REITs
+1039,9828,Genki Global Dining Concepts Corp,53301020,레스토랑 및 바
+1040,8818,Keihanshin Building Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1041,4384,Raksul Inc,57201030,온라인 서비스
+1042,4592,SanBio Co Ltd,56202010,생명 공학 및 의학 연구
+1043,7085,Curves Holdings Co Ltd,53301040,여가 및 오락시설
+1044,1884,Nippon Road Co Ltd,52201020,건설 및 엔지니어링
+1045,4825,Weathernews Inc,52203040,경영 지원 서비스
+1046,3836,Avant Group Corp,57201010,IT 서비스 및 컨설팅
+1047,1939,Yondenko Corp,52201020,건설 및 엔지니어링
+1048,8771,eGuarantee Inc,55101050,기업 금융 서비스
+1049,9692,Computer Engineering & Consulting Ltd,57201010,IT 서비스 및 컨설팅
+1050,6620,Miyakoshi Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+1051,3632,Gree Inc,57201030,온라인 서비스
+1052,5726,Osaka Titanium Technologies Co Ltd,51201050,특수 채굴 및 금속
+1053,1720,Tokyu Construction Co Ltd,52201020,건설 및 엔지니어링
+1054,7184,First Bank of Toyama Ltd,55101010,은행
+1055,5727,Toho Titanium Co Ltd,51201050,특수 채굴 및 금속
+1056,6284,Nissei ASB Machine Co Ltd,52102010,산업용 기계 및 장비
+1057,6282,Oiles Corp,52102010,산업용 기계 및 장비
+1058,1775,Fuji Furukawa Engineering & Construction Co Ltd,52201020,건설 및 엔지니어링
+1059,3950,Pack Corp,51302020,종이 포장재
+1060,6929,Nippon Ceramic Co Ltd,57104010,전자 장비 및 부품
+1061,9279,GIFT Holdings Inc,53301020,레스토랑 및 바
+1062,3733,Software Service Inc,57201010,IT 서비스 및 컨설팅
+1063,6419,Mars Group Holdings Corp,53301030,카지노 및 도박
+1064,3001,Katakura Industries Co Ltd,56201040,제약
+1065,7606,United Arrows Ltd,53403040,의류 및 액세서리 소매
+1066,6376,Nikkiso Co Ltd,52102010,산업용 기계 및 장비
+1067,8037,Kamei Corp,50102030,"오일, 가스 정제 및 마케팅"
+1068,3539,JM Holdings Co Ltd,54301020,식품 소매 및 유통
+1069,3844,Comture Corp,57201010,IT 서비스 및 컨설팅
+1070,9997,Belluna Co Ltd,53402010,백화점
+1071,6287,Sato Holdings Corp,57105010,사무기기
+1072,3636,Mitsubishi Research Institute Inc,57201010,IT 서비스 및 컨설팅
+1073,1515,Nittetsu Mining Co Ltd,51201050,특수 채굴 및 금속
+1074,4008,Sumitomo Seika Chemicals Co Ltd,51101010,상품 화학
+1075,2613,J-Oil Mills Inc,54102020,식품 가공
+1076,262A,Intermestic Inc,56101020,"의료 장비, 물품 및 유통"
+1077,4212,Sekisui Jushi Corp,53203020,건설 자재 및 비품
+1078,6908,Iriso Electronics Co Ltd,52102030,전기 부품 및 장비
+1079,7287,Nippon Seiki Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1080,6777,Santec Holdings Corp,57104010,전자 장비 및 부품
+1081,7388,FP Partner Inc,55301010,복합보험 및 중개인
+1082,7172,Japan Investment Adviser Co Ltd,55101050,기업 금융 서비스
+1083,8877,Eslead Corp,60101010,"부동산 임대, 개발 및 운영"
+1084,8897,Mirarth Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+1085,6237,Iwaki Co Ltd,52102010,산업용 기계 및 장비
+1086,8057,Uchida Yoko Co Ltd,52203060,비즈니스 지원 용품
+1087,2211,Fujiya Co Ltd,54102020,식품 가공
+1088,3608,TSI Holdings Co Ltd,53202020,의류 및 액세서리
+1089,9621,CTI Engineering Co Ltd,52201020,건설 및 엔지니어링
+1090,6745,Hochiki Corp,52203060,비즈니스 지원 용품
+1091,8173,Joshin Denki Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+1092,5461,Chubu Steel Plate Co Ltd,51201020,철 및 강철
+1093,5715,Furukawa Co Ltd,51201050,특수 채굴 및 금속
+1094,8346,Toho Bank Ltd,55101010,은행
+1095,7958,Tenma Corp,51101010,상품 화학
+1096,5410,Godo Steel Ltd,51201020,철 및 강철
+1097,5946,Chofu Seisakusho Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+1098,6332,Tsukishima Holdings Co Ltd,52102010,산업용 기계 및 장비
+1099,7342,WealthNavi Inc,57301010,핀테크
+1100,7818,Transaction Co Ltd,54201010,가정용 제품
+1101,8219,Aoyama Trading Co Ltd,53403040,의류 및 액세서리 소매
+1102,9536,Saibu Gas Holdings Co Ltd,59102010,천연가스 유틸리티
+1103,6209,NPR-Riken Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1104,2805,S&B Foods Inc,54102020,식품 가공
+1105,9755,Oyo Corp,52201020,건설 및 엔지니어링
+1106,6914,Optex Group Co Ltd,52102030,전기 부품 및 장비
+1107,5970,G-Tekt Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1108,6101,Tsugami Corp,52102010,산업용 기계 및 장비
+1109,1870,Yahagi Construction Co Ltd,52201020,건설 및 엔지니어링
+1110,3612,World Co Ltd,53403040,의류 및 액세서리 소매
+1111,7860,Avex Inc,53302030,엔터테인먼트 제작
+1112,9928,Miroku Jyoho Service Co Ltd,57201020,소프트웨어
+1113,8613,Marusan Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+1114,9438,MTI Ltd,57201030,온라인 서비스
+1115,6027,Bengo4.com Inc,57201030,온라인 서비스
+1116,3817,SRA Holdings Inc,57201010,IT 서비스 및 컨설팅
+1117,4051,GMO Financial Gate Inc,52203040,경영 지원 서비스
+1118,2003,Nitto Fuji Flour Milling Co Ltd,54102020,식품 가공
+1119,4886,ASKA Pharmaceutical Holdings Co Ltd,56201040,제약
+1120,7806,MTG Co Ltd,54201020,개인 생활 필수 용품
+1121,9310,Japan Transcity Corp,52405030,지상 화물 및 물류
+1122,2208,Bourbon Corp,54102020,식품 가공
+1123,4187,Osaka Organic Chemical Industry Ltd,51101010,상품 화학
+1124,4326,Intage Holdings Inc,53302010,광고 및 마케팅
+1125,5889,Japan Eyewear Holdings Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1126,9161,Integrated Design & Engineering Holdings Co Ltd,52201020,건설 및 엔지니어링
+1127,7508,G-7 Holdings Inc,54301020,식품 소매 및 유통
+1128,9348,ispace Inc,52101010,항공우주 및 방위
+1129,6859,Espec Corp,52102010,산업용 기계 및 장비
+1130,4431,Smaregi Inc,57201020,소프트웨어
+1131,1821,Sumitomo Mitsui Construction Co Ltd,52201020,건설 및 엔지니어링
+1132,4687,TDC Soft Inc,57201010,IT 서비스 및 컨설팅
+1133,8159,Tachibana Eletech Co Ltd,52102030,전기 부품 및 장비
+1134,5480,Nippon Yakin Kogyo Co Ltd,51201020,철 및 강철
+1135,1882,Toa Road Corp,52201020,건설 및 엔지니어링
+1136,6741,Nippon Signal Co Ltd,57102010,통신 및 네트워킹
+1137,2752,Fujio Food Group Inc,53301020,레스토랑 및 바
+1138,8160,Kisoji Co Ltd,53301020,레스토랑 및 바
+1139,7292,Murakami Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1140,3350,Metaplanet Inc,57201010,IT 서비스 및 컨설팅
+1141,5982,Maruzen Co Ltd,52102010,산업용 기계 및 장비
+1142,7942,JSP Corp,51101010,상품 화학
+1143,7721,Tokyo Keiki Inc,52102010,산업용 기계 및 장비
+1144,2395,Shin Nippon Biomedical Laboratories Ltd,56202010,생명 공학 및 의학 연구
+1145,4641,Altech Corp,52203030,고용 서비스
+1146,2170,Link and Motivation Inc,52203030,고용 서비스
+1147,3150,Gremz Inc,52203010,환경 서비스 및 장비
+1148,6349,Komori Corp,52102010,산업용 기계 및 장비
+1149,4362,Nippon Fine Chemical Co Ltd,51101030,특수 화학제
+1150,4220,Riken Technos Corp,51101010,상품 화학
+1151,3290,One REIT Inc,60102020,상업용 REITs
+1152,3668,Colopl Inc,57201030,온라인 서비스
+1153,1822,Daiho Corp,52201020,건설 및 엔지니어링
+1154,7995,Valqua Ltd,52102010,산업용 기계 및 장비
+1155,7239,Tachi-S Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1156,7279,Hi-Lex Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1157,2980,SRE Holdings Corp,60101020,부동산 서비스
+1158,3465,Ki-Star Real Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1159,8508,J Trust Co Ltd,55101030,소비자 대출
+1160,2664,Cawachi Ltd,54301010,의약품 소매
+1161,8182,Inageya Co Ltd,54301020,식품 소매 및 유통
+1162,6381,Anest Iwata Corp,52102010,산업용 기계 및 장비
+1163,4298,Proto Corp,53302040,소비자 출판
+1164,5445,Tokyo Tekko Co Ltd,51201020,철 및 강철
+1165,6328,Ebara Jitsugyo Co Ltd,52203010,환경 서비스 및 장비
+1166,3540,CI Medical Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1167,7745,A&D Holon Holdings Co Ltd,52102010,산업용 기계 및 장비
+1168,6517,Denyo Co Ltd,52102040,중전기장비
+1169,8200,Ringer Hut Co Ltd,53301020,레스토랑 및 바
+1170,2749,JP-Holdings Inc,54201030,개인 서비스
+1171,7130,Yamae Group Holdings Co Ltd,54301020,식품 소매 및 유통
+1172,1379,Hokuto Corp,54102010,어업 및 농업
+1173,5027,AnyMind Group Inc,53302010,광고 및 마케팅
+1174,4917,Mandom Corp,54201020,개인 생활 필수 용품
+1175,3151,Vital Ksk Holdings Inc,56201040,제약
+1176,5595,Institute for Q-shu Pioneers of Space Inc,52101010,항공우주 및 방위
+1177,5851,Ryobi Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1178,3679,ZIGExN Co Ltd,57201030,온라인 서비스
+1179,3480,J.S.B. Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1180,5290,Vertex Corp,51202010,건설 자재
+1181,1898,Seikitokyu Kogyo Co Ltd,52201020,건설 및 엔지니어링
+1182,25935,Ito En Prf Shs,54101030,무알콜 음료
+1183,8360,Yamanashi Chuo Bank Ltd,55101010,은행
+1184,9260,Nishimoto Co Ltd,54301020,식품 소매 및 유통
+1185,2790,Nafco Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+1186,3371,Softcreate Holdings Corp,57201010,IT 서비스 및 컨설팅
+1187,8167,Retail Partners Co Ltd,54301020,식품 소매 및 유통
+1188,3964,Aucnet Inc,57201030,온라인 서비스
+1189,7241,Futaba Industrial Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1190,7613,SIIX Corp,57104010,전자 장비 및 부품
+1191,4481,Base Co Ltd,57201010,IT 서비스 및 컨설팅
+1192,8043,Starzen Co Ltd,54102020,식품 가공
+1193,3091,Bronco Billy Co Ltd,53301020,레스토랑 및 바
+1194,6941,Yamaichi Electronics Co Ltd,57101020,반도체 장비 및 테스트
+1195,9070,Tonami Holdings Co Ltd,52405030,지상 화물 및 물류
+1196,4028,Ishihara Sangyo Kaisha Ltd,51101090,다각적 화학 산업
+1197,8739,Sparx Group Co Ltd,55102020,투자 관리 및 펀드 운영
+1198,4970,Toyo Gosei Co Ltd,51101030,특수 화학제
+1199,4047,Kanto Denka Kogyo Co Ltd,51101010,상품 화학
+1200,6277,Hosokawa Micron Corp,52102010,산업용 기계 및 장비
+1201,2931,Euglena Co Ltd,54102020,식품 가공
+1202,6258,Hirata Corp,52102010,산업용 기계 및 장비
+1203,9790,Fukui Computer Holdings Inc,57201020,소프트웨어
+1204,4343,Aeon Fantasy Co Ltd,53301040,여가 및 오락시설
+1205,2681,Geo Holdings Corp,53403090,기타 전문 소매
+1206,7246,Press Kogyo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1207,7685,BuySell Technologies Co Ltd,53403090,기타 전문 소매
+1208,3104,Fujibo Holdings Inc,53202010,직물 및 가죽제품
+1209,9511,Okinawa Electric Power Co Inc,59101010,전력 유틸리티
+1210,7128,Maruka Furusato Corp,52102010,산업용 기계 및 장비
+1211,4765,SBI Global Asset Management Co Ltd,55102020,투자 관리 및 펀드 운영
+1212,3673,Broadleaf Co Ltd,57201020,소프트웨어
+1213,6151,Nitto Kohki Co Ltd,52102010,산업용 기계 및 장비
+1214,7350,Okinawa Financial Group Inc,55101010,은행
+1215,1514,Sumiseki Holdings Inc,50101010,석탄
+1216,8707,IwaiCosmo Holdings Inc,55102010,투자 은행 및 중개 서비스
+1217,4997,Nihon Nohyaku Co Ltd,51101020,농화학제
+1218,8841,TOC Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1219,6961,Enplas Corp,57101010,반도체
+1220,9158,CUC Inc,56102010,의료 시설 및 서비스
+1221,7593,VT Holdings Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+1222,9733,Nagase Brothers Inc,63103010,전문 및 비즈니스 교육
+1223,9900,Sagami Holdings Corp,53301020,레스토랑 및 바
+1224,2734,Sala Corp,50102030,"오일, 가스 정제 및 마케팅"
+1225,6957,Shibaura Electronics Co Ltd,57104010,전자 장비 및 부품
+1226,4109,Stella Chemifa Corp,51101030,특수 화학제
+1227,9399,Beat Holdings Ltd,55102020,투자 관리 및 펀드 운영
+1228,2698,Can Do Co Ltd,54301020,식품 소매 및 유통
+1229,9661,Kabuki-Za Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1230,5184,Nichirin Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1231,1965,Techno Ryowa Ltd,52201020,건설 및 엔지니어링
+1232,6333,Teikoku Electric Mfg. Co Ltd,52102010,산업용 기계 및 장비
+1233,8075,Shinsho Corp,51201020,철 및 강철
+1234,197A,Tauns Laboratories Inc,56101020,"의료 장비, 물품 및 유통"
+1235,4848,Fullcast Holdings Co Ltd,52203030,고용 서비스
+1236,3034,Qol Holdings Co Ltd,54301010,의약품 소매
+1237,1852,Asanuma Corp,52201020,건설 및 엔지니어링
+1238,8084,Ryoden Corp,52102030,전기 부품 및 장비
+1239,4116,Dainichiseika Color & Chemicals MFG Co Ltd,51101030,특수 화학제
+1240,3232,Mie Kotsu Group Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+1241,4923,Cota Co Ltd,54201020,개인 생활 필수 용품
+1242,3431,Miyaji Engineering Group Inc,52201020,건설 및 엔지니어링
+1243,8185,Chiyoda Co Ltd,53403040,의류 및 액세서리 소매
+1244,6339,Sintokogio Ltd,52102010,산업용 기계 및 장비
+1245,5302,Nippon Carbon Co Ltd,52102030,전기 부품 및 장비
+1246,147A,Soracom Inc,57201010,IT 서비스 및 컨설팅
+1247,3395,Saint Marc Holdings Co Ltd,53301020,레스토랑 및 바
+1248,8392,Oita Bank Ltd,55101010,은행
+1249,6118,Aida Engineering Ltd,52102010,산업용 기계 및 장비
+1250,2226,Koike-Ya Inc,54102020,식품 가공
+1251,6266,Tazmo Co Ltd,57101020,반도체 장비 및 테스트
+1252,4674,Cresco Ltd,57201020,소프트웨어
+1253,8281,Xebio Holdings Co Ltd,53403090,기타 전문 소매
+1254,8715,Anicom Holdings Inc,55301020,손해보험
+1255,5602,Kurimoto Ltd,51201020,철 및 강철
+1256,6364,Hokuetsu Industries Co Ltd,52102010,산업용 기계 및 장비
+1257,2874,Yokorei Co Ltd,54102020,식품 가공
+1258,4894,Cuorips Inc,56201040,제약
+1259,1518,Mitsui Matsushima Holdings Co Ltd,50101010,석탄
+1260,8894,Revolution Co Ltd,60101020,부동산 서비스
+1261,7504,Kohsoku Corp,51302020,종이 포장재
+1262,6564,Midac Holdings Co Ltd,52203010,환경 서비스 및 장비
+1263,1786,Oriental Shiraishi Corp,52201020,건설 및 엔지니어링
+1264,3479,TKP Corp,60101010,"부동산 임대, 개발 및 운영"
+1265,6718,Aiphone Co Ltd,57102010,통신 및 네트워킹
+1266,4097,Koatsu Gas Kogyo Co Ltd,51101010,상품 화학
+1267,7088,Forum Engineering Inc,52203030,고용 서비스
+1268,8393,Miyazaki Bank Ltd,55101010,은행
+1269,3196,HotLand Co Ltd,53301020,레스토랑 및 바
+1270,6905,Cosel Co Ltd,52102030,전기 부품 및 장비
+1271,1723,Nihon Dengi Co Ltd,52201020,건설 및 엔지니어링
+1272,9946,Ministop Co Ltd,54301020,식품 소매 및 유통
+1273,5208,Arisawa Mfg Co Ltd,57104010,전자 장비 및 부품
+1274,2908,Fujicco Co Ltd,54102020,식품 가공
+1275,3482,Loadstar Capital KK,60101020,부동산 서비스
+1276,7749,Medikit Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1277,9517,Erex Co Ltd,59101010,전력 유틸리티
+1278,1899,Fukuda Corp,52201020,건설 및 엔지니어링
+1279,4813,Access Co Ltd,57201020,소프트웨어
+1280,7322,San Ju San Financial Group Inc,55101010,은행
+1281,9369,KRS Corp,52405030,지상 화물 및 물류
+1282,9416,Vision Inc,57401010,통합 통신 서비스
+1283,255A,GLtechno Holdings Inc,57101010,반도체
+1284,6638,Mimaki Engineering Co Ltd,57106010,컴퓨터 하드웨어
+1285,3661,M-up Holdings Inc,57201030,온라인 서비스
+1286,6078,Value HR Co Ltd,56102010,의료 시설 및 서비스
+1287,1871,PS Construction Co Ltd,52201020,건설 및 엔지니어링
+1288,3687,Fixstars Corp,57201020,소프트웨어
+1289,8061,Seika Corp,52102010,산업용 기계 및 장비
+1290,7384,Procrea Holdings Inc,55101010,은행
+1291,9324,Yasuda Logistics Corp,52405030,지상 화물 및 물류
+1292,8614,Toyo Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+1293,6430,Daikoku Denki Co Ltd,53301030,카지노 및 도박
+1294,4714,Riso Kyoiku Co Ltd,63101010,기타 교육 서비스 제공
+1295,8157,Tsuzuki Denki Co Ltd,57201010,IT 서비스 및 컨설팅
+1296,8914,Arealink Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1297,4337,Pia Corp,53301040,여가 및 오락시설
+1298,4828,Business Engineering Corp,57201010,IT 서비스 및 컨설팅
+1299,6289,Giken Ltd,52102020,중장비 및 차량
+1300,8979,Starts Proceed Investment Corp,60102030,주거용 REITs
+1301,1887,JDC Corp,52201020,건설 및 엔지니어링
+1302,7715,Nagano Keiki Co Ltd,52102010,산업용 기계 및 장비
+1303,3663,CELSYS Inc,57201020,소프트웨어
+1304,1301,Kyokuyo Co Ltd,54102020,식품 가공
+1305,9534,Hokkaido Gas Co Ltd,59102010,천연가스 유틸리티
+1306,9304,Shibusawa Warehouse Co Ltd,52405030,지상 화물 및 물류
+1307,5949,Unipres Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1308,9274,KPP Group Holdings Co Ltd,51301020,종이 제품
+1309,3182,Oisix Ra Daichi Inc,53402010,백화점
+1310,7840,France Bed Holdings Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1311,5702,Daiki Aluminium Industry Co Ltd,51201030,알루미늄
+1312,3708,Tokushu Tokai Paper Co Ltd,51301020,종이 제품
+1313,9474,Zenrin Co Ltd,53302040,소비자 출판
+1314,5304,SEC Carbon Ltd,52102030,전기 부품 및 장비
+1315,9856,KU Holdings Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+1316,5408,Nakayama Steel Works Ltd,51201020,철 및 강철
+1317,4548,Seikagaku Corp,56201040,제약
+1318,5036,Japan Business Systems Inc,57201010,IT 서비스 및 컨설팅
+1319,7874,Lec Inc,54201010,가정용 제품
+1320,2216,Kanro Inc,54102020,식품 가공
+1321,7522,Watami Co Ltd,53301020,레스토랑 및 바
+1322,4719,Alpha Systems Inc,57201020,소프트웨어
+1323,8163,SRS Holdings Co Ltd,53301020,레스토랑 및 바
+1324,9619,Ichinen Holdings Co Ltd,55101030,소비자 대출
+1325,4832,JFE Systems Inc,57201010,IT 서비스 및 컨설팅
+1326,7990,Globeride Inc,53205020,오락용 제품
+1327,6023,Daihatsu Diesel Mfg Co Ltd,52102050,조선
+1328,7463,Advan Group Co Ltd,51202010,건설 자재
+1329,6794,Foster Electric Co Ltd,57106030,가정용 전자 제품
+1330,3451,Tosei Reit Investment Corp,60102010,복합부동산 REITs
+1331,6630,Ya-Man Ltd,54201020,개인 생활 필수 용품
+1332,1799,Daiichi Kensetsu Corp,52201020,건설 및 엔지니어링
+1333,6099,Elan Corp,56102010,의료 시설 및 서비스
+1334,2751,Tenpos Holdings Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+1335,2288,Marudai Food Co Ltd,54102020,식품 가공
+1336,1888,Wakachiku Construction Co Ltd,52201020,건설 및 엔지니어링
+1337,9028,Zero Co Ltd,52405030,지상 화물 및 물류
+1338,4419,Finatext Holdings Ltd,57201010,IT 서비스 및 컨설팅
+1339,9639,Sankyo Frontier Co Ltd,53203010,주택 건설
+1340,4323,Japan System Techniques Co Ltd,57201020,소프트웨어
+1341,2594,Key Coffee Inc,54102020,식품 가공
+1342,8362,Fukui Bank Ltd,55101010,은행
+1343,8237,Matsuya Co Ltd,53402010,백화점
+1344,6197,Solasto Corp,56102010,의료 시설 및 서비스
+1345,2737,Tomen Devices Corp,57101010,반도체
+1346,3791,IG Port Inc,53302030,엔터테인먼트 제작
+1347,3252,Jinushi Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1348,9052,Sanyo Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+1349,2792,Honeys Holdings Co Ltd,53403040,의류 및 액세서리 소매
+1350,6058,Vector Inc,53302010,광고 및 마케팅
+1351,6937,Furukawa Battery Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1352,8345,Bank of Iwate Ltd,55101010,은행
+1353,8399,Bank of The Ryukyus Ltd,55101010,은행
+1354,3299,Mugen Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1355,8387,Shikoku Bank Ltd,55101010,은행
+1356,4246,DaikyoNishikawa Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1357,3036,Alconix Corp,51201050,특수 채굴 및 금속
+1358,3198,SFP Holdings Co Ltd,53301020,레스토랑 및 바
+1359,4078,Sakai Chemical Industry Co Ltd,51101010,상품 화학
+1360,8008,Yondoshi Holdings Inc,53202020,의류 및 액세서리
+1361,3946,Tomoku Co Ltd,51302020,종이 포장재
+1362,7231,Topy Industries Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1363,4375,Safie Inc,57201020,소프트웨어
+1364,6946,Nippon Avionics Co Ltd,57102010,통신 및 네트워킹
+1365,9470,Gakken Holdings Co Ltd,63101010,기타 교육 서비스 제공
+1366,9081,Kanagawa Chuo Kotsu Co Ltd,52406020,지상 및 해상 여객 운송
+1367,3463,Ichigo Hotel REIT Investment Corp,60102040,특수 REITs
+1368,7244,Ichikoh Industries Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1369,9739,NSW Inc,57201010,IT 서비스 및 컨설팅
+1370,9837,Morito Co Ltd,53202020,의류 및 액세서리
+1371,6768,Tamura Corp,52102030,전기 부품 및 장비
+1372,9229,Sunwels Co Ltd,56102010,의료 시설 및 서비스
+1373,3443,Kawada Technologies Inc,52201020,건설 및 엔지니어링
+1374,9629,PCA Corp,57201020,소프트웨어
+1375,6140,Asahi Diamond Industrial Co Ltd,52102010,산업용 기계 및 장비
+1376,8706,Kyokuto Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+1377,2780,Komehyo Holdings Co Ltd,53403090,기타 전문 소매
+1378,6820,Icom Inc,57102010,통신 및 네트워킹
+1379,4792,Yamada Consulting Group Co Ltd,52203040,경영 지원 서비스
+1380,4475,Hennge KK,57201010,IT 서비스 및 컨설팅
+1381,6240,Yamashin-Filter Corp,52102010,산업용 기계 및 장비
+1382,3176,Sanyo Trading Co Ltd,52202010,다각적 산업용 제품 도매
+1383,9381,AIT Corp,52405020,해양 화물 및 물류
+1384,9632,Subaru Enterprise Co Ltd,52201020,건설 및 엔지니어링
+1385,3341,Nihon Chouzai Co Ltd,54301010,의약품 소매
+1386,4461,DKS Co Ltd,51101010,상품 화학
+1387,9823,Mammy Mart Corp,54301020,식품 소매 및 유통
+1388,1929,Nittoc Construction Co Ltd,52201020,건설 및 엔지니어링
+1389,6999,Koa Corp,57104010,전자 장비 및 부품
+1390,9740,Central Security Patrols Co Ltd,52203040,경영 지원 서비스
+1391,7679,Yakuodo Holdings Co Ltd,54301010,의약품 소매
+1392,1375,Yukiguni Maitake Co Ltd,54102010,어업 및 농업
+1393,6272,Rheon Automatic Machinery Co Ltd,52102010,산업용 기계 및 장비
+1394,3491,GA Technologies Co Ltd,57201030,온라인 서비스
+1395,6625,Jalco Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+1396,2053,Chubushiryo Co Ltd,54102010,어업 및 농업
+1397,2540,Yomeishu Seizo Co Ltd,54101020,증류주 및 포도주
+1398,6309,Tomoe Engineering Co Ltd,51101010,상품 화학
+1399,4820,EM Systems Co Ltd,57201020,소프트웨어
+1400,2971,Escon Japan Reit Investment Corp,60102020,상업용 REITs
+1401,8151,Toyo Corp,52102010,산업용 기계 및 장비
+1402,6226,Moriya Transportation Engineering and Manufacturing Co Ltd,52102040,중전기장비
+1403,5161,Nishikawa Rubber Co Ltd,53101030,타이어 및 고무 제품
+1404,8217,Okuwa Co Ltd,54301020,식품 소매 및 유통
+1405,4951,ST Corp,54201010,가정용 제품
+1406,7095,Macbee Planet Inc,53302010,광고 및 마케팅
+1407,4218,Nichiban Co Ltd,52203060,비즈니스 지원 용품
+1408,3193,Eternal Hospitality Group Co Ltd,53301020,레스토랑 및 바
+1409,4165,Plaid Inc,57201010,IT 서비스 및 컨설팅
+1410,8541,Ehime Bank Ltd,55101010,은행
+1411,2268,B-R 31 Ice Cream Co Ltd,53301020,레스토랑 및 바
+1412,5659,Nippon Seisen Co Ltd,51201020,철 및 강철
+1413,5563,Nippon Denko Co Ltd,51201020,철 및 강철
+1414,2676,Takachiho Koheki Co Ltd,57104010,전자 장비 및 부품
+1415,3983,Oro Co Ltd,57201010,IT 서비스 및 컨설팅
+1416,7607,Shinwa Co Ltd,52102010,산업용 기계 및 장비
+1417,2573,Hokkaido Coca Cola Bottling Co Ltd,54101030,무알콜 음료
+1418,6062,Charm Care Corp,56102010,의료 시설 및 서비스
+1419,166A,Tasuki Holdings Inc,60101020,부동산 서비스
+1420,3245,Dear Life Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1421,4743,ITFor Inc,57201010,IT 서비스 및 컨설팅
+1422,5959,Okabe Co Ltd,53203020,건설 자재 및 비품
+1423,3333,Asahi Co Ltd,53403090,기타 전문 소매
+1424,4027,Tayca Corp,51101010,상품 화학
+1425,6143,Sodick Co Ltd,52102010,산업용 기계 및 장비
+1426,4992,Hokko Chemical Industry Co Ltd,51101020,농화학제
+1427,2910,Rock Field Co Ltd,54102020,식품 가공
+1428,3183,Win-Partners Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1429,6915,Chiyoda Integre Co Ltd,57104010,전자 장비 및 부품
+1430,4318,Quick Co Ltd,52203030,고용 서비스
+1431,5464,Mory Industries Inc,51201020,철 및 강철
+1432,9743,Tanseisha Co Ltd,52203040,경영 지원 서비스
+1433,2491,ValueCommerce Co Ltd,53302010,광고 및 마케팅
+1434,4345,CTS Co Ltd,52203040,경영 지원 서비스
+1435,9268,Optimus Group Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+1436,6222,Shima Seiki Mfg. Ltd,52102010,산업용 기계 및 장비
+1437,8935,FJ Next Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1438,2325,NJS Co Ltd,52203010,환경 서비스 및 장비
+1439,7352,TWOSTONE&Sons Inc,52203030,고용 서비스
+1440,6640,I-PEX Inc,57104010,전자 장비 및 부품
+1441,8275,Forval Corp,57105010,사무기기
+1442,4417,Global Security Experts Inc,57201010,IT 서비스 및 컨설팅
+1443,8343,Akita Bank Ltd,55101010,은행
+1444,3284,Hoosiers Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1445,3455,Healthcare & Medical Investment Corp,60102040,특수 REITs
+1446,2923,Sato Foods Co Ltd,54102020,식품 가공
+1447,6369,Toyo Kanetsu KK,52102010,산업용 기계 및 장비
+1448,8052,Tsubakimoto Kogyo Co Ltd,52102010,산업용 기계 및 장비
+1449,7280,Mitsuba Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1450,8699,HS Holdings Co Ltd,55101010,은행
+1451,5254,Arent Inc,57201010,IT 서비스 및 컨설팅
+1452,7414,Onoken Co Ltd,51201020,철 및 강철
+1453,4658,Nippon Air Conditioning Services Co Ltd,52203040,경영 지원 서비스
+1454,4931,Shinnihonseiyaku Co Ltd,53402010,백화점
+1455,7366,Litalico Inc,63103010,전문 및 비즈니스 교육
+1456,7198,SBI Aruhi Corp,55101030,소비자 대출
+1457,8141,Shinko Shoji Co Ltd,57101010,반도체
+1458,1815,Tekken Corp,52201020,건설 및 엔지니어링
+1459,2429,World Holdings Co Ltd,52203030,고용 서비스
+1460,1975,Asahi Kogyosha Co Ltd,52201020,건설 및 엔지니어링
+1461,6644,Osaki Electric Co Ltd,52102030,전기 부품 및 장비
+1462,8395,Bank of Saga Ltd,55101010,은행
+1463,3688,Carta Holdings Inc,53302010,광고 및 마케팅
+1464,9204,Skymark Airlines Inc,52406010,항공사
+1465,2972,Sankei Real Estate Inc,60102020,상업용 REITs
+1466,5976,Neturen Co Ltd,51201020,철 및 강철
+1467,4763,Creek & River Co Ltd,52203040,경영 지원 서비스
+1468,7605,Fuji Corp (Miyagi),53403010,"자동차 차량, 부품 및 서비스 소매"
+1469,9164,TRYT Inc,52203030,고용 서비스
+1470,9726,KNT-CT Holdings Co Ltd,53301040,여가 및 오락시설
+1471,6800,Yokowo Co Ltd,57104010,전자 장비 및 부품
+1472,1945,Tokyo Energy & Systems Inc,52201020,건설 및 엔지니어링
+1473,4462,Ishihara Chemical Co Ltd,51101030,특수 화학제
+1474,4725,CAC Holdings Corp,57201010,IT 서비스 및 컨설팅
+1475,4112,Hodogaya Chemical Co Ltd,51101030,특수 화학제
+1476,3399,Maruchiyo Yamaokaya Corp,53301020,레스토랑 및 바
+1477,2705,Ootoya Holdings Co Ltd,53301020,레스토랑 및 바
+1478,2915,Kenko Mayonnaise Co Ltd,54102020,식품 가공
+1479,5262,Nippon Hume Corp,51202010,건설 자재
+1480,8005,Scroll Corp,53402010,백화점
+1481,6279,Zuiko Corp,52102010,산업용 기계 및 장비
+1482,3133,Kaihan Co Ltd,53301020,레스토랑 및 바
+1483,6480,Nippon Thompson Co Ltd,52102010,산업용 기계 및 장비
+1484,7893,Pronexus Inc,52203070,전문 정보 서비스
+1485,3798,ULS Group Inc,57201010,IT 서비스 및 컨설팅
+1486,7438,Kondotec Inc,53203020,건설 자재 및 비품
+1487,7921,Takara & Company Ltd,52203070,전문 정보 서비스
+1488,3153,Yashima Denki Co Ltd,52102030,전기 부품 및 장비
+1489,2918,Warabeya Nichiyo Holdings Co Ltd,54102020,식품 가공
+1490,9338,Inforich Inc,52102030,전기 부품 및 장비
+1491,9305,Yamatane Corp,54301020,식품 소매 및 유통
+1492,2108,Nippon Beet Sugar Manufacturing Co Ltd,54102020,식품 가공
+1493,2305,Studio Alice Co Ltd,54201030,개인 서비스
+1494,1921,Tomoe Corp,52201020,건설 및 엔지니어링
+1495,7596,Uoriki Co Ltd,54301020,식품 소매 및 유통
+1496,9742,INES Corp,57201010,IT 서비스 및 컨설팅
+1497,3901,MarkLines Co Ltd,57201030,온라인 서비스
+1498,3458,Cre Inc,60101010,"부동산 임대, 개발 및 운영"
+1499,4933,I Ne Co Ltd,54201020,개인 생활 필수 용품
+1500,3660,Istyle Inc,53402010,백화점
+1501,9308,Inui Global Logistics Co Ltd,52405020,해양 화물 및 물류
+1502,3328,BEENOS Inc,53402010,백화점
+1503,6676,Melco Holdings Inc,57106010,컴퓨터 하드웨어
+1504,6742,Kyosan Electric Manufacturing Co Ltd,57102010,통신 및 네트워킹
+1505,8137,Sun-Wa Technos Corp,52102030,전기 부품 및 장비
+1506,4439,Toumei Co Ltd,57102010,통신 및 네트워킹
+1507,3788,GMO GlobalSign Holdings KK,57201030,온라인 서비스
+1508,4025,Taki Chemical Co Ltd,51101020,농화학제
+1509,9286,Enex Infrastructure Investment Corp,55501030,폐쇄형 펀드
+1510,8929,Aoyama Zaisan Networks Co Ltd,60101020,부동산 서비스
+1511,2763,FTGroup Co Ltd,59101010,전력 유틸리티
+1512,7383,Net Protections Holdings Inc,52203040,경영 지원 서비스
+1513,9284,Canadian Solar Infrastructure Fund Inc,55501030,폐쇄형 펀드
+1514,7769,Rhythm Co Ltd,57104010,전자 장비 및 부품
+1515,2938,Okamura Foods Co Ltd,54102020,식품 가공
+1516,8622,Mito Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+1517,7844,Marvelous Inc,57201030,온라인 서비스
+1518,7420,Satori Electric Co Ltd,57101010,반도체
+1519,8081,Kanaden Corp,52102010,산업용 기계 및 장비
+1520,2294,Kakiyasu Honten Co Ltd,54102020,식품 가공
+1521,9368,Kimura Unity Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+1522,2753,Amiyaki Tei Co Ltd,53301020,레스토랑 및 바
+1523,9441,Bell-Park Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+1524,1813,Fudo Tetra Corp,52201020,건설 및 엔지니어링
+1525,4718,Waseda Academy Co Ltd,63101010,기타 교육 서비스 제공
+1526,2475,WDB Holdings Co Ltd,52203030,고용 서비스
+1527,3496,AZoom Co Ltd,57201030,온라인 서비스
+1528,3694,OPTiM Corp,57201020,소프트웨어
+1529,4221,Okura Industrial Co Ltd,51101010,상품 화학
+1530,3221,Yossix Holdings Co Ltd,53301020,레스토랑 및 바
+1531,2612,Kadoya Sesame Mills Inc,54102020,식품 가공
+1532,1930,Hokuriku Electrical Construction Co Ltd,52201020,건설 및 엔지니어링
+1533,6223,Seibu Giken Co Ltd,52102010,산업용 기계 및 장비
+1534,9795,Step Co Ltd,63101010,기타 교육 서비스 제공
+1535,7937,Tsutsumi Jewelry Co Ltd,53202020,의류 및 액세서리
+1536,2884,Yoshimura Food Holdings KK,54102020,식품 가공
+1537,3978,Macromill Inc,53302010,광고 및 마케팅
+1538,2148,ITmedia Inc,57201030,온라인 서비스
+1539,4249,Moriroku Holdings Co Ltd,51101010,상품 화학
+1540,9991,Gecoss Corp,53203020,건설 자재 및 비품
+1541,4577,Daito Pharmaceutical Co Ltd,56201040,제약
+1542,4464,Soft99 Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1543,7510,Takebishi Corp,52102030,전기 부품 및 장비
+1544,2831,Hagoromo Foods Corp,54102020,식품 가공
+1545,5218,Ohara Inc,57104010,전자 장비 및 부품
+1546,8011,Sanyo Shokai Ltd,53202020,의류 및 액세서리
+1547,3580,Komatsu Matere Co Ltd,53202010,직물 및 가죽제품
+1548,2932,STI Foods Holdings Inc,54102020,식품 가공
+1549,3561,Chikaranomoto Holdings Co Ltd,53301020,레스토랑 및 바
+1550,2217,Morozoff Ltd,54102020,식품 가공
+1551,8344,Yamagata Bank Ltd,55101010,은행
+1552,7102,Nippon Sharyo Ltd,52102020,중장비 및 차량
+1553,7467,Hagiwara Electric Holdings Co Ltd,57101010,반도체
+1554,4499,Speee Inc,57201010,IT 서비스 및 컨설팅
+1555,3199,Watahan & Co Ltd,54301020,식품 소매 및 유통
+1556,6617,Takaoka Toko Co Ltd,52102030,전기 부품 및 장비
+1557,5202,Nippon Sheet Glass Co Ltd,53203020,건설 자재 및 비품
+1558,5757,CK San-Etsu Co Ltd,51201050,특수 채굴 및 금속
+1559,2060,Feed One Co Ltd,54102010,어업 및 농업
+1560,4390,IPS Inc,57401010,통합 통신 서비스
+1561,7408,Jamco Corp,52101010,항공우주 및 방위
+1562,4611,Dai Nippon Toryo Co Ltd,51101010,상품 화학
+1563,7914,Kyodo Printing Co Ltd,52203020,상업 인쇄 서비스
+1564,2207,Meito Sangyo Co Ltd,54102020,식품 가공
+1565,1793,Ohmoto Gumi Co Ltd,52201020,건설 및 엔지니어링
+1566,8624,Ichiyoshi Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+1567,4344,Sourcenext Corp,57201020,소프트웨어
+1568,6637,Terasaki Electric Co Ltd,52102030,전기 부품 및 장비
+1569,6145,Nittoku Co Ltd,52102010,산업용 기계 및 장비
+1570,2349,Nippon Information Development Co Ltd,57201010,IT 서비스 및 컨설팅
+1571,3546,Alleanza Holdings Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+1572,2221,Iwatsuka Confectionery Co Ltd,54102020,식품 가공
+1573,3835,eBASE Co Ltd,57201020,소프트웨어
+1574,5185,Fukoku Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1575,5992,Chuo Spring Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1576,8150,Sanshin Electronics Co Ltd,57101010,반도체
+1577,2669,Kanemi Co Ltd,54102020,식품 가공
+1578,2922,Natori Co Ltd,54102020,식품 가공
+1579,4554,Fuji Pharma Co Ltd,56201040,제약
+1580,3093,Treasure Factory Co Ltd,53403090,기타 전문 소매
+1581,2372,I'rom Group Co Ltd,56102010,의료 시설 및 서비스
+1582,6070,Careerlink Co Ltd,52203030,고용 서비스
+1583,3843,FreeBit Co Ltd,57401010,통합 통신 서비스
+1584,2484,Demae-can Co Ltd,57201030,온라인 서비스
+1585,6834,Seikoh Giken Co Ltd,52102010,산업용 기계 및 장비
+1586,2461,FAN Communications Inc,53302010,광고 및 마케팅
+1587,2209,Imuraya Group Co Ltd,54102020,식품 가공
+1588,9341,Genova Inc,57201030,온라인 서비스
+1589,3916,Digital Information Technologies Corp,57201010,IT 서비스 및 컨설팅
+1590,6817,Sumida Corp,52102030,전기 부품 및 장비
+1591,9896,JK Holdings Co Ltd,51202010,건설 자재
+1592,6362,Ishii Iron Works Co Ltd,51201020,철 및 강철
+1593,6016,Japan Engine Corp,52102050,조선
+1594,2393,Nippon Care Supply Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1595,7033,Management Solutions Co Ltd,52203040,경영 지원 서비스
+1596,2469,Hibino Corp,57106030,가정용 전자 제품
+1597,6247,Hisaka Works Ltd,52102010,산업용 기계 및 장비
+1598,6788,Nihon Trim Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+1599,2819,Ebara Foods Industry Inc,54102020,식품 가공
+1600,6809,TOA Corp (Hyogo),57102010,통신 및 네트워킹
+1601,7609,Daitron Co Ltd,57104010,전자 장비 및 부품
+1602,4595,Mizuho Medy Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1603,7723,Aichi Tokei Denki Co Ltd,52102010,산업용 기계 및 장비
+1604,2150,CareNet Inc,57201030,온라인 서비스
+1605,9994,Yamaya Corp,54301020,식품 소매 및 유통
+1606,3984,User Local Inc,57201010,IT 서비스 및 컨설팅
+1607,6238,FuRyu Corp,53205010,장난감 및 어린이 제품
+1608,7482,Shimojima Co Ltd,51302010,용기(종이 제외) 및 포장재
+1609,6958,CMK Corp,57101010,반도체
+1610,8864,Airport Facilities Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1611,6824,New Cosmos Electric Co Ltd,52102030,전기 부품 및 장비
+1612,9232,Pasco Corp,51201070,채굴 지원 서비스 및 장비
+1613,8065,Sato Sho-Ji Corp,51201020,철 및 강철
+1614,3421,Inaba Seisakusho Co Ltd,52203060,비즈니스 지원 용품
+1615,9932,Sugimoto & Co Ltd,52102010,산업용 기계 및 장비
+1616,5357,Yotai Refractories Co Ltd,51202010,건설 자재
+1617,4275,Carlit Co Ltd,51101010,상품 화학
+1618,2266,Rokko Butter Co Ltd,54102020,식품 가공
+1619,5288,Asia Pile Holdings Corp,51202010,건설 자재
+1620,5121,Fujikura Composites Inc,53101030,타이어 및 고무 제품
+1621,3857,LAC Co Ltd,57201010,IT 서비스 및 컨설팅
+1622,3932,Akatsuki Inc,57201030,온라인 서비스
+1623,9622,Space Co Ltd,52201020,건설 및 엔지니어링
+1624,2497,United Inc,55102020,투자 관리 및 펀드 운영
+1625,3470,Marimo Regional Revitalization REIT Inc,60102010,복합부동산 REITs
+1626,6411,Nakano Refrigerators Co Ltd,52102030,전기 부품 및 장비
+1627,6249,Gamecard Joyco Holdings Inc,53301030,카지노 및 도박
+1628,6535,i-mobile Co Ltd,57201030,온라인 서비스
+1629,247A,Ai Robotics Inc,57201010,IT 서비스 및 컨설팅
+1630,4333,Toho System Science Co Ltd,57201020,소프트웨어
+1631,7537,Marubun Corp,57101010,반도체
+1632,6823,Rion Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1633,9384,Naigai Trans Line Ltd,52405020,해양 화물 및 물류
+1634,7949,Komatsu Wall Industry Co Ltd,53203020,건설 자재 및 비품
+1635,8142,Toho Co Ltd (Hyogo),54301020,식품 소매 및 유통
+1636,2986,LA Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1637,4259,ExaWizards Inc,57201010,IT 서비스 및 컨설팅
+1638,9319,Chuo Warehouse Co Ltd,52405030,지상 화물 및 물류
+1639,6556,Welbe Inc,63103010,전문 및 비즈니스 교육
+1640,8704,Traders Holdings Co Ltd,55102010,투자 은행 및 중개 서비스
+1641,3264,Ascot Corp,60101010,"부동산 임대, 개발 및 운영"
+1642,7823,Artnature Inc,54201020,개인 생활 필수 용품
+1643,256A,Tobishima Holdings Inc,52201020,건설 및 엔지니어링
+1644,2929,Pharma Foods International Co Ltd,56202010,생명 공학 및 의학 연구
+1645,2989,Tokaido REIT Inc,60102020,상업용 REITs
+1646,3159,Maruzen CHI Holdings Co Ltd,53403090,기타 전문 소매
+1647,6030,Adventure Inc,53403090,기타 전문 소매
+1648,7294,Yorozu Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1649,6137,Koike Sanso Kogyo Co Ltd,52102010,산업용 기계 및 장비
+1650,4477,Base Inc,57201030,온라인 서비스
+1651,7925,Maezawa Kasei Industries Co Ltd,53203020,건설 자재 및 비품
+1652,9640,Saison Technology Co Ltd,57201010,IT 서비스 및 컨설팅
+1653,6330,Toyo Engineering Corp,52201020,건설 및 엔지니어링
+1654,3355,Kuriyama Holdings Corp,51101010,상품 화학
+1655,6627,Tera Probe Inc,57101020,반도체 장비 및 테스트
+1656,6257,Fujishoji Co Ltd,53301030,카지노 및 도박
+1657,8550,Tochigi Bank Ltd,55101010,은행
+1658,3548,Baroque Japan Ltd,53403040,의류 및 액세서리 소매
+1659,4826,Computer Institute of Japan Ltd,57201010,IT 서비스 및 컨설팅
+1660,9278,Bookoff Group Holdings Ltd,53403090,기타 전문 소매
+1661,4839,Wowow Inc,53302020,방송
+1662,2471,S-Pool Inc,52203030,고용 서비스
+1663,7059,Copro-Holdings Co Ltd,52203030,고용 서비스
+1664,8596,Kyushu Leasing Service Co Ltd,55101050,기업 금융 서비스
+1665,2462,LIKE Inc,54201030,개인 서비스
+1666,4310,Dream Incubator Inc,52203040,경영 지원 서비스
+1667,9539,Keiyo Gas Co Ltd,59102010,천연가스 유틸리티
+1668,4709,ID Holdings Corp,57201010,IT 서비스 및 컨설팅
+1669,3315,Nippon Coke & Engineering Co Ltd,50101010,석탄
+1670,4094,Nihon Kagaku Sangyo Co Ltd,51101030,특수 화학제
+1671,5909,Corona Corp,53204030,"가전제품, 도구 및 가정 용품"
+1672,6855,Japan Electronic Materials Corp,57101020,반도체 장비 및 테스트
+1673,3139,Lacto Japan Co Ltd,54301020,식품 소매 및 유통
+1674,1429,Nippon Aqua Co Ltd,53203020,건설 자재 및 비품
+1675,7637,Hakudo Co Ltd,51201030,알루미늄
+1676,4072,Densan System Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+1677,8018,Sankyo Seiko Co Ltd,53202020,의류 및 액세서리
+1678,6071,IBJ Inc,54201030,개인 서비스
+1679,6464,Tsubaki Nakashima Co Ltd,52102010,산업용 기계 및 장비
+1680,219A,Heartseed Inc,56202010,생명 공학 및 의학 연구
+1681,6418,Japan Cash Machine Co Ltd,57105010,사무기기
+1682,4435,Kaonavi Inc,57201020,소프트웨어
+1683,5261,Resol Holdings Co Ltd,53301040,여가 및 오락시설
+1684,9556,Intloop Inc,52203040,경영 지원 서비스
+1685,7989,Tachikawa Corp,53204040,가정용 가구
+1686,9990,Sac's Bar Holdings Inc,53403040,의류 및 액세서리 소매
+1687,1938,Nippon Rietec Co Ltd,52201020,건설 및 엔지니어링
+1688,6306,Nikko Co Ltd,52102020,중장비 및 차량
+1689,3597,Jichodo Co Ltd,53202020,의류 및 액세서리
+1690,5821,Hirakawa Hewtech Corp,52102030,전기 부품 및 장비
+1691,2533,Oenon Holdings Inc,54101020,증류주 및 포도주
+1692,6144,Seibu Electric & Machinery Co Ltd,52102010,산업용 기계 및 장비
+1693,1904,Taisei Oncho Co Ltd,52201020,건설 및 엔지니어링
+1694,2359,Core Corp,57201010,IT 서비스 및 컨설팅
+1695,6485,Maezawa Kyuso Industries Co Ltd,52102010,산업용 기계 및 장비
+1696,8860,Fuji Corp Ltd,60101010,"부동산 임대, 개발 및 운영"
+1697,6677,SK-Electronics Co Ltd,57101010,반도체
+1698,4801,Central Sports Co Ltd,53301040,여가 및 오락시설
+1699,4449,Giftee Inc,57201030,온라인 서비스
+1700,4619,Nihon Tokushu Toryo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1701,176A,Rezil Inc,59101010,전력 유틸리티
+1702,6357,Sansei Technologies Inc,52102010,산업용 기계 및 장비
+1703,2153,E J Holdings Inc,52201020,건설 및 엔지니어링
+1704,6763,Teikoku Tsushin Kogyo Co Ltd,52102030,전기 부품 및 장비
+1705,4659,AJIS Co Ltd,52203040,경영 지원 서비스
+1706,4685,Ryoyu Systems Co Ltd,57201010,IT 서비스 및 컨설팅
+1707,8291,Nissan Tokyo Sales Holdings Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+1708,3488,Xymax Reit Investment Corp,60102010,복합부동산 REITs
+1709,9287,Japan Infrastructure Fund Investment Corp,55501030,폐쇄형 펀드
+1710,7962,King Jim Co Ltd,52203060,비즈니스 지원 용품
+1711,2114,Fuji Nihon Corp,54102020,식품 가공
+1712,7971,Toli Corp,53203020,건설 자재 및 비품
+1713,1967,Yamato Corp,52201020,건설 및 엔지니어링
+1714,212A,Fit Easy Inc,53301040,여가 및 오락시설
+1715,9600,I-Net Corp,57201010,IT 서비스 및 컨설팅
+1716,6785,Suzuki Co Ltd,52102030,전기 부품 및 장비
+1717,7229,Yutaka Giken Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1718,2301,Gakujo Co Ltd,52203030,고용 서비스
+1719,9628,San Holdings Inc,54201030,개인 서비스
+1720,8301,Bank of Japan,55101010,은행
+1721,6539,Matching Service Japan Co Ltd,52203030,고용 서비스
+1722,3205,Daidoh Ltd,53202020,의류 및 액세서리
+1723,9788,Nac Co Ltd,53203010,주택 건설
+1724,9332,Nisso Holdings Co Ltd,52203030,고용 서비스
+1725,8101,GSI Creos Corp,53202010,직물 및 가죽제품
+1726,5541,Pacific Metals Co Ltd,51201050,특수 채굴 및 금속
+1727,7955,Cleanup Corp,53203020,건설 자재 및 비품
+1728,8844,Cosmos Initia Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1729,8158,Soda Nikka Co Ltd,51101010,상품 화학
+1730,6584,Sanoh Industrial Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1731,7638,New Art Holdings Co Ltd,53202020,의류 및 액세서리
+1732,8203,Mr Max Holdings Ltd,53402020,할인점
+1733,2674,Hard Off Corporation Co Ltd,53403090,기타 전문 소매
+1734,6125,Okamoto Machine Tool Works Ltd,52102010,산업용 기계 및 장비
+1735,9535,Hiroshima Gas Co Ltd,59102010,천연가스 유틸리티
+1736,7683,WA Inc,53202030,제화
+1737,7305,Araya Industrial Co Ltd,51201020,철 및 강철
+1738,4671,Falco Holdings Co Ltd,56102010,의료 시설 및 서비스
+1739,6387,Samco Inc,57101020,반도체 장비 및 테스트
+1740,3696,Ceres Inc,57201030,온라인 서비스
+1741,6245,Hirano Tecseed Co Ltd,52102010,산업용 기계 및 장비
+1742,3921,Neojapan Inc,57201020,소프트웨어
+1743,7480,Suzuden Corp,52102030,전기 부품 및 장비
+1744,7185,Hirose Tusyo Inc,55102010,투자 은행 및 중개 서비스
+1745,7779,Cyberdyne Inc,56102010,의료 시설 및 서비스
+1746,1866,Kitano Construction Corp,52201020,건설 및 엔지니어링
+1747,3900,CrowdWorks Inc,52203030,고용 서비스
+1748,2820,Yamami Co,54102020,식품 가공
+1749,4847,Intelligent Wave Inc,57201010,IT 서비스 및 컨설팅
+1750,8103,Meiwa Corp,51101010,상품 화학
+1751,9405,Asahi Broadcasting Group Holdings Corp,53302020,방송
+1752,6331,Mitsubishi Kakoki Kaisha Ltd,52102010,산업용 기계 및 장비
+1753,7803,Bushiroad Inc,53302030,엔터테인먼트 제작
+1754,7047,Port Inc,57201030,온라인 서비스
+1755,3939,Kanamic Network Co Ltd,57201010,IT 서비스 및 컨설팅
+1756,5989,H-One Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1757,9273,Koa Shoji Holdings Co Ltd,56201040,제약
+1758,1810,Matsui Construction Co Ltd,52201020,건설 및 엔지니어링
+1759,3914,Jig-Saw Inc,57201010,IT 서비스 및 컨설팅
+1760,8713,Fidea Holdings Co Ltd,55101010,은행
+1761,4972,Soken Chemical & Engineering Co Ltd,51101030,특수 화학제
+1762,9955,Yonkyu Co Ltd,54102010,어업 및 농업
+1763,2158,FRONTEO Inc,57201010,IT 서비스 및 컨설팅
+1764,2936,BASE FOOD Inc,54102020,식품 가공
+1765,8920,Tosho Co Ltd,53301040,여가 및 오락시설
+1766,3040,Soliton Systems KK,57201030,온라인 서비스
+1767,6844,Shindengen Electric Manufacturing Co Ltd,52102030,전기 부품 및 장비
+1768,1780,Yamaura Corp,52201020,건설 및 엔지니어링
+1769,1811,Zenitaka Corp,52201020,건설 및 엔지니어링
+1770,9115,Meiji Shipping Group Co Ltd,52405020,해양 화물 및 물류
+1771,6489,Maezawa Industries Inc,52102010,산업용 기계 및 장비
+1772,7570,Hashimoto Sogyo Holdings Co Ltd,53203020,건설 자재 및 비품
+1773,1909,Nippon Dry-Chemical Co Ltd,53203020,건설 자재 및 비품
+1774,6997,Nippon Chemi-Con Corp,52102030,전기 부품 및 장비
+1775,2498,Oriental Consultants Holdings Co Ltd,52201020,건설 및 엔지니어링
+1776,3475,Good Com Asset Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1777,4538,Fuso Pharmaceutical Industries Ltd,56201040,제약
+1778,7500,Nishikawa Keisoku Co Ltd,52102030,전기 부품 및 장비
+1779,3771,System Research Co Ltd,57201010,IT 서비스 및 컨설팅
+1780,2804,Bull-Dog Sauce Co Ltd,54102020,식품 가공
+1781,9386,Nippon Concept Corp,52405020,해양 화물 및 물류
+1782,5038,eWeLL Co Ltd,57201020,소프트웨어
+1783,2933,Kibun Foods Inc,54102020,식품 가공
+1784,4229,Gun Ei Chemical Industry Co Ltd,51101030,특수 화학제
+1785,7952,Kawai Musical Instruments Manufacturing Co Ltd,53205020,오락용 제품
+1786,4377,One Career Inc,57201030,온라인 서비스
+1787,6832,Aoi Electronics Co Ltd,57101010,반도체
+1788,7373,Aidma Holdings Inc,52203040,경영 지원 서비스
+1789,7475,Albis Co Ltd,54301020,식품 소매 및 유통
+1790,4301,Amuse Inc,53302030,엔터테인먼트 제작
+1791,7092,Fast Fitness Japan Inc,53301040,여가 및 오락시설
+1792,3073,DD Group Co Ltd,53301020,레스토랑 및 바
+1793,9906,Fujii Sangyo Corp,52102030,전기 부품 및 장비
+1794,8139,Nagahori Corp,53202020,의류 및 액세서리
+1795,7717,V Technology Co Ltd,57104010,전자 장비 및 부품
+1796,3915,TerraSky Co Ltd,57201010,IT 서비스 및 컨설팅
+1797,2882,Eat&Holdings Co Ltd,54102020,식품 가공
+1798,7187,J-Lease Co Ltd,55101030,소비자 대출
+1799,5017,Fuji Oil Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+1800,9658,Business Brain Showa-Ota Inc,57201010,IT 서비스 및 컨설팅
+1801,8772,Asax Co Ltd,55101050,기업 금융 서비스
+1802,3793,Drecom Co Ltd,57201020,소프트웨어
+1803,3075,Choushimaru Co Ltd,53301020,레스토랑 및 바
+1804,9424,Japan Communications Inc,57401020,무선 통신 서비스
+1805,5957,Nitto Seiko Co Ltd,52102010,산업용 기계 및 장비
+1806,6482,Yushin Precision Equipment Co Ltd,52102010,산업용 기계 및 장비
+1807,8881,Nisshin Group Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1808,9850,Gourmet Kineya Co Ltd,53301020,레스토랑 및 바
+1809,7520,Eco's Co Ltd,54301020,식품 소매 및 유통
+1810,3178,Chimney Co Ltd,53301020,레스토랑 및 바
+1811,4968,Arakawa Chemical Industries Ltd,51101010,상품 화학
+1812,6697,Techpoint Inc DRC,57101010,반도체
+1813,8551,Kita-Nippon Bank Ltd,55101010,은행
+1814,4092,Nippon Chemical Industrial Co Ltd,51101010,상품 화학
+1815,4771,F&M Co Ltd,52203040,경영 지원 서비스
+1816,5932,Sankyo Tateyama Inc,53203020,건설 자재 및 비품
+1817,8869,Meiwa Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1818,3449,Technoflex Corp,53203020,건설 자재 및 비품
+1819,4058,Toyokumo Inc,57201010,IT 서비스 및 컨설팅
+1820,5902,Hokkan Holdings Ltd,51302010,용기(종이 제외) 및 포장재
+1821,3452,B-Lot Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1822,7236,T.RAD Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1823,4880,CellSource Co Ltd,56102010,의료 시설 및 서비스
+1824,7628,Ohashi Technica Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+1825,6310,Iseki&Co Ltd,52102020,중장비 및 차량
+1826,8928,Anabuki Kosan Inc,60101010,"부동산 임대, 개발 및 운영"
+1827,7525,RIX Corp,52102010,산업용 기계 및 장비
+1828,7326,SBI Insurance Group Co Ltd,55301010,복합보험 및 중개인
+1829,3763,Pro-Ship Inc,57201020,소프트웨어
+1830,6089,Will Group Inc,52203030,고용 서비스
+1831,4410,Harima Chemicals Group Inc,51101010,상품 화학
+1832,4748,Kozo Keikaku Engineering Inc,57201020,소프트웨어
+1833,7245,Daido Metal Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+1834,6191,AirTrip Corp,53301040,여가 및 오락시설
+1835,3649,Findex Inc,56101010,첨단 의료 장비 및 기술
+1836,2975,Star Mica Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1837,3179,Syuppin Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+1838,8038,Tohto Suisan Co Ltd,54102010,어업 및 농업
+1839,2830,Aohata Corp,54102020,식품 가공
+1840,6779,Nihon Dempa Kogyo Co Ltd,57104010,전자 장비 및 부품
+1841,6358,Sakai Heavy Industries Ltd,52102020,중장비 및 차량
+1842,4371,Core Concept Technologies Inc,57201010,IT 서비스 및 컨설팅
+1843,7554,Kourakuen Corp,53301020,레스토랑 및 바
+1844,4080,Tanaka Chemical Corp,51101010,상품 화학
+1845,8558,Towa Bank Ltd,55101010,은행
+1846,9216,Bewith Inc,52203040,경영 지원 서비스
+1847,9687,KSK Co Ltd,57201010,IT 서비스 및 컨설팅
+1848,7814,Japan Creative Platform Group Co Ltd,52203020,상업 인쇄 서비스
+1849,7820,Nihon Flush Co Ltd,53203020,건설 자재 및 비품
+1850,4022,Rasa Industries Ltd,51101010,상품 화학
+1851,3925,Double Standard Inc,52203040,경영 지원 서비스
+1852,208A,Kozo Keikaku Engineering Holdings Inc,57201020,소프트웨어
+1853,9979,Daisyo Corp,53301020,레스토랑 및 바
+1854,2198,IKK Holdings Inc,54201030,개인 서비스
+1855,6547,Greens Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+1856,5142,Achilles Corp,51101010,상품 화학
+1857,2930,Kitanotatsujin Corp,53402010,백화점
+1858,1964,Chugai Ro Co Ltd,52102010,산업용 기계 및 장비
+1859,2378,Renaissance Inc,53301040,여가 및 오락시설
+1860,5013,Yushiro Chemical Industry Co Ltd,51101010,상품 화학
+1861,5535,Migalo Holdings Inc,60101020,부동산 서비스
+1862,4979,OAT Agrio Co Ltd,51101020,농화학제
+1863,250A,Shimadaya Corp,54102020,식품 가공
+1864,3741,Systems Engineering Consultants Co Ltd,57201020,소프트웨어
+1865,4599,StemRIM Inc,56201040,제약
+1866,3276,Japan Property Management Center Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+1867,6264,Marumae Co Ltd,57104010,전자 장비 및 부품
+1868,6927,Helios Techno Holding Co Ltd,52102030,전기 부품 및 장비
+1869,3171,Maxvalu Kyushu Co Ltd,54301020,식품 소매 및 유통
+1870,2998,Creal Inc,60101020,부동산 서비스
+1871,6050,E-Guardian Inc,52203040,경영 지원 서비스
+1872,5574,ABEJA Inc,57201010,IT 서비스 및 컨설팅
+1873,5135,AIR-U Ltd,57401020,무선 통신 서비스
+1874,6246,Techno Smart Corp,52102010,산업용 기계 및 장비
+1875,5632,Mitsubishi Steel Mfg. Co Ltd,51201020,철 및 강철
+1876,3922,PR Times Corp,57201030,온라인 서비스
+1877,7856,Hagihara Industries Inc,51101010,상품 화학
+1878,6562,Geniee Inc,53302010,광고 및 마케팅
+1879,4745,Tokyo Individualized Educational Institute Inc,63101010,기타 교육 서비스 제공
+1880,6986,Futaba Corp,52102030,전기 부품 및 장비
+1881,6955,FDK Corp,52102030,전기 부품 및 장비
+1882,6879,Imagica Group Inc,53302030,엔터테인먼트 제작
+1883,2389,Digital Holdings Inc,53302010,광고 및 마케팅
+1884,5834,SBI Leasing Services Co Ltd,55101050,기업 금융 서비스
+1885,9083,Shinki Bus Co Ltd,52406020,지상 및 해상 여객 운송
+1886,2477,Temairazu Inc,57201030,온라인 서비스
+1887,3864,Mitsubishi Paper Mills Ltd,51301020,종이 제품
+1888,6184,Kamakura Shinsho Ltd,57201030,온라인 서비스
+1889,6298,YAC Holdings Co Ltd,57101020,반도체 장비 및 테스트
+1890,9769,Gakkyusha Co Ltd,63101010,기타 교육 서비스 제공
+1891,3891,Nippon Kodoshi Corp,57104010,전자 장비 및 부품
+1892,6918,Aval Data Corp,57101020,반도체 장비 및 테스트
+1893,7466,SPK Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+1894,1712,Daiseki Eco Solution Co Ltd,52203010,환경 서비스 및 장비
+1895,3010,Polaris Holdings Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+1896,9450,Fibergate Inc,57401020,무선 통신 서비스
+1897,7678,Asakuma Co Ltd,53301020,레스토랑 및 바
+1898,202A,Mamezo Digital Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+1899,8095,Astena Holdings Co Ltd,56201040,제약
+1900,3772,Wealth Management Inc,60101010,"부동산 임대, 개발 및 운영"
+1901,9644,Tanabe Consulting Group Co Ltd,52203040,경영 지원 서비스
+1902,3558,Jade Group Inc,57201030,온라인 서비스
+1903,4053,Sun* Inc,57201010,IT 서비스 및 컨설팅
+1904,2445,Takamiya Co Ltd,52203040,경영 지원 서비스
+1905,3457,&Do Holdings Co Ltd,60101020,부동산 서비스
+1906,6073,Asante Inc,52201020,건설 및 엔지니어링
+1907,7621,Ukai Co Ltd,53301020,레스토랑 및 바
+1908,9467,AlphaPolis Co Ltd,53302040,소비자 출판
+1909,135A,Vrain Solution Inc,57201010,IT 서비스 및 컨설팅
+1910,9612,Luckland Co Ltd,52201020,건설 및 엔지니어링
+1911,6293,Nissei Plastic Industrial Co Ltd,52102010,산업용 기계 및 장비
+1912,3834,Asahi Net Inc,57401010,통합 통신 서비스
+1913,9233,Asia Air Survey Co Ltd,51201070,채굴 지원 서비스 및 장비
+1914,9845,Parker Corp,51101010,상품 화학
+1915,8007,Takashima & Co Ltd,53203020,건설 자재 및 비품
+1916,2120,LIFULL Co Ltd,57201030,온라인 서비스
+1917,3902,Medical Data Vision Co Ltd,56101010,첨단 의료 장비 및 기술
+1918,8089,Nice Corp,53203020,건설 자재 및 비품
+1919,3926,Open Door Inc,57201030,온라인 서비스
+1920,3393,Startia Holdings Inc,57201010,IT 서비스 및 컨설팅
+1921,7774,Japan Tissue Engineering Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1922,8093,Kyokuto Boeki Kaisha Ltd,52102010,산업용 기계 및 장비
+1923,5933,Alinco Inc,53203020,건설 자재 및 비품
+1924,8070,Tokyo Sangyo Co Ltd,52102010,산업용 기계 및 장비
+1925,5015,BP Castrol KK,50102030,"오일, 가스 정제 및 마케팅"
+1926,6850,Chino Corp,52102030,전기 부품 및 장비
+1927,9908,Nihon Denkei Co Ltd,52102010,산업용 기계 및 장비
+1928,9033,Hiroshima Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+1929,7691,C Channel Corp,53402010,백화점
+1930,3773,Advanced Media Inc,57201020,소프트웨어
+1931,4251,Keiwa Inc,51101010,상품 화학
+1932,4393,Bank of Innovation Inc,57201020,소프트웨어
+1933,5945,Tenryu Saw Mfg Co Ltd,52102010,산업용 기계 및 장비
+1934,3951,Asahi Printing Co Ltd,51302020,종이 포장재
+1935,1914,Japan Foundation Engineering Co Ltd,52201020,건설 및 엔지니어링
+1936,3678,Media Do Co Ltd,53302040,소비자 출판
+1937,6932,Endo Lighting Corp,53203020,건설 자재 및 비품
+1938,6706,DKK Co Ltd,57102010,통신 및 네트워킹
+1939,4973,Japan Pure Chemical Co Ltd,51101030,특수 화학제
+1940,4463,Nicca Chemical Co Ltd,51101030,특수 화학제
+1941,3068,WDI Corp,53301020,레스토랑 및 바
+1942,8285,Mitani Sangyo Co Ltd,52202010,다각적 산업용 제품 도매
+1943,6619,W-Scope Corp,52102030,전기 부품 및 장비
+1944,6061,Universal Engeisha Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+1945,6626,Semitec Corp,57104010,전자 장비 및 부품
+1946,9163,Nareru Group Inc,52203030,고용 서비스
+1947,6405,Suzumo Machinery Co Ltd,52102010,산업용 기계 및 장비
+1948,3905,Datasection Inc,57201020,소프트웨어
+1949,1736,Otec Corp,53203020,건설 자재 및 비품
+1950,8029,Look Holdings Inc,53202020,의류 및 액세서리
+1951,6255,NPC Inc,52102010,산업용 기계 및 장비
+1952,6194,Atrae Inc,57201030,온라인 서비스
+1953,4434,Serverworks Co Ltd,57201010,IT 서비스 및 컨설팅
+1954,6962,Daishinku Corp,57104010,전자 장비 및 부품
+1955,3968,Segue Group Co Ltd,57201010,IT 서비스 및 컨설팅
+1956,3676,Digital Hearts Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+1957,7347,Mercuria Holdings Co Ltd,55102020,투자 관리 및 펀드 운영
+1958,2307,Cross Cat Co Ltd,57201010,IT 서비스 및 컨설팅
+1959,4668,Meiko Network Japan Co Ltd,63101010,기타 교육 서비스 제공
+1960,2204,Nakamuraya Co Ltd,54102020,식품 가공
+1961,2418,Tsukada Global Holdings Inc,54201030,개인 서비스
+1962,2338,Quantum Solutions Co Ltd,57201010,IT 서비스 및 컨설팅
+1963,8338,Tsukuba Bank Ltd,55101010,은행
+1964,2163,Artner Co Ltd,52203030,고용 서비스
+1965,9913,Nippo Ltd,57104010,전자 장비 및 부품
+1966,3486,Global Link Management Inc,60101010,"부동산 임대, 개발 및 운영"
+1967,9880,Innotech Corp,57201010,IT 서비스 및 컨설팅
+1968,3180,Beauty Garage Inc,53403090,기타 전문 소매
+1969,7888,Sanko Gosei Ltd,52102010,산업용 기계 및 장비
+1970,5363,TYK Corp,51202010,건설 자재
+1971,5269,Nippon Concrete Industries Co Ltd,51202010,건설 자재
+1972,6199,Seraku Co Ltd,57201010,IT 서비스 및 컨설팅
+1973,9046,Kobe Electric Railway Co Ltd,52406020,지상 및 해상 여객 운송
+1974,1847,Ichiken Co Ltd,52201020,건설 및 엔지니어링
+1975,7455,Paris Miki Holdings Inc,53403090,기타 전문 소매
+1976,4809,Paraca Inc,52407030,고속도로 및 철도
+1977,5074,Tess Holdings Co Ltd,59101010,전력 유틸리티
+1978,4574,Taiko Pharmaceutical Co Ltd,56201040,제약
+1979,6231,Kimura Kohki Co Ltd,52102030,전기 부품 및 장비
+1980,4448,kubell Co Ltd,57201020,소프트웨어
+1981,3825,Remixpoint Inc,59101010,전력 유틸리티
+1982,5981,Tokyo Rope Mfg Co Ltd,51201020,철 및 강철
+1983,6445,Janome Corp,53204030,"가전제품, 도구 및 가정 용품"
+1984,260A,Alt Inc,57201010,IT 서비스 및 컨설팅
+1985,6157,NS Tool Co Ltd,52102010,산업용 기계 및 장비
+1986,7481,Oie Sangyo Co Ltd,54301020,식품 소매 및 유통
+1987,4396,System Support Inc,57201010,IT 서비스 및 컨설팅
+1988,3947,Dynapac Co Ltd,51302020,종이 포장재
+1989,8006,Yuasa Funashoku Co Ltd,54301020,식품 소매 및 유통
+1990,3837,Ad-Sol Nissin Corp,57201010,IT 서비스 및 컨설팅
+1991,9057,Enshu Truck Co Ltd,52405030,지상 화물 및 물류
+1992,2806,Yutaka Foods Corp,54102020,식품 가공
+1993,2814,Sato Foods Industries Co Ltd,54102020,식품 가공
+1994,6521,Oxide Corp,57104010,전자 장비 및 부품
+1995,8202,Laox Holdings Co Ltd,53403090,기타 전문 소매
+1996,6566,Kaname Kogyo Co Ltd,52203010,환경 서비스 및 장비
+1997,3611,Matsuoka Corp,53202020,의류 및 액세서리
+1998,3154,Medius Holdings Co Ltd,56101020,"의료 장비, 물품 및 유통"
+1999,8118,King Co Ltd,53202020,의류 및 액세서리
+2000,9768,Idea Consultants Inc,52203010,환경 서비스 및 장비
+2001,9059,Kanda Holdings Co Ltd,52405030,지상 화물 및 물류
+2002,8076,Canox Corp,51201020,철 및 강철
+2003,3655,BrainPad Inc,57201010,IT 서비스 및 컨설팅
+2004,4994,Taisei Lamick Co Ltd,51302010,용기(종이 제외) 및 포장재
+2005,8789,FinTech Global Inc,55102010,투자 은행 및 중개 서비스
+2006,4955,Agro-Kanesho Co Ltd,51101020,농화학제
+2007,4593,Healios KK,56202010,생명 공학 및 의학 연구
+2008,2374,Saint-Care Holding Corp,56102010,의료 시설 및 서비스
+2009,3388,Meiji Electric Industries Co Ltd,52102030,전기 부품 및 장비
+2010,3271,The Global Ltd,60101010,"부동산 임대, 개발 및 운영"
+2011,1828,Tanabe Engineering Corp,52201020,건설 및 엔지니어링
+2012,6365,DMW Corp,52102010,산업용 기계 및 장비
+2013,4425,Kudan Inc,57201020,소프트웨어
+2014,3989,Sharingtechnology Inc,57201030,온라인 서비스
+2015,4662,Focus Systems Corp,57201010,IT 서비스 및 컨설팅
+2016,2440,Gurunavi Inc,57201030,온라인 서비스
+2017,5132,pluszero Inc,57201010,IT 서비스 및 컨설팅
+2018,4011,Headwaters Co Ltd,57201010,IT 서비스 및 컨설팅
+2019,165A,SBI Rheos Hifumi Inc,55102020,투자 관리 및 펀드 운영
+2020,6294,Okada Aiyon Corp,52102020,중장비 및 차량
+2021,4082,Daiichi Kigenso Kagaku Kogyo Co Ltd,51101010,상품 화학
+2022,6565,ABhotel Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+2023,3134,Hamee Corp,53402010,백화점
+2024,4498,Cybertrust Japan Co Ltd,57201020,소프트웨어
+2025,5210,Nihon Yamamura Glass Co Ltd,51302010,용기(종이 제외) 및 포장재
+2026,6382,Trinity Industrial Corp,52102010,산업용 기계 및 장비
+2027,6616,Torex Semiconductor Ltd,57101010,반도체
+2028,8798,Advance Create Co Ltd,55301010,복합보험 및 중개인
+2029,7096,StemCell Institute Inc,56102010,의료 시설 및 서비스
+2030,2009,Torigoe Co Ltd,54102020,식품 가공
+2031,6470,Taiho Kogyo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2032,2193,Cookpad Inc,57201030,온라인 서비스
+2033,8364,Shimizu Bank Ltd,55101010,은행
+2034,7908,Kimoto Co Ltd,51101010,상품 화학
+2035,8999,Grandy House Corp,60101010,"부동산 임대, 개발 및 운영"
+2036,2937,St.Cousair Co Ltd,54102020,식품 가공
+2037,5918,Takigami Steel Construction Co Ltd,52201020,건설 및 엔지니어링
+2038,7932,Nippi Inc,54102020,식품 가공
+2039,9343,ibis Inc,57201020,소프트웨어
+2040,2185,CMC Corp,53302010,광고 및 마케팅
+2041,6378,Kimura Chemical Plants Co Ltd,52102010,산업용 기계 및 장비
+2042,4588,Oncolys Biopharma Inc,56201040,제약
+2043,6232,ACSL Ltd,57104010,전자 장비 및 부품
+2044,3166,Ochi Holdings Co Ltd,53203020,건설 자재 및 비품
+2045,1814,Daisue Construction Co Ltd,52201020,건설 및 엔지니어링
+2046,9765,Ohba Co Ltd,52201020,건설 및 엔지니어링
+2047,1716,Dai-Ichi Cutter Kogyo KK,52201020,건설 및 엔지니어링
+2048,2428,Wellnet Corp,52203040,경영 지원 서비스
+2049,9168,Rise Consulting Group Inc,52203040,경영 지원 서비스
+2050,6047,Gunosy Inc,57201020,소프트웨어
+2051,2892,Nihon Shokuhin Kako Co Ltd,54102020,식품 가공
+2052,4493,Cyber Security Cloud Inc,57201030,온라인 서비스
+2053,4998,Fumakilla Ltd,51101020,농화학제
+2054,3692,FFRI Security Inc,57201030,온라인 서비스
+2055,1827,Nakano Corp,52201020,건설 및 엔지니어링
+2056,4575,CanBas Co Ltd,56201040,제약
+2057,3712,Information Planning Co Ltd,57201010,IT 서비스 및 컨설팅
+2058,9696,With us Corp,63101010,기타 교육 서비스 제공
+2059,4299,Himacs Ltd,57201010,IT 서비스 및 컨설팅
+2060,6444,Sanden Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2061,7191,Entrust Inc,55101030,소비자 대출
+2062,4228,Sekisui Kasei Co Ltd,51101010,상품 화학
+2063,3657,Pole To Win Holdings Inc,57201010,IT 서비스 및 컨설팅
+2064,5845,Zenhoren Co Ltd,55101030,소비자 대출
+2065,2694,Yakiniku Sakai Holdings Inc,53301020,레스토랑 및 바
+2066,7776,CellSeed Inc,56201040,제약
+2067,6798,SMK Corp,57104010,전자 장비 및 부품
+2068,4888,Stella Pharma Corp,56201040,제약
+2069,8917,First Juken Co Ltd,53203010,주택 건설
+2070,5590,Netstars Co Ltd,57301010,핀테크
+2071,3023,Rasa Corp,52102010,산업용 기계 및 장비
+2072,9537,Hokuriku Gas Co Ltd,59102010,천연가스 유틸리티
+2073,5285,Yamax Corp,51202010,건설 자재
+2074,3329,Towa Food Service Co Ltd,53301020,레스토랑 및 바
+2075,6228,JET Co Ltd,57101020,반도체 장비 및 테스트
+2076,1972,Sanko Metal Industrial Co Ltd,51201020,철 및 강철
+2077,5967,Tone Co Ltd,52102010,산업용 기계 및 장비
+2078,1431,Lib Work Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2079,3472,Nippon Hotel & Residential Investment Corp,60102040,특수 REITs
+2080,7320,Solvvy Inc,54201030,개인 서비스
+2081,8091,Nichimo Co Ltd,54102020,식품 가공
+2082,4026,Konoshima Chemical Co Ltd,53203020,건설 자재 및 비품
+2083,6086,Shin Maint Holdings Co Ltd,52203040,경영 지원 서비스
+2084,7600,Japan Medical Dynamic Marketing Inc,56101020,"의료 장비, 물품 및 유통"
+2085,3484,Innovation Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2086,3454,First Brothers Co Ltd,55102010,투자 은행 및 중개 서비스
+2087,4382,HEROZ Inc,57201020,소프트웨어
+2088,2812,Yaizu Suisankagaku Industry Co Ltd,54102020,식품 가공
+2089,5258,Transaction Media Networks Inc,57301010,핀테크
+2090,6227,Aimechatec Ltd,57101020,반도체 장비 및 테스트
+2091,261A,Nihon Suido Consultants Co Ltd,52201020,건설 및 엔지니어링
+2092,3856,Abalance Corp,50201010,재생 가능 에너지 장비 및 서비스
+2093,9522,Renewable Japan Co Ltd,59101010,전력 유틸리티
+2094,7472,Toba Inc,52102010,산업용 기계 및 장비
+2095,8165,Senshukai Co Ltd,53402010,백화점
+2096,1376,Kaneko Seeds Co Ltd,51101020,농화학제
+2097,3877,Chuetsu Pulp & Paper Co Ltd,51301020,종이 제품
+2098,6653,Seiko Electric Co Ltd,52102040,중전기장비
+2099,2901,Wel-Dish Inc,54102020,식품 가공
+2100,4783,NCD Co Ltd,57201010,IT 서비스 및 컨설팅
+2101,7460,Yagi & Co Ltd,53202010,직물 및 가죽제품
+2102,7991,Mamiya-OP Co Ltd,53301030,카지노 및 도박
+2103,3903,gumi Inc,57201020,소프트웨어
+2104,3361,Toell Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2105,6678,Techno Medica Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2106,7562,Anrakutei Co Ltd,53301020,레스토랑 및 바
+2107,8085,Narasaki Sangyo Co Ltd,52102010,산업용 기계 및 장비
+2108,7775,Daiken Medical Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2109,6561,Hanatour Japan Co Ltd,53301040,여가 및 오락시설
+2110,4977,Nitta Gelatin Inc,54102020,식품 가공
+2111,8732,Money Partners Group Co Ltd,55102010,투자 은행 및 중개 서비스
+2112,4064,Nippon Carbide Industries Co Inc,51101010,상품 화학
+2113,7317,Matsuya R&D Co Ltd,52102010,산업용 기계 및 장비
+2114,6643,Togami Electric Mfg Co Ltd,52102030,전기 부품 및 장비
+2115,3529,Atsugi Co Ltd,53202020,의류 및 액세서리
+2116,3800,Unirita Inc,57201020,소프트웨어
+2117,3031,Raccoon Holdings Inc,57201030,온라인 서비스
+2118,2152,Youji Corp,63101010,기타 교육 서비스 제공
+2119,2335,Cube System Inc,57201010,IT 서비스 및 컨설팅
+2120,1726,Br. Holdings Corp,52201020,건설 및 엔지니어링
+2121,5484,Tohoku Steel Co Ltd,51201020,철 및 강철
+2122,5658,Nichia Steel Works Ltd,51201020,철 및 강철
+2123,3489,FaithNetwork Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2124,9704,Agora Hospitality Group Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+2125,6040,Nippon Ski Resort Development Co Ltd,53301040,여가 및 오락시설
+2126,4767,TOW Co Ltd,53302010,광고 및 마케팅
+2127,6167,Fuji Die Co Ltd,52102010,산업용 기계 및 장비
+2128,9702,ISB Corp,57201020,소프트웨어
+2129,4620,Fujikura Kasei Co Ltd,51101010,상품 화학
+2130,5586,Laboro.AI Inc,57201010,IT 서비스 및 컨설팅
+2131,2586,Fruta Fruta Inc,54102020,식품 가공
+2132,9996,Satoh&Co Ltd,54301020,식품 소매 및 유통
+2133,9414,Nippon BS Broadcasting Corp,53302020,방송
+2134,9248,People Dreams & Technologies Group Co Ltd,52201020,건설 및 엔지니어링
+2135,3501,Suminoe Textile Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2136,7238,Akebono Brake Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2137,3553,Kyowa Leather Cloth Co Ltd,53202010,직물 및 가죽제품
+2138,9986,Zaoh Co Ltd,52102010,산업용 기계 및 장비
+2139,6035,IR Japan Holdings Ltd,52203040,경영 지원 서비스
+2140,5941,Nakanishi MFG Co Ltd,52102010,산업용 기계 및 장비
+2141,6730,Axell Corp,57101010,반도체
+2142,7871,Fukuvi Chemical Industry Co Ltd,53203020,건설 자재 및 비품
+2143,4192,SpiderPlus & Co,57201020,소프트웨어
+2144,6675,Saxa Inc,57102010,통신 및 네트워킹
+2145,7743,Seed Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2146,2813,Wakou Shokuhin Co Ltd,54102020,식품 가공
+2147,2415,Human Holdings Co Ltd,52203030,고용 서비스
+2148,7987,Nakabayashi Co Ltd,51301020,종이 제품
+2149,3937,Ubicom Holdings Inc,57201010,IT 서비스 및 컨설팅
+2150,5698,Envipro Holdings Inc,52203010,환경 서비스 및 장비
+2151,4238,Miraial Co Ltd,51302010,용기(종이 제외) 및 포장재
+2152,8931,Wadakohsan Corp,60101010,"부동산 임대, 개발 및 운영"
+2153,6613,QD Laser Inc,57101010,반도체
+2154,3526,Ashimori Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2155,7634,Hoshi Iryo-Sanki Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2156,1981,Kyowanissei Co Ltd,52201020,건설 및 엔지니어링
+2157,9145,Being Holdings Co Ltd,52405030,지상 화물 및 물류
+2158,7094,NexTone Inc,53302030,엔터테인먼트 제작
+2159,5816,Onamba Co Ltd,52102030,전기 부품 및 장비
+2160,4054,Japan PropTech Co Ltd,57201020,소프트웨어
+2161,6874,Kyoritsu Electric Corp,52102030,전기 부품 및 장비
+2162,4404,Miyoshi Oil & Fat Co Ltd,54102020,식품 가공
+2163,5588,Fast Accounting Co Ltd,57201020,소프트웨어
+2164,3547,Kushikatsu Tanaka Holdings Co,53301020,레스토랑 및 바
+2165,7811,Nakamoto Packs Co Ltd,51302010,용기(종이 제외) 및 포장재
+2166,6848,DKK-Toa Corp,52102030,전기 부품 및 장비
+2167,4433,Hito Communications Holdings Inc,52203030,고용 서비스
+2168,6390,Kato Works Co Ltd,52102020,중장비 및 차량
+2169,4235,Ultrafabrics Holdings Co Ltd,53202010,직물 및 가죽제품
+2170,6083,ERI Holdings Co Ltd,60101020,부동산 서비스
+2171,8737,Akatsuki Corp,55102010,투자 은행 및 중개 서비스
+2172,1948,Kodensha Co Ltd,52201020,건설 및 엔지니어링
+2173,1381,Axyz Co Ltd,54102020,식품 가공
+2174,7879,Noda Corp,53203020,건설 자재 및 비품
+2175,3666,Tecnos Japan Inc,57201010,IT 서비스 및 컨설팅
+2176,7417,Nanyo Corp,52102010,산업용 기계 및 장비
+2177,6037,Rakumachi Inc,57201030,온라인 서비스
+2178,9651,Japan Process Development Co Ltd,57201010,IT 서비스 및 컨설팅
+2179,3140,Bruno Inc,54201010,가정용 제품
+2180,5621,Human Technologies Inc,57201020,소프트웨어
+2181,8747,Yutaka Trusty Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+2182,5388,Kunimine Industries Co Ltd,51202010,건설 자재
+2183,2130,Members Co Ltd,57201010,IT 서비스 및 컨설팅
+2184,6484,KVK Corp,53203020,건설 자재 및 비품
+2185,3157,GEOLIVE Group Corp,53203020,건설 자재 및 비품
+2186,3103,Unitika Ltd,53202010,직물 및 가죽제품
+2187,9675,Joban Kosan Co Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+2188,9709,NCS&A Co Ltd,57201010,IT 서비스 및 컨설팅
+2189,7643,Daiichi Co Ltd,54301020,식품 소매 및 유통
+2190,7711,Sukegawa Electric Co Ltd,52102030,전기 부품 및 장비
+2191,4420,eSOL Co Ltd,57201020,소프트웨어
+2192,190A,Chordia Therapeutics Inc,56202010,생명 공학 및 의학 연구
+2193,4231,Tigers Polymer Corp,53101030,타이어 및 고무 제품
+2194,4712,KeyHolder Inc,53301040,여가 및 오락시설
+2195,5852,Ahresty Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2196,4936,Axxzia Inc,54201020,개인 생활 필수 용품
+2197,8030,Chuo Gyorui Co Ltd,54102010,어업 및 농업
+2198,9857,Eiwa Corp,52102010,산업용 기계 및 장비
+2199,9686,Toyo Tec Co Ltd,52203040,경영 지원 서비스
+2200,3648,AGS Corp,57201010,IT 서비스 및 컨설팅
+2201,7030,Sprix Ltd,63103010,전문 및 비즈니스 교육
+2202,5707,Toho Zinc Co Ltd,51201050,특수 채굴 및 금속
+2203,5079,Novac Co Ltd,52201020,건설 및 엔지니어링
+2204,5885,GDEP Advance Inc,57106010,컴퓨터 하드웨어
+2205,5592,Kusurinomadoguchi Inc,56101010,첨단 의료 장비 및 기술
+2206,8041,OUG Holdings Inc,54102010,어업 및 농업
+2207,5129,Fixer Inc,57201010,IT 서비스 및 컨설팅
+2208,2652,Mandarake Inc,53403090,기타 전문 소매
+2209,9029,Higashi Twenty One Co Ltd,52405030,지상 화물 및 물류
+2210,6882,Sansha Electric Manufacturing Co Ltd,52102030,전기 부품 및 장비
+2211,5078,CEL Corp,60101010,"부동산 임대, 개발 및 운영"
+2212,1770,Fujita Engineering Co Ltd,52201020,건설 및 엔지니어링
+2213,2816,Daisho Co Ltd,54102020,식품 가공
+2214,5922,Nasu Denki Tekko Co Ltd,51202010,건설 자재
+2215,6322,Tacmina Corp,52102010,산업용 기계 및 장비
+2216,2489,Adways Inc,53302010,광고 및 마케팅
+2217,3675,Cross Marketing Group Inc,53302010,광고 및 마케팅
+2218,7358,Poppins Corp,54201030,개인 서비스
+2219,4056,Neural Group Inc,57201010,IT 서비스 및 컨설팅
+2220,6203,Howa Machinery Ltd,52102010,산업용 기계 및 장비
+2221,4376,Kufu Company Inc,57201030,온라인 서비스
+2222,7487,Ozu Corp,53202010,직물 및 가죽제품
+2223,7038,Frontier Management Inc,52203040,경영 지원 서비스
+2224,9799,Asahi Intelligence Service Co Ltd,57201010,IT 서비스 및 컨설팅
+2225,8537,Taiko Bank Ltd,55101010,은행
+2226,9701,Tokyo Kaikan Co Ltd,53301020,레스토랑 및 바
+2227,7561,Hurxley Corp,53301020,레스토랑 및 바
+2228,2904,Ichimasa Kamaboko Co Ltd,54102020,식품 가공
+2229,9211,F-Code Inc,57201010,IT 서비스 및 컨설팅
+2230,5965,Fujimak Corp,53204030,"가전제품, 도구 및 가정 용품"
+2231,4651,Sanix Inc,50201010,재생 가능 에너지 장비 및 서비스
+2232,4055,T&S Group Inc,57201010,IT 서비스 및 컨설팅
+2233,7686,Kakuyasu Group Co Ltd,54301020,식품 소매 및 유통
+2234,9560,PROGRIT Inc,63101010,기타 교육 서비스 제공
+2235,2935,Pickles Holdings Co Ltd,54102020,식품 가공
+2236,7760,IMV Corp,52102010,산업용 기계 및 장비
+2237,7809,Kotobukiya Co Ltd,53205010,장난감 및 어린이 제품
+2238,9713,Royal Hotel Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+2239,4563,AnGes Inc,56202010,생명 공학 및 의학 연구
+2240,4488,AI inside Inc,57201020,소프트웨어
+2241,6540,Semba Corp,52201020,건설 및 엔지니어링
+2242,4772,Stream Media Corp,53302030,엔터테인먼트 제작
+2243,8542,Tomato Bank Ltd,55101010,은행
+2244,3924,R&D Computer Co Ltd,57201010,IT 서비스 및 컨설팅
+2245,9067,Maruwn Corp,52405030,지상 화물 및 물류
+2246,4409,Toho Chemical Industry Co Ltd,51101030,특수 화학제
+2247,2764,Hiramatsu Inc,53301020,레스토랑 및 바
+2248,1826,Sata Construction Co Ltd,52201020,건설 및 엔지니어링
+2249,6571,QB Net Holdings Co Ltd,54201030,개인 서비스
+2250,2354,YE DIGITAL Corp,57201010,IT 서비스 및 컨설팅
+2251,3850,NTT Data Intramart Corp,57201020,소프트웨어
+2252,8908,Mainichi Comnet Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2253,9251,AB&Company Co Ltd,54201030,개인 서비스
+2254,7521,Musashi Co Ltd,57105010,사무기기
+2255,5582,GRID Inc,57201010,IT 서비스 및 컨설팅
+2256,2990,Aida Sekkei Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2257,5589,Auto Server Co Ltd,57201030,온라인 서비스
+2258,7539,Ainavo Holdings Co Ltd,53203020,건설 자재 및 비품
+2259,6769,Thine Electronics Inc,57101010,반도체
+2260,2597,Unicafe Inc,54102020,식품 가공
+2261,6312,Freund Corp,52102010,산업용 기계 및 장비
+2262,7377,DN Holdings Co Ltd,52201020,건설 및 엔지니어링
+2263,7048,Veltra Corp,57201030,온라인 서비스
+2264,3963,Synchro Food Co Ltd,57201030,온라인 서비스
+2265,1873,Nihon House Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2266,7927,Muto Seiko Co,57104010,전자 장비 및 부품
+2267,5244,jig.jp Co Ltd,57201020,소프트웨어
+2268,6210,Toyo Machinery & Metal Co Ltd,52102010,산업용 기계 및 장비
+2269,2340,Gokurakuyu Holdings Co Ltd,54201030,개인 서비스
+2270,7523,Art Vivant Co Ltd,53403030,가정용 가구 소매
+2271,4436,Minkabu The Infonoid Inc,52203070,전문 정보 서비스
+2272,3109,Shikibo Ltd,53202010,직물 및 가죽제품
+2273,9312,Keihin Co Ltd,52405030,지상 화물 및 물류
+2274,3665,Enigmo Inc,57201030,온라인 서비스
+2275,9782,DMS Inc,53302010,광고 및 마케팅
+2276,146A,Columbia Works Inc,60101010,"부동산 임대, 개발 및 운영"
+2277,9171,Kuribayashi Steamship Co Ltd,52405020,해양 화물 및 물류
+2278,6338,Takatori Corp,57101020,반도체 장비 및 테스트
+2279,5985,Suncall Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2280,6989,Hokuriku Electric Industry Co Ltd,57104010,전자 장비 및 부품
+2281,5892,Yutori Inc,53403040,의류 및 액세서리 소매
+2282,9852,CB Group Management Co Ltd,53403090,기타 전문 소매
+2283,4113,Taoka Chemical Co Ltd,51101090,다각적 화학 산업
+2284,4811,DreamArts Corp,57201020,소프트웨어
+2285,6291,Airtech Japan Ltd,52203010,환경 서비스 및 장비
+2286,9257,YCP Holdings (Global) Ltd DRC,55102020,투자 관리 및 펀드 운영
+2287,9049,Keifuku Electric Railroad Co Ltd,52406020,지상 및 해상 여객 운송
+2288,9272,Boutiques Inc,52203040,경영 지원 서비스
+2289,7228,Daytona Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2290,1435,robot home Inc,60101020,부동산 서비스
+2291,4418,Japan Data Science Consortium Co Ltd,57201010,IT 서비스 및 컨설팅
+2292,2169,CDS Co Ltd,57201010,IT 서비스 및 컨설팅
+2293,9993,Yamazawa Co Ltd,54301020,식품 소매 및 유통
+2294,3418,Balnibarbi Co Ltd,53301020,레스토랑 및 바
+2295,6095,MedPeer Inc,57201030,온라인 서비스
+2296,5246,ELEMENTS Inc,57201010,IT 서비스 및 컨설팅
+2297,6094,FreakOut Holdings Inc,53302010,광고 및 마케팅
+2298,3300,Ambition DX Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2299,5216,Kuramoto Co Ltd,57104010,전자 장비 및 부품
+2300,2689,OLBA Healthcare Holdings Inc,56101020,"의료 장비, 물품 및 유통"
+2301,9377,AGP Corp,52407010,공항 운영 및 서비스
+2302,2991,Landnet Inc,60101010,"부동산 임대, 개발 및 운영"
+2303,8898,Century 21 Real Estate of Japan Ltd,60101020,부동산 서비스
+2304,1787,Nakabohtec Corrosion Protecting Co Ltd,51201020,철 및 강철
+2305,3242,Urbanet Corporation Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2306,4350,Medical System Network Co Ltd,54301010,의약품 소매
+2307,3662,Ateam Inc,57201030,온라인 서비스
+2308,2818,Pietro Co Ltd,54102020,식품 가공
+2309,6797,Nagoya Electric Works Co Ltd,52102010,산업용 기계 및 장비
+2310,4482,Wills Inc,57201030,온라인 서비스
+2311,5009,Fuji Kosan Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2312,9275,Narumiya International Co Ltd,53202020,의류 및 액세서리
+2313,2924,Ifuji Sangyo Co Ltd,54102010,어업 및 농업
+2314,4761,Sakura KCS Corp,57201010,IT 서비스 및 컨설팅
+2315,7450,Sunday Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2316,4331,Take And Give Needs Co Ltd,54201030,개인 서비스
+2317,6572,Open Group Inc,57201010,IT 서비스 및 컨설팅
+2318,3417,Ohki Healthcare Holdings Co Ltd,56201040,제약
+2319,4093,Toho Acetylene Co Ltd,51101010,상품 화학
+2320,7266,Imasen Electric Industrial Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2321,1966,Takada Corp,52201020,건설 및 엔지니어링
+2322,6912,Kikusui Holdings Corp,52102030,전기 부품 및 장비
+2323,6087,Abist Co Ltd,52203040,경영 지원 서비스
+2324,4258,Amiya Corp,57201020,소프트웨어
+2325,8918,Land Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2326,7999,Mutoh Holdings Co Ltd,57106010,컴퓨터 하드웨어
+2327,5248,Technologies Inc,57201020,소프트웨어
+2328,2686,GFoot Co Ltd,53403040,의류 및 액세서리 소매
+2329,5942,Nippon Filcon Co Ltd,52102010,산업용 기계 및 장비
+2330,2927,AFC-HD AMS Life Science Co Ltd,54102020,식품 가공
+2331,7725,Inter Action Corp,57101020,반도체 장비 및 테스트
+2332,9818,Daimaru Enawin Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2333,9249,Japan Ecosystem Co Ltd,57104010,전자 장비 및 부품
+2334,6496,Nakakita Seisakusho Co Ltd,52102010,산업용 기계 및 장비
+2335,6392,Yamada Corp,52102010,산업용 기계 및 장비
+2336,7841,Endo Manufacturing Co Ltd,53205020,오락용 제품
+2337,4800,Oricon Inc,57201030,온라인 서비스
+2338,8383,Tottori Bank Ltd,55101010,은행
+2339,7849,Starts Publishing Corp,53302040,소비자 출판
+2340,5026,Tripleize Co Ltd,57201010,IT 서비스 및 컨설팅
+2341,7081,Koyou Rentia Co Ltd,52203040,경영 지원 서비스
+2342,3992,Needs Well Inc,57201020,소프트웨어
+2343,5018,Moresco Corp,50102030,"오일, 가스 정제 및 마케팅"
+2344,7636,Handsman Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2345,6165,Punch Industry Co Ltd,52102010,산업용 기계 및 장비
+2346,6317,Kitagawa Corp,52102010,산업용 기계 및 장비
+2347,6994,Shizuki Electric Co Inc,52102030,전기 부품 및 장비
+2348,6224,JRC Co Ltd,52102040,중전기장비
+2349,4414,Flect Co Ltd,57201020,소프트웨어
+2350,6904,Harada Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2351,6440,Juki Corp,52102010,산업용 기계 및 장비
+2352,3969,Atled Corp,57201020,소프트웨어
+2353,4571,NANO MRNA Co Ltd,56202010,생명 공학 및 의학 연구
+2354,3094,Super Value Co Ltd,54301020,식품 소매 및 유통
+2355,7299,Fuji Oozx Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+2356,3053,Pepper Food Service Co Ltd,53301020,레스토랑 및 바
+2357,3415,Tokyo Base Co Ltd,53403040,의류 및 액세서리 소매
+2358,3175,AP Holdings Co Ltd,53301020,레스토랑 및 바
+2359,5280,Yoshicon Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2360,7061,Japan Hospice Holdings Inc,56102010,의료 시설 및 서비스
+2361,7646,Plant Co Ltd,54301020,식품 소매 및 유통
+2362,4875,MediciNova Inc,56202010,생명 공학 및 의학 연구
+2363,3562,No.1 Co Ltd,52203060,비즈니스 지원 용품
+2364,7505,Fuso Dentsu Co Ltd,57102010,통신 및 네트워킹
+2365,6853,Kyowa Electronic Instruments Co Ltd,52102010,산업용 기계 및 장비
+2366,1960,Sanyo Engineering & Construction Inc,52201020,건설 및 엔지니어링
+2367,5951,Dainichi Co Ltd,52102030,전기 부품 및 장비
+2368,206A,PRISM BioLab Co Ltd,56202010,생명 공학 및 의학 연구
+2369,5284,Yamau Holdings Co Ltd,51202010,건설 자재
+2370,4762,XNET Corp,57201010,IT 서비스 및 컨설팅
+2371,3991,Wantedly Inc,57201030,온라인 서비스
+2372,3096,Ocean System Corp,54301020,식품 소매 및 유통
+2373,9982,Takihyo Co Ltd,53202020,의류 및 액세서리
+2374,6835,Allied Telesis Holdings KK,57102010,통신 및 네트워킹
+2375,4465,Niitaka Co Ltd,54201010,가정용 제품
+2376,7699,Omni-Plus System Ltd DRC,51101010,상품 화학
+2377,9636,Kin-Ei Corp,60101010,"부동산 임대, 개발 및 운영"
+2378,2903,Shinobu Foods Products Co Ltd,54102020,식품 가공
+2379,6863,Nireco Corp,52102010,산업용 기계 및 장비
+2380,8904,Avantia Co Ltd,53203010,주택 건설
+2381,2883,Dairei Co Ltd,54301020,식품 소매 및 유통
+2382,6159,Micron Machinery Co Ltd,52102010,산업용 기계 및 장비
+2383,9306,Toyo Logistics Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+2384,3776,BroadBand Tower Inc,57201010,IT 서비스 및 컨설팅
+2385,5194,Sagami Rubber Industries Co Ltd,54201020,개인 생활 필수 용품
+2386,7794,EDP Corp,57101010,반도체
+2387,9846,Tenmaya Store Co Ltd,54301020,식품 소매 및 유통
+2388,5139,OpenWork Inc,57201030,온라인 서비스
+2389,3544,Satudora Holdings Co Ltd,54301010,의약품 소매
+2390,9227,Microwave Chemical Co Ltd,51101010,상품 화학
+2391,9149,Otomo Logistics Service Co Ltd,52405030,지상 화물 및 물류
+2392,9221,Fuluhashi EPO Corp,52203010,환경 서비스 및 장비
+2393,7374,Interworks Confidence Inc,52203030,고용 서비스
+2394,7354,Direct Marketing MiX Inc,53302010,광고 및 마케팅
+2395,4490,VisasQ Inc,57201030,온라인 서비스
+2396,9888,UEX Ltd,51201020,철 및 강철
+2397,7702,JMS Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2398,3434,Alpha Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2399,5958,Sanyo Industries Ltd,53203020,건설 자재 및 비품
+2400,6149,Odawara Engineering Co Ltd,52102010,산업용 기계 및 장비
+2401,1717,Meiho Facility Works Ltd,52201020,건설 및 엔지니어링
+2402,7247,Mikuni Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2403,8152,Somar Corp,51101010,상품 화학
+2404,7777,3-D Matrix Ltd,56202010,생명 공학 및 의학 연구
+2405,7885,Takano Co Ltd,52203060,비즈니스 지원 용품
+2406,4890,Tsubota Laboratory Inc,56202010,생명 공학 및 의학 연구
+2407,6164,Taiyo Koki Co Ltd,52102010,산업용 기계 및 장비
+2408,6319,SNT Corp,51201020,철 및 강철
+2409,6648,Kawaden Corp,52102030,전기 부품 및 장비
+2410,6316,Maruyama MFG Co Inc,52102020,중장비 및 차량
+2411,4932,Almado Inc,54201020,개인 생활 필수 용품
+2412,7254,Univance Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2413,3538,Willplus Holdings Corp,53403010,"자동차 차량, 부품 및 서비스 소매"
+2414,5921,Kawagishi Bridge Works Co Ltd,52201020,건설 및 엔지니어링
+2415,7068,Feedforce Group Inc,57201010,IT 서비스 및 컨설팅
+2416,4367,Koei Chemical Co Ltd,51101090,다각적 화학 산업
+2417,6919,Kel Corp,52102030,전기 부품 및 장비
+2418,6262,Pegasus Co Ltd,52102010,산업용 기계 및 장비
+2419,6668,Adtec Plasma Technology Co Ltd,57101020,반도체 장비 및 테스트
+2420,7444,Harima-Kyowa Co Ltd,56201040,제약
+2421,6505,Toyo Denki Seizo KK,52102040,중전기장비
+2422,1430,First-Corporation Inc,53203010,주택 건설
+2423,5337,Danto Holdings Corp,51202010,건설 자재
+2424,4627,Natoco Co Ltd,51101010,상품 화학
+2425,6082,Ride On Express Holdings Co Ltd,53301020,레스토랑 및 바
+2426,8046,Marufuji Sheet Piling Co Ltd,51202010,건설 자재
+2427,8023,Daiko Denshi Tsushin Ltd,53403050,컴퓨터 및 전자 제품 소매
+2428,8945,Sunnexta Group Inc,60101020,부동산 서비스
+2429,2224,Como Co Ltd,54102020,식품 가공
+2430,2370,Medinet Co Ltd,56202010,생명 공학 및 의학 연구
+2431,5356,Mino Ceramic Co Ltd,51202010,건설 자재
+2432,4248,Takemoto Yohki Co Ltd,51302010,용기(종이 제외) 및 포장재
+2433,6031,Zeta Inc,57201010,IT 서비스 및 컨설팅
+2434,7713,Sigma Koki Co Ltd,57105010,사무기기
+2435,8289,Olympic Group Corp,54301020,식품 소매 및 유통
+2436,1867,Ueki Corp,52201020,건설 및 엔지니어링
+2437,9034,Nanso Transport Co Ltd,52405030,지상 화물 및 물류
+2438,9753,I X Knowledge Inc,57201010,IT 서비스 및 컨설팅
+2439,4582,SymBio Pharmaceuticals Ltd,56201040,제약
+2440,7614,OM2 Network Co Ltd,54301020,식품 소매 및 유통
+2441,4644,Imagineer Co Ltd,57201020,소프트웨어
+2442,3955,IMURA & Co Ltd,51301020,종이 제품
+2443,9950,Hachi-Ban Co Ltd,53301020,레스토랑 및 바
+2444,4347,Broadmedia Corp,53302020,방송
+2445,9285,Tokyo Infrastructure Energy Investment Corp,55501030,폐쇄형 펀드
+2446,1897,Kaneshita Construction Co Ltd,52201020,건설 및 엔지니어링
+2447,3275,Housecom Corp,60101020,부동산 서비스
+2448,3447,Shinwa Co Ltd,51201020,철 및 강철
+2449,7514,Himaraya Co Ltd,53403090,기타 전문 소매
+2450,6615,UMC Electronics Co Ltd,57104010,전자 장비 및 부품
+2451,5585,EcoNaviSta Inc,56101010,첨단 의료 장비 및 기술
+2452,3723,Nihon Falcom Corp,57201020,소프트웨어
+2453,6574,Convano Inc,54201030,개인 서비스
+2454,2487,CDG Co Ltd,53302010,광고 및 마케팅
+2455,4100,Toda Kogyo Corp,51101030,특수 화학제
+2456,5381,Mipox Corp,51101010,상품 화학
+2457,7235,Tokyo Radiator Mfg Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2458,8349,Tohoku Bank Ltd,55101010,은행
+2459,5984,Kanefusa Corp,52102010,산업용 기계 및 장비
+2460,2970,Good Life Company Inc,60101020,부동산 서비스
+2461,6393,Yuken Kogyo Co Ltd,52102010,산업용 기계 및 장비
+2462,6492,Okano Valve Mfg. Co Ltd,52102010,산업용 기계 및 장비
+2463,6928,Enomoto Co Ltd,52102030,전기 부품 및 장비
+2464,1776,Sumiken Mitsui Road Co Ltd,52201020,건설 및 엔지니어링
+2465,4346,NEXYZ.Group Corp,52102030,전기 부품 및 장비
+2466,8705,Nissan Securities Group Co Ltd,55102010,투자 은행 및 중개 서비스
+2467,9980,MRK Holdings Inc,53202020,의류 및 액세서리
+2468,6469,Hoden Seimitsu Kako Kenkyusho Co Ltd,52102010,산업용 기계 및 장비
+2469,4193,Fabrica Holdings Co Ltd,57201020,소프트웨어
+2470,9904,Verite Co Ltd,53403040,의류 및 액세서리 소매
+2471,5869,Waseda Gakushukenkyukai Co Ltd,63101010,기타 교육 서비스 제공
+2472,2173,Hakuten Corp,52203040,경영 지원 서비스
+2473,6557,AIAI Group Corp,54201030,개인 서비스
+2474,5204,Ishizuka Glass Co Ltd,51302010,용기(종이 제외) 및 포장재
+2475,5137,SmartDrive Inc,57201020,소프트웨어
+2476,2344,Heian Ceremony Service Co Ltd,54201030,개인 서비스
+2477,9890,Makiya Co Ltd,54301020,식품 소매 및 유통
+2478,1807,Watanabe Sato Co Ltd,52201020,건설 및 엔지니어링
+2479,5891,Kairikiya Co Ltd,53301020,레스토랑 및 바
+2480,3082,Kichiri Holdings & Co Ltd,53301020,레스토랑 및 바
+2481,5955,Wise Holdings Co Ltd,52102010,산업용 기계 및 장비
+2482,5071,VIS Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2483,6161,Estic Corp,52102010,산업용 기계 및 장비
+2484,8207,Ten Allied Co Ltd,53301020,레스토랑 및 바
+2485,4579,RaQualia Pharma Inc,56201040,제약
+2486,5819,Canare Electric Co Ltd,52102030,전기 부품 및 장비
+2487,2982,A.D.Works Group Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2488,8769,Advantage Risk Management Co Ltd,56102010,의료 시설 및 서비스
+2489,9763,Marubeni Construction Material Lease Co Ltd,52203040,경영 지원 서비스
+2490,7822,Eidai Co Ltd,53203020,건설 자재 및 비품
+2491,3435,Sanko Techno Co Ltd,52102020,중장비 및 차량
+2492,2410,Career Design Center Co Ltd,52203030,고용 서비스
+2493,5237,Nozawa Corp,51202010,건설 자재
+2494,6870,Fenwal Controls of Japan Ltd,52203060,비즈니스 지원 용품
+2495,1853,Mori-Gumi Co Ltd,52201020,건설 및 엔지니어링
+2496,3446,JTEC Corp,56101020,"의료 장비, 물품 및 유통"
+2497,9408,BSN Media Holdings Inc,53302020,방송
+2498,9307,Sugimura Warehouse Co Ltd,52405030,지상 화물 및 물류
+2499,7119,Halmek Holdings Co Ltd,53302040,소비자 출판
+2500,7727,Oval Corp,52102010,산업용 기계 및 장비
+2501,9325,PHYZ Holdings Inc,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+2502,2978,Tsukuruba Inc,60101020,부동산 서비스
+2503,5871,Solize Corp,52203040,경영 지원 서비스
+2504,4392,Future Innovation Group Inc,57201010,IT 서비스 및 컨설팅
+2505,8104,Kuwazawa Holdings Corp,51202010,건설 자재
+2506,3918,PCI Holdings Inc,57201020,소프트웨어
+2507,7122,Kinki Sharyo Co Ltd,52102020,중장비 및 차량
+2508,3079,DVx Inc,56101020,"의료 장비, 물품 및 유통"
+2509,4597,Solasia Pharma KK,56201040,제약
+2510,4031,Katakura & Co-op Agri Corp,51101020,농화학제
+2511,9564,FCE Inc,63101010,기타 교육 서비스 제공
+2512,7196,Casa Inc,55101030,소비자 대출
+2513,7115,Alpha Purchase Co Ltd,52202010,다각적 산업용 제품 도매
+2514,264A,Schoo Inc,57201030,온라인 서비스
+2515,9351,Toyo Wharf & Warehouse Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+2516,7212,F-Tech Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+2517,254A,AI Fusion Capital Group Corp,55102020,투자 관리 및 펀드 운영
+2518,4286,CL Holdings Inc,53302010,광고 및 마케팅
+2519,244A,Growth X Partners Inc,57201010,IT 서비스 및 컨설팅
+2520,4169,ENECHANGE Ltd,57201010,IT 서비스 및 컨설팅
+2521,2112,Ensuiko Sugar Refining Co Ltd,54102020,식품 가공
+2522,153A,Caulis Inc,57201010,IT 서비스 및 컨설팅
+2523,4978,ReproCell Inc,56201040,제약
+2524,4245,Daiki Axis Co Ltd,52203010,환경 서비스 및 장비
+2525,4308,J-Stream Inc,57201030,온라인 서비스
+2526,6208,Ishikawa Seisakusho Ltd,52102010,산업용 기계 및 장비
+2527,7692,Earth Infinity Co Ltd,59101010,전력 유틸리티
+2528,2877,NittoBest Corp,54102020,식품 가공
+2529,7551,Weds Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2530,4263,Susmed Inc,57201010,IT 서비스 및 컨설팅
+2531,2485,Tear Corp,54201030,개인 서비스
+2532,9698,Creo Co Ltd,57201010,IT 서비스 및 컨설팅
+2533,2798,Y's Table Corp,53301020,레스토랑 및 바
+2534,1450,Tanaken,52201020,건설 및 엔지니어링
+2535,6156,A-One Seimitsu Inc,52102010,산업용 기계 및 장비
+2536,3911,Aiming Inc,57201020,소프트웨어
+2537,9428,Crops Corp,53403050,컴퓨터 및 전자 제품 소매
+2538,3030,Hub Co Ltd,53301020,레스토랑 및 바
+2539,3979,Uluru Co Ltd,57201030,온라인 서비스
+2540,9872,Kitakei Co Ltd,53203020,건설 자재 및 비품
+2541,3571,Sotoh Co Ltd,53202010,직물 및 가죽제품
+2542,9558,Japaniace Co Ltd,57201010,IT 서비스 및 컨설팅
+2543,9270,Valuence Holdings Inc,53403090,기타 전문 소매
+2544,2700,Kitoku Shinryo Co Ltd,54301020,식품 소매 및 유통
+2545,3160,Oomitsu Co Ltd,54301020,식품 소매 및 유통
+2546,3943,Ohishi Sangyo Co Ltd,51302020,종이 포장재
+2547,3641,Papyless Co Ltd,53402010,백화점
+2548,3777,Environment Friendly Holdings Corp,52203040,경영 지원 서비스
+2549,3653,Morpho Inc,57201020,소프트웨어
+2550,177A,Kohjin Bio Co Ltd,56201040,제약
+2551,9074,Japan Oil Transportation Co Ltd,52405030,지상 화물 및 물류
+2552,3420,KFC Ltd,51202010,건설 자재
+2553,2735,Watts Co Ltd,53402020,할인점
+2554,7218,Tanaka Seimitsu Kogyo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2555,2743,Pixel Companyz Inc,57201010,IT 서비스 및 컨설팅
+2556,5644,Metalart Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2557,9130,Kyoei Tanker Co Ltd,52405020,해양 화물 및 물류
+2558,9380,Azuma Shipping Co Ltd,52405020,해양 화물 및 물류
+2559,4168,Yappli Inc,57201010,IT 서비스 및 컨설팅
+2560,3467,Agratio Urban Design Inc,60101010,"부동산 임대, 개발 및 운영"
+2561,5391,A&A Material Corp,51202010,건설 자재
+2562,4125,Sanwayuka Industry Corp,51101010,상품 화학
+2563,2183,Linical Co Ltd,56202010,생명 공학 및 의학 연구
+2564,6176,Brangista Inc,53302040,소비자 출판
+2565,9206,Star Flyer Inc,52406010,항공사
+2566,7367,CELM Inc,63103010,전문 및 비즈니스 교육
+2567,3623,Billing System Corp,52203040,경영 지원 서비스
+2568,4642,Original Engineering Consultants Co Ltd,52203040,경영 지원 서비스
+2569,3321,Mitachi Co Ltd,57101010,반도체
+2570,6488,Yoshitake Inc,52102010,산업용 기계 및 장비
+2571,8416,Bank of Kochi Ltd,55101010,은행
+2572,4268,EDGE Technology Inc,57201010,IT 서비스 및 컨설팅
+2573,7670,O-Well Corp,51101010,상품 화학
+2574,8563,Daito Bank Ltd,55101010,은행
+2575,7079,WDB coco Co Ltd,52203040,경영 지원 서비스
+2576,1436,GreenEnergy & Co,60101010,"부동산 임대, 개발 및 운영"
+2577,4389,Property Data Bank Inc,57201020,소프트웨어
+2578,5282,Geostr Corp,51202010,건설 자재
+2579,8107,Kimuratan Corp,53202020,의류 및 액세서리
+2580,4882,Perseus Proteomics Inc,56201040,제약
+2581,7792,Colan Totte Co Ltd,53202020,의류 및 액세서리
+2582,7781,Hirayama Holdings Co Ltd,52203030,고용 서비스
+2583,2907,Ahjikan Co Ltd,54102020,식품 가공
+2584,5570,Jenoba Co Ltd,57201010,IT 서비스 및 컨설팅
+2585,2993,Choei Inc,60101020,부동산 서비스
+2586,1491,Chugai Mining Co Ltd,51201010,금 제외 귀금속 및 광물
+2587,8927,Meiho Enterprise Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2588,9731,Hakuyosha Co Ltd,54201030,개인 서비스
+2589,1384,Hokuryo Co Ltd,54102010,어업 및 농업
+2590,3656,KLab Inc,57201030,온라인 서비스
+2591,1420,Sanyo Homes Corp,53203010,주택 건설
+2592,8119,Sanyei Corp,53204040,가정용 가구
+2593,3853,Asteria Corp,57201020,소프트웨어
+2594,6384,Showa Shinku Co Ltd,52102010,산업용 기계 및 장비
+2595,205A,Logos Holdings Inc,60101010,"부동산 임대, 개발 및 운영"
+2596,4237,Fujipream Corp,57104010,전자 장비 및 부품
+2597,9633,Tokyo Theatres Co Inc,60101010,"부동산 임대, 개발 및 운영"
+2598,6373,Daido Kogyo Co Ltd,52102010,산업용 기계 및 장비
+2599,4635,Tokyo Printing Ink Mfg Co Ltd,51101090,다각적 화학 산업
+2600,5268,Asahi Concrete Works Co Ltd,51202010,건설 자재
+2601,6337,Tesec Corp,57101020,반도체 장비 및 테스트
+2602,1850,Nankai Tatsumura Construction Co Ltd,52201020,건설 및 엔지니어링
+2603,8147,Tomita Co Ltd,52102010,산업용 기계 및 장비
+2604,4524,Morishita Jintan Co Ltd,54102020,식품 가공
+2605,5187,Create Medic Co Ltd,56101020,"의료 장비, 물품 및 유통"
+2606,4957,Yasuhara Chemical Co Ltd,51101030,특수 화학제
+2607,4264,SECURE Inc,57201010,IT 서비스 및 컨설팅
+2608,4691,Washington Hotel Corp,53301010,"호텔, 모텔 및 크루즈 라인"
+2609,3565,Ascentech KK,57201020,소프트웨어
+2610,9322,Kawanishi Warehouse Co Ltd,52405030,지상 화물 및 물류
+2611,7018,Naikai Zosen Corp,52102050,조선
+2612,3904,Kayac Inc,57201010,IT 서비스 및 컨설팅
+2613,6533,Orchestra Holdings Inc,53302010,광고 및 마케팅
+2614,9561,Glad Cube Inc,53302010,광고 및 마케팅
+2615,3512,Nippon Felt Co Ltd,53202010,직물 및 가죽제품
+2616,4374,Robot Payment Inc,52203040,경영 지원 서비스
+2617,3804,System D Inc,57201020,소프트웨어
+2618,4442,Valtes Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+2619,3683,Cyberlinks Co Ltd,57201010,IT 서비스 및 컨설팅
+2620,3294,e'grand Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2621,9930,Kitazawa Sangyo Co Ltd,52102010,산업용 기계 및 장비
+2622,7416,Haruyama Holdings Inc,53403040,의류 및 액세서리 소매
+2623,3423,S E Corp,51202010,건설 자재
+2624,2769,Village Vanguard Co Ltd,53403090,기타 전문 소매
+2625,3080,Jason Co Ltd,54301020,식품 소매 및 유통
+2626,7435,Nadex Co Ltd,52102010,산업용 기계 및 장비
+2627,3353,Medical Ikkou Group Co Ltd,54301010,의약품 소매
+2628,2438,Asukanet Co Ltd,54201030,개인 서비스
+2629,7590,Takasho Co Ltd,53204040,가정용 가구
+2630,7938,Regal Corp,53202030,제화
+2631,3981,Beaglee Inc,57201030,온라인 서비스
+2632,9959,Aseed Holdings Co Ltd,54301020,식품 소매 및 유통
+2633,6930,Nippon Antenna Co Ltd,57102010,통신 및 네트워킹
+2634,8365,Bank of Toyama Ltd,55101010,은행
+2635,2708,Kuze Co Ltd,54301020,식품 소매 및 유통
+2636,6568,KNC Laboratories Co Ltd,51101010,상품 화학
+2637,4564,OncoTherapy Science Inc,56202010,생명 공학 및 의학 연구
+2638,151A,Dive Inc,52203030,고용 서비스
+2639,269A,Sapeet Inc,57201020,소프트웨어
+2640,4074,LaKeel Inc,57201010,IT 서비스 및 컨설팅
+2641,3912,Mobile Factory Inc,57201020,소프트웨어
+2642,3069,JFLA Holdings Inc,53301020,레스토랑 및 바
+2643,4896,K Pharma Inc,56201040,제약
+2644,6819,Izu Shaboten Resort Co Ltd,53301040,여가 및 오락시설
+2645,7176,Simplex Financial Holdings Co Ltd,55102030,다각적 투자 서비스
+2646,7565,Mansei Corp,52102030,전기 부품 및 장비
+2647,3396,Felissimo Corp,53402010,백화점
+2648,2668,Tabio Corp,53403040,의류 및 액세서리 소매
+2649,7682,Hamayuu Co Ltd,53301020,레스토랑 및 바
+2650,2916,Semba Tohka Industries Co Ltd,54102020,식품 가공
+2651,7133,Hyuga Primary Care Co Ltd,54301010,의약품 소매
+2652,1433,Besterra Co Ltd,52201020,건설 및 엔지니어링
+2653,7213,Lecip Holdings Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2654,4304,Estore Corp,57201010,IT 서비스 및 컨설팅
+2655,3063,j-Group Holdings Corp,53301020,레스토랑 및 바
+2656,6658,Shirai Electronics Industrial Co Ltd,57101010,반도체
+2657,6239,Nagaoka International Corp,52102010,산업용 기계 및 장비
+2658,9160,Novarese Inc,54201030,개인 서비스
+2659,2934,J Frontier Co Ltd,53402010,백화점
+2660,7343,Broad-Minded Co Ltd,55102010,투자 은행 및 중개 서비스
+2661,7066,Peers Co Ltd,52203040,경영 지원 서비스
+2662,6612,Balmuda Inc,53204030,"가전제품, 도구 및 가정 용품"
+2663,6091,Wesco Holdings Inc,52201020,건설 및 엔지니어링
+2664,6560,LTS Inc,52203040,경영 지원 서비스
+2665,3640,Densan Co Ltd,57201010,IT 서비스 및 컨설팅
+2666,6428,Oizumi Corp,53301030,카지노 및 도박
+2667,3320,Cross Plus Inc,53202020,의류 및 액세서리
+2668,3121,MBK Co Ltd,55102020,투자 관리 및 펀드 운영
+2669,9691,Ryomo Systems Co Ltd,57201010,IT 서비스 및 컨설팅
+2670,3392,Delica Foods Holdings Co Ltd,54102010,어업 및 농업
+2671,1447,SAAF Holdings Co Ltd,52201020,건설 및 엔지니어링
+2672,7604,Umenohana Co Ltd,53301020,레스토랑 및 바
+2673,4512,Wakamoto Pharmaceutical Co Ltd,56201040,제약
+2674,6182,MetaReal Corp,52203040,경영 지원 서비스
+2675,3277,Sansei Landic Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2676,5940,Fujisash Co Ltd,53203020,건설 자재 및 비품
+2677,5572,Ridge-i Inc,57201010,IT 서비스 및 컨설팅
+2678,3377,Bike O & Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+2679,6938,Soshin Electric Co Ltd,52102030,전기 부품 및 장비
+2680,4845,Scala Inc,57201010,IT 서비스 및 컨설팅
+2681,7674,Natty Swanky Holdings Co Ltd,53301020,레스토랑 및 바
+2682,4013,Kinjiro Co Ltd,57201020,소프트웨어
+2683,2391,Planet Inc,57201030,온라인 서비스
+2684,7277,TBK Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2685,9218,Mental Health Technologies Co Ltd,57201010,IT 서비스 및 컨설팅
+2686,9514,EF On Inc,59101010,전력 유틸리티
+2687,7161,Jimoto Holdings Inc,55101010,은행
+2688,7434,Otake Corp,52102010,산업용 기계 및 장비
+2689,1905,Tenox Corp,52201020,건설 및 엔지니어링
+2690,9311,Asagami Corp,52405030,지상 화물 및 물류
+2691,5368,Japan Insulation Co Ltd,52201020,건설 및 엔지니어링
+2692,5729,Nihon Seiko Co Ltd,51101010,상품 화학
+2693,7110,Kurashicom Inc,53403030,가정용 가구 소매
+2694,6230,Sanei Ltd,53203020,건설 자재 및 비품
+2695,6497,Hamai Industries Ltd,52102010,산업용 기계 및 장비
+2696,8562,Fukushima Bank Ltd,55101010,은행
+2697,5915,Komaihaltec Inc,52201020,건설 및 엔지니어링
+2698,241A,ROXX Inc,52203030,고용 서비스
+2699,9252,Last One Mile Co Ltd,57201030,온라인 서비스
+2700,6743,Daido Signal Co Ltd,52102030,전기 부품 및 장비
+2701,4356,Applied Technology Co Ltd,57201010,IT 서비스 및 컨설팅
+2702,9723,Kyoto Hotel Ltd,53301010,"호텔, 모텔 및 크루즈 라인"
+2703,3319,Golf Digest Online Inc,53402010,백화점
+2704,218A,Liberaware Co Ltd,57201010,IT 서비스 및 컨설팅
+2705,7486,Sanrin Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2706,4623,Asahipen Corp,51101010,상품 화학
+2707,2180,Sunny Side Up Group Inc,53302010,광고 및 마케팅
+2708,3633,GMO Pepabo Inc,57201030,온라인 서비스
+2709,5888,Daiwa Cycle Co Ltd,53205020,오락용 제품
+2710,5903,Shinpo Co Ltd,52102010,산업용 기계 및 장비
+2711,7409,AeroEdge Co Ltd,52101010,항공우주 및 방위
+2712,3374,Naigai Tec Corp,52102030,전기 부품 및 장비
+2713,4441,Tobila Systems Inc,57201010,IT 서비스 및 컨설팅
+2714,4891,TMS Co Ltd,56202010,생명 공학 및 의학 연구
+2715,9017,Niigata Kotsu Co Ltd,52406020,지상 및 해상 여객 운송
+2716,7559,Global Food Creators Co Ltd,54102020,식품 가공
+2717,6513,Origin Co Ltd,52102030,전기 부품 및 장비
+2718,4284,Solxyz Co Ltd,57201010,IT 서비스 및 컨설팅
+2719,3750,Cytori Cell Research Institute Inc,60101020,부동산 서비스
+2720,7264,Muro Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2721,9262,Silver Life Co Ltd,53301020,레스토랑 및 바
+2722,7898,Wood One Co Ltd,53203020,건설 자재 및 비품
+2723,7963,Koken Ltd,56101020,"의료 장비, 물품 및 유통"
+2724,9827,Lilycolor Co Ltd,53204040,가정용 가구
+2725,3168,Kurotani Corp,51201050,특수 채굴 및 금속
+2726,7494,Konaka Co Ltd,53403040,의류 및 액세서리 소매
+2727,3513,Ichikawa Co Ltd,52102010,산업용 기계 및 장비
+2728,7378,Asiro Inc,57201030,온라인 서비스
+2729,7461,Kimura Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2730,3347,Trust Co Ltd,52406020,지상 및 해상 여객 운송
+2731,4176,coconala Inc,57201030,온라인 서비스
+2732,4883,Modalis Therapeutics Corp,56202010,생명 공학 및 의학 연구
+2733,3542,Vega Corporation Co Ltd,57201030,온라인 서비스
+2734,4019,Stamen Co Ltd,52203040,경영 지원 서비스
+2735,4175,Coly Inc,57201030,온라인 서비스
+2736,7707,Precision System Science Co Ltd,56101010,첨단 의료 장비 및 기술
+2737,2107,Toyo Sugar Refining Co Ltd,54102020,식품 가공
+2738,3878,Tomoegawa Corp,51301020,종이 제품
+2739,3954,Showa Paxxs Corp,51302010,용기(종이 제외) 및 포장재
+2740,1848,Fuji PS Corp,52201020,건설 및 엔지니어링
+2741,4406,New Japan Chemical Co Ltd,51101010,상품 화학
+2742,6629,Techno Horizon Co Ltd,57105010,사무기기
+2743,9720,Hotel Newgrand Co Ltd,53301020,레스토랑 및 바
+2744,8144,Denkyo Group Holdings Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+2745,8039,Tsukiji Uoichiba Co Ltd,54102010,어업 및 농업
+2746,6403,Suido Kiko Kaisha Ltd,52102010,산업용 기계 및 장비
+2747,9264,Puequ Co Ltd,52102010,산업용 기계 및 장비
+2748,2796,Pharmarise Holdings Corp,54301010,의약품 소매
+2749,5883,GT Holdings Co Ltd,53403040,의류 및 액세서리 소매
+2750,2186,Sobal Corp,57201010,IT 서비스 및 컨설팅
+2751,4925,Haba Laboratories Inc,54201020,개인 생활 필수 용품
+2752,4015,Paycloud Holdings Inc,57201030,온라인 서비스
+2753,5243,note Inc,57201030,온라인 서비스
+2754,1798,Moriya Corp,52201020,건설 및 엔지니어링
+2755,5010,Nippon Seiro Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2756,4769,IC Co Ltd,57201010,IT 서비스 및 컨설팅
+2757,2162,nms Holdings Corp,57104010,전자 장비 및 부품
+2758,5660,Kobelco Wire Co Ltd,52102030,전기 부품 및 장비
+2759,1757,Souken Ace Co Ltd,53203010,주택 건설
+2760,2303,Dawn Corp,57201020,소프트웨어
+2761,8135,Zett Corp,53205020,오락용 제품
+2762,9445,Forval Telecom Inc,57401010,통합 통신 서비스
+2763,2138,Crooz Inc,53402010,백화점
+2764,3187,Miratap Inc,53203020,건설 자재 및 비품
+2765,3246,Kose RE Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2766,7722,Kokusai Co Ltd,52102010,산업용 기계 및 장비
+2767,3020,Applied Co Ltd,57106010,컴퓨터 하드웨어
+2768,7442,Nakayamafuku Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+2769,4784,GMO AD Partners Inc,53302010,광고 및 마케팅
+2770,9927,Watt Mann Co Ltd,53403090,기타 전문 소매
+2771,4476,AI Cross Inc,57201020,소프트웨어
+2772,192A,Integroup Inc,55102010,투자 은행 및 중개 서비스
+2773,5034,unerry Inc,52203040,경영 지원 서비스
+2774,3560,Hobonichi Co Ltd,57201030,온라인 서비스
+2775,2375,GiG Works Inc,52203040,경영 지원 서비스
+2776,7624,Naito & Co Ltd,52102010,산업용 기계 및 장비
+2777,9903,Kanseki Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2778,3990,UUUM Co Ltd,57201030,온라인 서비스
+2779,9475,Shobunsha Holdings Inc,53302040,소비자 출판
+2780,7795,Kyoritsu Co Ltd,52203020,상업 인쇄 서비스
+2781,7134,Up Garage Group Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2782,7875,Takeda iP Holdings Co Ltd,52203020,상업 인쇄 서비스
+2783,1992,Kanda Tsushinki Co Ltd,57102010,통신 및 네트워킹
+2784,7318,SERENDIP HOLDINGS Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2785,6654,Fuji Electric Industry Co Ltd,52102030,전기 부품 및 장비
+2786,6493,Nittan Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2787,4893,Noile-Immune Biotech Inc,56202010,생명 공학 및 의학 연구
+2788,6018,Hanshin Diesel Works Ltd,52102050,조선
+2789,2311,EPCO Co Ltd,52201020,건설 및 엔지니어링
+2790,6973,Kyoei Sangyo Co Ltd,57101020,반도체 장비 및 테스트
+2791,2332,Quest Co Ltd,57201010,IT 서비스 및 컨설팅
+2792,3840,Path Corp,54201020,개인 생활 필수 용품
+2793,6698,Visco Technologies Corp,52102010,산업용 기계 및 장비
+2794,5923,Takadakiko Steel Construction Co Ltd,52201020,건설 및 엔지니어링
+2795,5136,Tripla Co Ltd,57201010,IT 서비스 및 컨설팅
+2796,3386,Cosmo Bio Co Ltd,56201040,제약
+2797,7050,Frontier International Inc,53302010,광고 및 마케팅
+2798,3892,Okayama Paper Industries Co Ltd,51301020,종이 제품
+2799,9791,Biken Techno Corp,52203040,경영 지원 서비스
+2800,198A,PostPrime Inc,57201030,온라인 서비스
+2801,3681,V-cube Inc,57201010,IT 서비스 및 컨설팅
+2802,6748,Seiwa Electric Mfg Co Ltd,57102010,통신 및 네트워킹
+2803,4495,i Cubed Systems Inc,57201010,IT 서비스 및 컨설팅
+2804,5983,Iwabuchi Corp,52102010,산업용 기계 및 장비
+2805,1783,Fantasista Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2806,4398,BroadBand Security Inc,57201030,온라인 서비스
+2807,7291,Nihon Plast Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2808,4366,Daito Chemix Corp,51101090,다각적 화학 산업
+2809,7872,Estelle Holdings Co Ltd,53202020,의류 및 액세서리
+2810,6069,Trenders Inc,53302010,광고 및 마케팅
+2811,7368,Hyojito Co Ltd,53302010,광고 및 마케팅
+2812,9679,Horai Co Ltd,54102020,식품 가공
+2813,7065,UPR Corp,55101050,기업 금융 서비스
+2814,8127,Yamato International Inc,53202020,의류 및 액세서리
+2815,6026,GMO Tech Inc,53302010,광고 및 마케팅
+2816,6772,Tokyo Cosmos Electric Co Ltd,52102030,전기 부품 및 장비
+2817,194A,WOLVES HAND Co Ltd,56102010,의료 시설 및 서비스
+2818,7859,Almedio Inc,57106010,컴퓨터 하드웨어
+2819,4492,Genetec Corp,57201010,IT 서비스 및 컨설팅
+2820,4320,CE Holdings Co Ltd,57201020,소프트웨어
+2821,2315,Caica Digital Inc,57201010,IT 서비스 및 컨설팅
+2822,8045,Yokohama Maruuo Co Ltd,54102010,어업 및 농업
+2823,5906,MK Seiko Co Ltd,52102010,산업용 기계 및 장비
+2824,2195,Amita Holdings Co Ltd,52203010,환경 서비스 및 장비
+2825,7506,House of Rose Co Ltd,53403090,기타 전문 소매
+2826,3760,Cave Interactive Co Ltd,57201020,소프트웨어
+2827,1434,Jesco Holdings Inc,52201020,건설 및 엔지니어링
+2828,7698,Iceco Inc,54301020,식품 소매 및 유통
+2829,8938,Glome Holdings Inc,52203040,경영 지원 서비스
+2830,9780,Harima B.Stem Corp,52203040,경영 지원 서비스
+2831,7635,Sugita Ace Co Ltd,53203020,건설 자재 및 비품
+2832,2330,Forside Co Ltd,53205010,장난감 및 어린이 제품
+2833,7297,Car Mate Mfg Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+2834,7040,Sun Life Holding Co Ltd,54201030,개인 서비스
+2835,160A,As Partners Co Ltd,56102010,의료 시설 및 서비스
+2836,7271,Yasunaga Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2837,3113,UNIVA Oak Holdings Ltd,55102010,투자 은행 및 중개 서비스
+2838,7940,Wavelock Holdings Co Ltd,51302010,용기(종이 제외) 및 포장재
+2839,2055,Nichiwa Sangyo Co Ltd,54102010,어업 및 농업
+2840,7490,Nissin Shoji Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+2841,8940,Intellex Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2842,7726,Kuroda Precision Industries Ltd,52102010,산업용 기계 및 장비
+2843,7610,Tay Two Co Ltd,53403090,기타 전문 소매
+2844,4446,Link-U Group Inc,57201010,IT 서비스 및 컨설팅
+2845,7371,Zenken Corp,57201010,IT 서비스 및 컨설팅
+2846,9367,Daito Koun Co Ltd,52405020,해양 화물 및 물류
+2847,9193,Tokyo Kisen Co Ltd,52407020,항만 운영 및 서비스
+2848,3021,Pacific Net Co Ltd,57201010,IT 서비스 및 컨설팅
+2849,6356,Nippon Gear Co Ltd,52102010,산업용 기계 및 장비
+2850,9223,Asnova Co Ltd,52203040,경영 지원 서비스
+2851,6093,Escrow Agent Japan Inc,60101020,부동산 서비스
+2852,6059,Uchiyama Holdings Co Ltd,56102010,의료 시설 및 서비스
+2853,6899,Asti Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2854,7883,Sun Messe Co Ltd,52203020,상업 인쇄 서비스
+2855,6391,Kaji Technology Corp,52102010,산업용 기계 및 장비
+2856,4929,Adjuvant Holdings Co Ltd,54201020,개인 생활 필수 용품
+2857,7673,Daiko Tsusan Co Ltd,52102030,전기 부품 및 장비
+2858,9340,Aso International Inc,56101020,"의료 장비, 물품 및 유통"
+2859,4224,Lonseal Corp,53203020,건설 자재 및 비품
+2860,4270,BeeX Inc,57201010,IT 서비스 및 컨설팅
+2861,3934,Benefit Japan Co Ltd,57401010,통합 통신 서비스
+2862,4583,Chiome Bioscience Inc,56202010,생명 공학 및 의학 연구
+2863,6858,Ono Sokki Co Ltd,52102010,산업용 기계 및 장비
+2864,5695,Powdertech Co Ltd,51101010,상품 화학
+2865,3847,Pacific Systems Corp,57201010,IT 서비스 및 컨설팅
+2866,7819,Shobido Corp,54201020,개인 생활 필수 용품
+2867,9063,Okayamaken Freight Transportation Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+2868,6180,GMO Media Inc,57201030,온라인 서비스
+2869,2984,Yamaichi Uniheim Real Estate Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2870,1438,Gifu Landscape Architect Co Ltd,52201020,건설 및 엔지니어링
+2871,2483,Honyaku Center Inc,52203040,경영 지원 서비스
+2872,5759,Nippon Denkai Ltd,52102030,전기 부품 및 장비
+2873,4838,Space Shower Skiyaki Holdings Inc,53302030,엔터테인먼트 제작
+2874,3004,Shinyei Kaisha,54301020,식품 소매 및 유통
+2875,6998,Nippon Tungsten Co Ltd,52102010,산업용 기계 및 장비
+2876,7386,Japan Warranty Support Co Ltd,54201030,개인 서비스
+2877,3123,Saibo Co Ltd,53202010,직물 및 가죽제품
+2878,6189,Global Kids Company Corp,54201030,개인 서비스
+2879,9360,Suzuyo Shinwart Corp,57201010,IT 서비스 및 컨설팅
+2880,2345,Kushim Inc,57201010,IT 서비스 및 컨설팅
+2881,2981,Landix Inc,60101020,부동산 서비스
+2882,3848,Data Applications Co Ltd,57201010,IT 서비스 및 컨설팅
+2883,5966,Kyoto Tool Co Ltd,52102010,산업용 기계 및 장비
+2884,4934,Premier Antiaging Co Ltd,54201020,개인 생활 필수 용품
+2885,2293,Takizawa Ham Co Ltd,54102020,식품 가공
+2886,1768,Sonec Corp,52201020,건설 및 엔지니어링
+2887,9554,AViC Co Ltd,53302010,광고 및 마케팅
+2888,3719,Gexeed Co Ltd,57201010,IT 서비스 및 컨설팅
+2889,4479,Makuake Inc,57201010,IT 서비스 및 컨설팅
+2890,2983,Arr Planner Co Ltd,53203010,주택 건설
+2891,4539,Nippon Chemiphar Co Ltd,56201040,제약
+2892,4629,Daishin Chemical Co Ltd,51101010,상품 화학
+2893,9976,Sekichu Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2894,9656,Greenland Resort Co Ltd,53301040,여가 및 오락시설
+2895,2750,S.Ishimitsu & Co Ltd,54301020,식품 소매 및 유통
+2896,3551,Dynic Corp,51301020,종이 제품
+2897,3799,Keyware Solutions Inc,57201020,소프트웨어
+2898,5971,Kyowakogyosyo Co Ltd,52102010,산업용 기계 및 장비
+2899,8138,Sankyo Kasei Corp,51101010,상품 화학
+2900,3440,Nisso Pronity Co Ltd,51201020,철 및 강철
+2901,6546,Fulltech Co Ltd,52201020,건설 및 엔지니어링
+2902,7175,Imamura Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+2903,3996,Signpost Corp,57201010,IT 서비스 및 컨설팅
+2904,3184,International Conglomerate of Distribution for Automobile Holdings Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+2905,9313,Maruhachi Warehouse Co Ltd,52405030,지상 화물 및 물류
+2906,8077,TORQ Inc,52102010,산업용 기계 및 장비
+2907,7192,Mortgage Service Japan Ltd,55301020,손해보험
+2908,9245,Livero Inc,60101020,부동산 서비스
+2909,6542,Founder's Consultants Holdings Inc,52201020,건설 및 엔지니어링
+2910,6402,Kanematsu Engineering Co Ltd,52102020,중장비 및 차량
+2911,6039,Japan Animal Referral Medical Center Co Ltd,56102010,의료 시설 및 서비스
+2912,6864,NF Holdings Corp,52102030,전기 부품 및 장비
+2913,3236,Properst Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2914,3758,Aeria Inc,57201030,온라인 서비스
+2915,6563,Mirai Works Inc,52203030,고용 서비스
+2916,156A,Material Group Inc,53302010,광고 및 마케팅
+2917,6033,Extreme Co Ltd,57201010,IT 서비스 및 컨설팅
+2918,6554,SUS Co Ltd,52203030,고용 서비스
+2919,3652,Digital Media Professionals Inc,57101010,반도체
+2920,3065,Life Foods Co Ltd,53301020,레스토랑 및 바
+2921,4667,Aisan Technology Co Ltd,57201020,소프트웨어
+2922,9162,Bleach Inc,53302010,광고 및 마케팅
+2923,7857,Seki Co Ltd,52203020,상업 인쇄 서비스
+2924,4430,Tokai Soft Co Ltd,57201020,소프트웨어
+2925,6044,Sanki Service Corp,52203040,경영 지원 서비스
+2926,7136,Wellbin Group Co Ltd,53101010,자동차 및 트럭 제조
+2927,4752,Showa System Engineering Corp,57201010,IT 서비스 및 컨설팅
+2928,4777,Gala Inc,57201030,온라인 서비스
+2929,7445,Right On Co Ltd,53403040,의류 및 액세서리 소매
+2930,7214,GMB Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+2931,5367,Nikkato Corp,52102030,전기 부품 및 장비
+2932,7619,Tanaka Co Ltd,52102030,전기 부품 및 장비
+2933,6346,Kikukawa Enterprise Inc,52102010,산업용 기계 및 장비
+2934,3566,Uniform Next Co Ltd,53202020,의류 및 액세서리
+2935,4317,Ray Corp,53302010,광고 및 마케팅
+2936,7082,Jimoty Inc,57201030,온라인 서비스
+2937,6614,Shikino High Tech Co Ltd,57101020,반도체 장비 및 테스트
+2938,5533,Elitz Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2939,8208,Encho Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+2940,4572,Carna Biosciences Inc,56202010,생명 공학 및 의학 연구
+2941,6049,Itokuro Inc,57201030,온라인 서비스
+2942,4379,Photosynth Inc,52203040,경영 지원 서비스
+2943,4598,Delta-Fly Pharma Inc,56201040,제약
+2944,4428,Sinops Inc,57201020,소프트웨어
+2945,130A,Veritas In Silico Inc,56202010,생명 공학 및 의학 연구
+2946,5935,Gantan Beauty Industry Co Ltd,53203020,건설 자재 및 비품
+2947,6580,Writeup Co Ltd,52203040,경영 지원 서비스
+2948,7325,IRRC Corp,55301010,복합보험 및 중개인
+2949,6229,Okumura Engineering Corp,52102010,산업용 기계 및 장비
+2950,4256,CYND Co Ltd,57201010,IT 서비스 및 컨설팅
+2951,4754,Tosnet Corp,52203040,경영 지원 서비스
+2952,9173,Tokai Kisen Co Ltd,52405020,해양 화물 및 물류
+2953,9761,Tokai Lease Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2954,4531,Yuki Gosei Kogyo Co Ltd,51101090,다각적 화학 산업
+2955,7695,Koukandekirukun Inc,57201030,온라인 서비스
+2956,4262,NIFTY Lifestyle Co Ltd,57201030,온라인 서비스
+2957,9553,MicroAd Inc,53302010,광고 및 마케팅
+2958,7980,Shigematsu Works Co Ltd,56102010,의료 시설 및 서비스
+2959,2373,Care Twentyone Corp,56102010,의료 시설 및 서비스
+2960,5070,Draft Inc,52201020,건설 및 엔지니어링
+2961,3143,O' will Corp,54301020,식품 소매 및 유통
+2962,4234,Sun A. Kaken Co Ltd,51302010,용기(종이 제외) 및 포장재
+2963,6158,Waida MFG. Co Ltd,52102010,산업용 기계 및 장비
+2964,3293,Azuma House Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+2965,9235,Ureru Net Advertising Co Ltd,53302010,광고 및 마케팅
+2966,2122,Interspace Co Ltd,53302010,광고 및 마케팅
+2967,2488,JTP Co Ltd,57201010,IT 서비스 및 컨설팅
+2968,3173,Cominix Co Ltd,52102010,산업용 기계 및 장비
+2969,7111,Inest Inc,53403050,컴퓨터 및 전자 제품 소매
+2970,7833,IFIS Japan Ltd,52203040,경영 지원 서비스
+2971,9246,ProjectHoldings Inc,57201010,IT 서비스 및 컨설팅
+2972,4624,Isamu Paint Co Ltd,51101010,상품 화학
+2973,7677,Yashima & Co Ltd,52102010,산업용 기계 및 장비
+2974,3497,LeTech Corp,60101010,"부동산 임대, 개발 및 운영"
+2975,6292,Kawata Mfg. Co Ltd,52102010,산업용 기계 및 장비
+2976,2404,TETSUJIN Holdings Inc,53301040,여가 및 오락시설
+2977,6466,TVE Co Ltd,52102010,산업용 기계 및 장비
+2978,5532,Realgate Inc,60101010,"부동산 임대, 개발 및 운영"
+2979,1401,mbs Inc,53203010,주택 건설
+2980,4012,Axis Co Ltd,57201020,소프트웨어
+2981,2776,Shinto Holdings Inc,53202020,의류 및 액세서리
+2982,8230,Hasegawa Co Ltd,53403090,기타 전문 소매
+2983,5476,Nippon Koshuha Steel Co Ltd,51201020,철 및 강철
+2984,3426,Atom Livin Tech Co Ltd,53203020,건설 자재 및 비품
+2985,2788,Apple International Co Ltd,53101010,자동차 및 트럭 제조
+2986,209A,Onodani Machine Co Ltd,52102010,산업용 기계 및 장비
+2987,9885,Charle Co Ltd,53202020,의류 및 액세서리
+2988,3541,Nousouken Corp,54102010,어업 및 농업
+2989,8835,Taiheiyo Kouhatsu Inc,50101010,석탄
+2990,1446,Candeal Co Ltd,52201020,건설 및 엔지니어링
+2991,8700,Maruhachi Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+2992,5890,Officebusters Corp,52203060,비즈니스 지원 용품
+2993,4415,Broad Enterprise Co Ltd,57102010,통신 및 네트워킹
+2994,9212,Green Earth Institute Co Ltd,51101030,특수 화학제
+2995,173A,Hammock Inc,57201020,소프트웨어
+2996,9853,Ginza Renoir Co Ltd,53301020,레스토랑 및 바
+2997,4397,TeamSpirit Inc,57201020,소프트웨어
+2998,3841,Jedat Inc,57201020,소프트웨어
+2999,6551,Tsunagu Group Holdings Inc,52203030,고용 서비스
+3000,7608,SK Japan Co Ltd,53205010,장난감 및 어린이 제품
+3001,9346,Cocorport Inc,54201030,개인 서비스
+3002,1994,Takahashi Curtain Wall Corp,52201020,건설 및 엔지니어링
+3003,3237,Intrance Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3004,9219,GiXo Ltd,57201010,IT 서비스 및 컨설팅
+3005,6699,Diamond Electric Holdings Co Ltd,57104010,전자 장비 및 부품
+3006,6325,Takakita Co Ltd,52102020,중장비 및 차량
+3007,4884,Kringle Pharma Inc,56202010,생명 공학 및 의학 연구
+3008,2894,Ishii Food Co Ltd,54102020,식품 가공
+3009,7887,Nankai Plywood Co Ltd,53203020,건설 자재 및 비품
+3010,3940,Nomura System Corporation Co Ltd,57201010,IT 서비스 및 컨설팅
+3011,7427,Echo Trading Co Ltd,54301020,식품 소매 및 유통
+3012,4556,Kainos Laboratories Inc,56101020,"의료 장비, 물품 및 유통"
+3013,7681,Leoclan Co Ltd,56101020,"의료 장비, 물품 및 유통"
+3014,9478,SE Holdings and Incubations Co Ltd,53302040,소비자 출판
+3015,9265,Yamashita Health Care Holdings Inc,56101020,"의료 장비, 물품 및 유통"
+3016,2436,Kyodo Public Relations Co Ltd,53302010,광고 및 마케팅
+3017,7039,Bridge International Corp,52203040,경영 지원 서비스
+3018,6862,Minato Holdings Inc,57101010,반도체
+3019,7114,Foodison Inc,54102010,어업 및 농업
+3020,3323,Recomm Co Ltd,53403090,기타 전문 소매
+3021,3671,Softmax Co Ltd,57201010,IT 서비스 및 컨설팅
+3022,7379,CIRCULATION Co Ltd,52203040,경영 지원 서비스
+3023,5240,monoAI technology Co Ltd,57201020,소프트웨어
+3024,1718,Mikikogyo Co Ltd,53203010,주택 건설
+3025,6715,Nakayo Inc,57102010,통신 및 네트워킹
+3026,7256,Kasai Kogyo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3027,5575,Globee Inc,63101010,기타 교육 서비스 제공
+3028,2654,Asmo Corp,53301020,레스토랑 및 바
+3029,4198,Tenda Co Ltd,57201010,IT 서비스 및 컨설팅
+3030,6045,Rentracks Co Ltd,53302010,광고 및 마케팅
+3031,4260,Hybrid Technologies Co Ltd,57201020,소프트웨어
+3032,7022,Sanoyas Holdings Corp,52102010,산업용 기계 및 장비
+3033,7808,C.S. Lumber Co Inc,51301010,임업 및 목재 제품
+3034,6327,Kitagawa Seiki Co Ltd,52102010,산업용 기계 및 장비
+3035,6570,Kyowa Corp,53301040,여가 및 오락시설
+3036,7370,Enjin Co Ltd,53302010,광고 및 마케팅
+3037,5591,AVILEN Inc,57201020,소프트웨어
+3038,4645,Ichishin Holdings Co Ltd,63101010,기타 교육 서비스 제공
+3039,3988,SYS Holdings Co Ltd,57201020,소프트웨어
+3040,3241,Will Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3041,245A,INGS Inc,53301020,레스토랑 및 바
+3042,4295,Faith Inc,53302030,엔터테인먼트 제작
+3043,3135,MarketEnterprise Co Ltd,57201030,온라인 서비스
+3044,3474,G-Factory Co Ltd,52203040,경영 지원 서비스
+3045,4990,Showa Chemical Industry Co Ltd,51101010,상품 화학
+3046,7847,Graphite Design Inc,53205020,오락용 제품
+3047,5446,Hokuetsu Metal Co Ltd,51201020,철 및 강철
+3048,2995,J-REX Corp,60101010,"부동산 임대, 개발 및 운영"
+3049,4496,Commerce One Holdings Inc,57201010,IT 서비스 및 컨설팅
+3050,6926,Okaya Electric Industries Co Ltd,52102030,전기 부품 및 장비
+3051,7425,Hatsuho Shouji Co Ltd,53203020,건설 자재 및 비품
+3052,7812,Crestec Inc,52203040,경영 지원 서비스
+3053,155A,Information Strategy and Technology Co Ltd,57201010,IT 서비스 및 컨설팅
+3054,6778,Artiza Networks Inc,57102010,통신 및 네트워킹
+3055,3628,Data Horizon Co Ltd,56101010,첨단 의료 장비 및 기술
+3056,3131,Shinden Hightex Corp,57101010,반도체
+3057,9159,W TOKYO Inc,52203040,경영 지원 서비스
+3058,5956,Toso Co Ltd,53203020,건설 자재 및 비품
+3059,9973,KOZO Holdings Co Ltd,53301020,레스토랑 및 바
+3060,5950,Japan Power Fastening Co Ltd,52102010,산업용 기계 및 장비
+3061,7034,Prored Partners Co Ltd,52203040,경영 지원 서비스
+3062,4380,M-mart Inc,57201030,온라인 서비스
+3063,9625,Cerespo Co Ltd,52203040,경영 지원 서비스
+3064,7135,Japan Craft Holdings Co Ltd,53403090,기타 전문 소매
+3065,4060,Rakumo Inc,57201010,IT 서비스 및 컨설팅
+3066,7087,Willtec Co Ltd,52203030,고용 서비스
+3067,6408,Ogura Clutch Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3068,9146,Gokendo Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3069,7509,I.A Group Corp,53403010,"자동차 차량, 부품 및 서비스 소매"
+3070,9479,Impress Holdings Inc,53302040,소비자 출판
+3071,6042,Nikki Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3072,4267,Lightworks Corp,57201010,IT 서비스 및 컨설팅
+3073,7918,VIA Holdings Inc,53301020,레스토랑 및 바
+3074,1840,Tsuchiya Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3075,7531,Seiwa Chuo Holdings Corp,51201020,철 및 강철
+3076,3058,Sanyodo Holdings Inc,53403090,기타 전문 소매
+3077,8226,Rikei Corp,57201010,IT 서비스 및 컨설팅
+3078,3172,Tea Life Co Ltd,53402010,백화점
+3079,6888,Acmos Inc,57201010,IT 서비스 및 컨설팅
+3080,6597,HPC Systems Inc,57106010,컴퓨터 하드웨어
+3081,3267,Phil Company Inc,52201020,건설 및 엔지니어링
+3082,7527,Systemsoft Corp,57201010,IT 서비스 및 컨설팅
+3083,8944,Land Business Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3084,6155,Takamatsu Machinery Co Ltd,52102010,산업용 기계 및 장비
+3085,6942,Sophia Holdings Co Ltd,54301010,의약품 소매
+3086,5576,O.B.System Inc,57201010,IT 서비스 및 컨설팅
+3087,4926,C'Bon Cosmetics Co Ltd,54201020,개인 생활 필수 용품
+3088,5936,Toyo Shutter Co Ltd,53203020,건설 자재 및 비품
+3089,5599,S&J Corp,57201010,IT 서비스 및 컨설팅
+3090,6776,Tensho Electric Industries Co Ltd,51101010,상품 화학
+3091,9778,Subaru Co Ltd,63101010,기타 교육 서비스 제공
+3092,3770,Zappallas Inc,57201030,온라인 서비스
+3093,4372,Ymirlink Inc,57201010,IT 서비스 및 컨설팅
+3094,6267,General Packer Co Ltd,52102010,산업용 기계 및 장비
+3095,9344,Axis Consulting Corp,52203030,고용 서비스
+3096,4040,Nankai Chemical Co Ltd,51101090,다각적 화학 산업
+3097,6907,Geomatec Co Ltd,57104010,전자 장비 및 부품
+3098,6837,Kyosha Co Ltd,57101010,반도체
+3099,4486,Unite and Grow Inc,52203030,고용 서비스
+3100,1383,Berg Earth Co Ltd,54102010,어업 및 농업
+3101,9867,Solekia Ltd,57201010,IT 서비스 및 컨설팅
+3102,9446,Sakai Holdings Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+3103,3815,Media Kobo Inc,57201030,온라인 서비스
+3104,6897,Twinbird Corp,53204030,"가전제품, 도구 및 가정 용품"
+3105,9051,Senkon Logistics Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3106,3261,Grandes Inc,60101010,"부동산 임대, 개발 및 운영"
+3107,7807,Kowa Co Ltd,56101020,"의료 장비, 물품 및 유통"
+3108,7502,Plaza Holdings Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+3109,3680,Hotto Link Inc,53302010,광고 및 마케팅
+3110,4960,Chemipro Kasei Kaisha Ltd,51101010,상품 화학
+3111,6092,EnBio Holdings Inc,52203010,환경 서비스 및 장비
+3112,2397,DNA Chip Research Inc,56202010,생명 공학 및 의학 연구
+3113,4119,Nippon Pigment Holdings Co Ltd,51101030,특수 화학제
+3114,148A,Hatch Work Co Ltd,57201010,IT 서비스 및 컨설팅
+3115,9282,Ichigo Green Infrastructure Investment Corp,55501030,폐쇄형 펀드
+3116,7078,Inclusive Inc,53302010,광고 및 마케팅
+3117,5033,Nulab Inc,57201020,소프트웨어
+3118,2795,Nippon Primex Inc,57106010,컴퓨터 하드웨어
+3119,3936,Globalway Inc,57201010,IT 서비스 및 컨설팅
+3120,2134,Kitahama Capital Partners Co Ltd,55102020,투자 관리 및 펀드 운영
+3121,1418,Interlife Holdings Co Ltd,52201020,건설 및 엔지니어링
+3122,9876,Cox Co Ltd,53403040,의류 및 액세서리 소매
+3123,2376,SCiNEX Corp,53302040,소비자 출판
+3124,5939,Otani Kogyo Co Ltd,52102040,중전기장비
+3125,3169,Misawa & Co Ltd,53403030,가정용 가구 소매
+3126,8518,Japan Asia Investment Co Ltd,55102020,투자 관리 및 펀드 운영
+3127,6993,Daikokuya Holdings Co Ltd,53403090,기타 전문 소매
+3128,9060,Japan Logistic Systems Corp,52405030,지상 화물 및 물류
+3129,7953,Kikusui Chemical Industries Co Ltd,53203020,건설 자재 및 비품
+3130,7049,Shikigaku Co Ltd,52203040,경영 지원 서비스
+3131,4570,Immuno-Biological Laboratories Co Ltd,56201040,제약
+3132,4728,Tose Co Ltd,57201020,소프트웨어
+3133,5283,Takamisawa Co Ltd,51202010,건설 자재
+3134,5900,Daiken Co Ltd,53203020,건설 자재 및 비품
+3135,3686,DLE Inc,53302010,광고 및 마케팅
+3136,5133,Terilogy Holdings Corp,57102010,통신 및 네트워킹
+3137,6838,Tamagawa Holdings Co Ltd,57104010,전자 장비 및 부품
+3138,5990,Super Tool Co Ltd,52102010,산업용 기계 및 장비
+3139,6757,OSG Corporation Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+3140,9036,Tohbu Network Co Ltd,52405030,지상 화물 및 물류
+3141,3667,Enish Inc,57201020,소프트웨어
+3142,4274,Hosoya Pyro-Engineering Co Ltd,51101010,상품 화학
+3143,3537,Shoei Yakuhin Co Ltd,51101010,상품 화학
+3144,3726,4Cs HD Co Ltd,53403090,기타 전문 소매
+3145,8260,Izutsuya Co Ltd,53402010,백화점
+3146,6424,Takamisawa Cybernetics Co Ltd,52102010,산업용 기계 및 장비
+3147,7127,Ikka Holdings Co Ltd,53301020,레스토랑 및 바
+3148,3933,CHIeru Co Ltd,57201020,소프트웨어
+3149,9337,toridori Inc,53302010,광고 및 마케팅
+3150,4429,Ricksoft Co Ltd,57201010,IT 서비스 및 컨설팅
+3151,6286,Seiko Corp,53403010,"자동차 차량, 부품 및 서비스 소매"
+3152,8891,AMG Holdings Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3153,3604,Kawamoto Corp,56101020,"의료 장비, 물품 및 유통"
+3154,4412,Science Arts Inc,57201010,IT 서비스 및 컨설팅
+3155,9366,Sanritsu Corp,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3156,4584,Kidswell Bio Corp,56202010,생명 공학 및 의학 연구
+3157,4287,Justplanning Inc,57201010,IT 서비스 및 컨설팅
+3158,6771,Ikegami Tsushinki Co Ltd,57102010,통신 및 네트워킹
+3159,3851,Nippon Ichi Software Inc,57201020,소프트웨어
+3160,5138,Rebase Inc,57201030,온라인 서비스
+3161,3816,Daiwa Computer Co Ltd,57201020,소프트웨어
+3162,3059,Hiraki Co Ltd,53402020,할인점
+3163,6495,Miyairi Valve MFG Co Ltd,52102010,산업용 기계 및 장비
+3164,2304,CSS Holdings Ltd,53302030,엔터테인먼트 제작
+3165,2454,All About Inc,53302010,광고 및 마케팅
+3166,7091,Living Platform Ltd,56102010,의료 시설 및 서비스
+3167,3839,ODK Solutions Co Ltd,57201010,IT 서비스 및 컨설팅
+3168,2917,Ohmoriya Co Ltd,54102020,식품 가공
+3169,6034,MRT Inc,52203030,고용 서비스
+3170,5724,Asaka Riken Co Ltd,51201010,금 제외 귀금속 및 광물
+3171,7916,Mitsumura Printing Co Ltd,52203020,상업 인쇄 서비스
+3172,7126,Global Style Co Ltd,53202020,의류 및 액세서리
+3173,2464,Aoba-BBT Inc,52203070,전문 정보 서비스
+3174,9355,Rinko Corp,52407020,항만 운영 및 서비스
+3175,6054,Livesense Inc,57201010,IT 서비스 및 컨설팅
+3176,6964,Sanko Co Ltd,52102010,산업용 기계 및 장비
+3177,9385,Shoei Corp,51302010,용기(종이 제외) 및 포장재
+3178,7060,Geechs Inc,57201010,IT 서비스 및 컨설팅
+3179,6166,Nakamura Choukou Co Ltd,52102010,산업용 기계 및 장비
+3180,6836,Plat'Home Co Ltd,57106010,컴퓨터 하드웨어
+3181,3322,Alpha Group Inc,53403050,컴퓨터 및 전자 제품 소매
+3182,3896,Awa Paper & Technological Company Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+3183,4360,MANAC Chemical Partners Co Ltd,51101090,다각적 화학 산업
+3184,1451,KHC Ltd,53203010,주택 건설
+3185,5527,property technologies Inc,60101020,부동산 서비스
+3186,2136,HIP Corp,52203030,고용 서비스
+3187,6297,Koken Boring Machine Co Ltd,52102010,산업용 기계 및 장비
+3188,5865,My Farm Inc,54102010,어업 및 농업
+3189,3557,United & Collective Co Ltd,53301020,레스토랑 및 바
+3190,2408,KG Intelligence Co Ltd,53302040,소비자 출판
+3191,9969,Shokubun Co Ltd,53301020,레스토랑 및 바
+3192,8887,Cumica Corp,60101010,"부동산 임대, 개발 및 운영"
+3193,3067,Tokyo Ichiban Foods Co Ltd,53301020,레스토랑 및 바
+3194,2179,Seigakusha Co Ltd,63101010,기타 교육 서비스 제공
+3195,4892,Cyfuse Biomedical KK,56202010,생명 공학 및 의학 연구
+3196,4177,I-Plug Inc,52203030,고용 서비스
+3197,8025,Tsukamoto Corporation Co Ltd,53202020,의류 및 액세서리
+3198,9929,Heiwa Paper Co Ltd,51301020,종이 제품
+3199,7923,Toin Corp,51302020,종이 포장재
+3200,6343,Freesia Macross Corp,53203010,주택 건설
+3201,6171,CE Management Integrated Laboratory Co Ltd,52201020,건설 및 엔지니어링
+3202,5542,Shinhokoku Material Corp,51201020,철 및 강철
+3203,2911,Asahimatsu Foods Co Ltd,54102020,식품 가공
+3204,5571,Excite Holdings Co Ltd,57401020,무선 통신 서비스
+3205,6336,Ishii Hyoki Co Ltd,57101010,반도체
+3206,3948,Hikari Business Form Co Ltd,52203020,상업 인쇄 서비스
+3207,3556,RenetJapanGroup Inc,53403090,기타 전문 소매
+3208,7097,Sakurasaku Plus Co Ltd,54201030,개인 서비스
+3209,9835,Juntendo Co Ltd,53403020,주택 개조 제품 및 서비스 소매
+3210,5491,Nippon Kinzoku Co Ltd,51201020,철 및 강철
+3211,4625,Atomix Co Ltd,51101010,상품 화학
+3212,5699,Ibokin Co Ltd,52203010,환경 서비스 및 장비
+3213,2481,Townnews-Sha Co Ltd,53302040,소비자 출판
+3214,4881,FunPep Co Ltd,56202010,생명 공학 및 의학 연구
+3215,3965,Capital Asset Planning Inc,57301010,핀테크
+3216,4586,Medrx Co Ltd,56201040,제약
+3217,6577,Bestone.Com Co Ltd,53301040,여가 및 오락시설
+3218,2215,First Baking Co Ltd,54102020,식품 가공
+3219,9760,Shingakukai Holdings Co Ltd,63101010,기타 교육 서비스 제공
+3220,7284,Meiwa Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3221,3190,Hotman Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3222,2411,Gendai Agency Inc,53302010,광고 및 마케팅
+3223,3495,Koryojyuhan Co Ltd,60101020,부동산 서비스
+3224,2480,System Location Co Ltd,57201010,IT 서비스 및 컨설팅
+3225,2341,Arbeit-Times Co Ltd,53302040,소비자 출판
+3226,6901,Sawafuji Electric Co Ltd,52102030,전기 부품 및 장비
+3227,7217,Tein Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+3228,5355,Nippon Crucible Co Ltd,52102010,산업용 기계 및 장비
+3229,2449,PRAP Japan Inc,53302010,광고 및 마케팅
+3230,9444,Toshin Holdings Co Ltd,57401020,무선 통신 서비스
+3231,3024,Create Corp,53203020,건설 자재 및 비품
+3232,7069,CyberBuzz Inc,53302010,광고 및 마케팅
+3233,7208,Kanemitsu Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+3234,6342,Taihei Machinery Works Ltd,52102010,산업용 기계 및 장비
+3235,4829,Nihon Enterprise Co Ltd,57201010,IT 서비스 및 컨설팅
+3236,6360,Tokyo Automatic Machinery Works Ltd,52102010,산업용 기계 및 장비
+3237,265A,Hmcomm Inc,57201010,IT 서비스 및 컨설팅
+3238,4319,TAC Co Ltd,63101010,기타 교육 서비스 제공
+3239,3895,Havix Corp,53202010,직물 및 가죽제품
+3240,3625,Techfirm Holdings Inc,57201010,IT 서비스 및 컨설팅
+3241,3997,Trade Works Co Ltd,57201020,소프트웨어
+3242,6185,SMN Corp,57201030,온라인 서비스
+3243,7150,Shimane Bank Ltd,55101010,은행
+3244,7975,Lihit Lab Inc,52203060,비즈니스 지원 용품
+3245,6552,GameWith Inc,57201030,온라인 서비스
+3246,4437,Gooddays Holdings Inc,57201010,IT 서비스 및 컨설팅
+3247,3280,STrust Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3248,4386,SIG Group Co Ltd,57201010,IT 서비스 및 컨설팅
+3249,7555,Ota Floriculture Auction Co Ltd,54102010,어업 및 농업
+3250,4594,BrightPath Biotherapeutics Co Ltd,56202010,생명 공학 및 의학 연구
+3251,1758,Taiyo Kisokogyo Co Ltd,52201020,건설 및 엔지니어링
+3252,1380,Akikawa Foods & Farms Co Ltd,54102020,식품 가공
+3253,7538,Daisui Co Ltd,54102010,어업 및 농업
+3254,9362,Hyoki Kaiun Kaisha Ltd,52405020,해양 화물 및 물류
+3255,7215,Faltec Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3256,9776,Sapporo Clinical Laboratory Inc,54301010,의약품 소매
+3257,4172,Towa Hi System Co Ltd,57201020,소프트웨어
+3258,3238,Central General Development Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3259,3695,GMO Research & AI Inc,53302010,광고 및 마케팅
+3260,2286,Hayashikane Sangyo Co Ltd,54102010,어업 및 농업
+3261,7080,Sportsfield Co Ltd,52203030,고용 서비스
+3262,4615,Shinto Paint Co Ltd,51101010,상품 화학
+3263,253A,ETS Group Co Ltd,52201020,건설 및 엔지니어링
+3264,4750,Daisan Co Ltd,52201020,건설 및 엔지니어링
+3265,2493,E-Supportlink Ltd,57201010,IT 서비스 및 컨설팅
+3266,3627,Tecmira Holdings Inc,57201010,IT 서비스 및 컨설팅
+3267,2747,Hokuyu Lucky Co Ltd,54301020,식품 소매 및 유통
+3268,4242,Takagi Seiko Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+3269,5742,NIC Autotec Inc,52102010,산업용 기계 및 장비
+3270,3286,Trust Holdings Inc,52407030,고속도로 및 철도
+3271,5577,Aidemy Inc,57201010,IT 서비스 및 컨설팅
+3272,4076,CNS Co Ltd,57201010,IT 서비스 및 컨설팅
+3273,6518,Sanso Electric Co Ltd,52102010,산업용 기계 및 장비
+3274,5256,Fusic Co Ltd,57201010,IT 서비스 및 컨설팅
+3275,3698,CRI Middleware Co Ltd,57201010,IT 서비스 및 컨설팅
+3276,4447,PBsystems Inc,57201010,IT 서비스 및 컨설팅
+3277,7863,Hiraga Co Ltd,52203020,상업 인쇄 서비스
+3278,7902,Sonocom Co Ltd,57104010,전자 장비 및 부품
+3279,4388,AI Inc,57201020,소프트웨어
+3280,2876,Delsole Corp,54102020,식품 가공
+3281,4937,Waqoo Inc,53403090,기타 전문 소매
+3282,4334,Yuke's Co Ltd,53302030,엔터테인먼트 제작
+3283,1844,Ohmori Co Ltd,52201020,건설 및 엔지니어링
+3284,2985,First Stage Corp,60101020,부동산 서비스
+3285,3682,Encourage Technologies Co Ltd,57201010,IT 서비스 및 컨설팅
+3286,7399,Nansin Co Ltd,52102010,산업용 기계 및 장비
+3287,5753,Nippon Shindo Co Ltd,51201050,특수 채굴 및 금속
+3288,3045,Kawasaki & Co Ltd,53202020,의류 및 액세서리
+3289,4075,Brains Technology Inc,57201010,IT 서비스 및 컨설팅
+3290,6218,Enshu Ltd,52102010,산업용 기계 및 장비
+3291,7351,Goodpatch Inc,57201010,IT 서비스 및 컨설팅
+3292,4351,Yamada Servicer Synthetic Office Co Ltd,55101050,기업 금융 서비스
+3293,1841,Sanyu Construction Co Ltd,52201020,건설 및 엔지니어링
+3294,4391,Logizard Co Ltd,57201030,온라인 서비스
+3295,7983,Miroku Corp,52101010,항공우주 및 방위
+3296,2342,TransGenic Group Inc,53402010,백화점
+3297,8617,Kosei Securities Co Ltd,55102010,투자 은행 및 중개 서비스
+3298,4484,Lancers Inc,52203030,고용 서비스
+3299,3945,Superbag Co Ltd,51302020,종이 포장재
+3300,8746,UNBANKED Inc,55102010,투자 은행 및 중개 서비스
+3301,7273,Ikuyo Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3302,1997,Akatsuki Eazima Co Ltd,52201020,건설 및 엔지니어링
+3303,9361,Fushiki Kairiku Unso Co Ltd,52407020,항만 운영 및 서비스
+3304,4450,Power Solutions Ltd,57201010,IT 서비스 및 컨설팅
+3305,5255,Monstarlab Holdings Inc,57201010,IT 서비스 및 컨설팅
+3306,9259,Takayoshi Holdings Inc,54301020,식품 소매 및 유통
+3307,6096,RareJob Inc,63103010,전문 및 비즈니스 교육
+3308,2754,Tokatsu Holdings Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3309,3161,Azearth Corp,52203060,비즈니스 지원 용품
+3310,5609,Nippon Chuzo KK,51201020,철 및 강철
+3311,2999,Home Position Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3312,3674,Aucfan Co Ltd,57201030,온라인 서비스
+3313,5986,Molitec Steel Co Ltd,51201020,철 및 강철
+3314,8115,Moonbat Co Ltd,53202020,의류 및 액세서리
+3315,4705,Clip Corp,63101010,기타 교육 서비스 제공
+3316,7314,Odawara Auto-Machine Mfg Co Ltd,52203060,비즈니스 지원 용품
+3317,5994,Fine Sinter Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3318,3359,cotta Co Ltd,54301020,식품 소매 및 유통
+3319,5189,Sakura Rubber Co Ltd,53101030,타이어 및 고무 제품
+3320,5603,Kogi Corp,51201020,철 및 강철
+3321,7602,Ledax Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3322,5578,AR Advanced Technology Inc,57201010,IT 서비스 및 컨설팅
+3323,7113,Manabe Interior Hearts Co Ltd,53403030,가정용 가구 소매
+3324,6596,Tsukubaseiko Co Ltd,57101010,반도체
+3325,2291,Fukutome Meat Packers Ltd,54102020,식품 가공
+3326,3317,Flying Garden Co Ltd,53301020,레스토랑 및 바
+3327,2961,Nitcho Corp,52102010,산업용 기계 및 장비
+3328,4976,Toyo Drilube Co Ltd,51101030,특수 화학제
+3329,7361,Human Creation Holdings Inc,52203030,고용 서비스
+3330,5534,Angel Group Inc,53301010,"호텔, 모텔 및 크루즈 라인"
+3331,7625,Global-Dining Inc,53301020,레스토랑 및 바
+3332,5525,Frontier Holdings Co Ltd,60101020,부동산 서비스
+3333,7804,B&P Co Ltd,52203020,상업 인쇄 서비스
+3334,3524,Nitto Seimo Co Ltd,52203060,비즈니스 지원 용품
+3335,5031,Moi Corp,57201020,소프트웨어
+3336,6072,Jibannet Holdings Co Ltd,52203040,경영 지원 서비스
+3337,4889,Renascience Inc,56201040,제약
+3338,4935,Liberta Co Ltd,56201040,제약
+3339,3536,Axas Holdings Co Ltd,53403090,기타 전문 소매
+3340,9565,Gloe Inc,53301040,여가 및 오락시설
+3341,5250,Prime Strategy Co Ltd,57201010,IT 서비스 및 컨설팅
+3342,3927,Fuva Brain Ltd,57201020,소프트웨어
+3343,6467,Nichidai Corp,52102010,산업용 기계 및 장비
+3344,6494,NFK Holdings Co Ltd,52102030,전기 부품 및 장비
+3345,3422,J-Max Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3346,4930,Graphico Inc,53403090,기타 전문 소매
+3347,7464,Saftec Co Ltd,52203060,비즈니스 지원 용품
+3348,145A,L is B Corp,57201010,IT 서비스 및 컨설팅
+3349,3583,AuBEX Corp,52203060,비즈니스 지원 용품
+3350,3444,Kikuchi Seisakusho Co Ltd,52102010,산업용 기계 및 장비
+3351,5612,Nippon Chutetsukan KK,51201020,철 및 강철
+3352,6038,IID Inc,53302010,광고 및 마케팅
+3353,3622,Netyear Group Corp,57201030,온라인 서비스
+3354,5619,MRSO Inc,57201020,소프트웨어
+3355,3690,YRGLM Inc,57201010,IT 서비스 및 컨설팅
+3356,6334,Meiji Machine Co Ltd,52102010,산업용 기계 및 장비
+3357,3727,Aplix Corp,57201020,소프트웨어
+3358,9339,Coach A Co Ltd,63103010,전문 및 비즈니스 교육
+3359,2962,Tecnisco Ltd,57104010,전자 장비 및 부품
+3360,3807,Fisco Ltd,52203070,전문 정보 서비스
+3361,4171,Global Information Inc,53302010,광고 및 마케팅
+3362,6549,DM Solutions Co Ltd,53302010,광고 및 마케팅
+3363,6634,NCXX Group Inc,53403040,의류 및 액세서리 소매
+3364,7036,eMnet Japan Co Ltd,53302010,광고 및 마케팅
+3365,4487,Spacemarket Inc,60101020,부동산 서비스
+3366,5856,Life Intelligent Enterprise Holdings Co Ltd,54301020,식품 소매 및 유통
+3367,5997,Kyoritsu Air Tech Inc,52102030,전기 부품 및 장비
+3368,6192,HyAS&Co. Inc,52203040,경영 지원 서비스
+3369,7265,Eiken Industries Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3370,6943,NKK Switches Co Ltd,52102030,전기 부품 및 장비
+3371,7515,Maruyoshi Center Inc,54301020,식품 소매 및 유통
+3372,7120,SHINKO Inc,57201010,IT 서비스 및 컨설팅
+3373,3437,Tokuden Co Ltd,52203040,경영 지원 서비스
+3374,5596,OutlookConsulting Co Ltd,57201020,소프트웨어
+3375,144A,Energy Power Co Ltd,59101010,전력 유틸리티
+3376,6538,Disruptors Inc,52203030,고용 서비스
+3377,7603,Mac House Co Ltd,53202020,의류 및 액세서리
+3378,4387,ZUU Co Ltd,52203070,전문 정보 서비스
+3379,7058,Kyoei Security Service Co Ltd,52203040,경영 지원 서비스
+3380,2425,Care Service Co Ltd,56102010,의료 시설 및 서비스
+3381,3441,Sanno Co Ltd,52102010,산업용 기계 및 장비
+3382,3204,Toabo Corp,53202010,직물 및 가죽제품
+3383,3858,Ubiquitous AI Corp,57201020,소프트웨어
+3384,9849,Kyodo Paper Holdings,51301020,종이 제품
+3385,7064,Howtelevision Inc,57201030,온라인 서비스
+3386,6659,Media Links Co Ltd,57102010,통신 및 네트워킹
+3387,2762,Sanko Marketing Foods Co Ltd,53301020,레스토랑 및 바
+3388,3826,System Integrator Corp,57201020,소프트웨어
+3389,3469,Dualtap Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3390,7443,Yokohama Gyorui Co Ltd,54102020,식품 가공
+3391,3967,Eltes Co Ltd,52203040,경영 지원 서비스
+3392,5259,BBD Initiative Inc,57201010,IT 서비스 및 컨설팅
+3393,6195,Hope Inc,53302010,광고 및 마케팅
+3394,6090,Human Metabolome Technologies Inc,56202010,생명 공학 및 의학 연구
+3395,5022,REVO International Inc,50102030,"오일, 가스 정제 및 마케팅"
+3396,1795,Masaru Corp,52201020,건설 및 엔지니어링
+3397,6060,Cocolonet Co Ltd,54201030,개인 서비스
+3398,4395,Accrete Inc,52203040,경영 지원 서비스
+3399,9082,Daiwa Motor Transportation Co Ltd,52406020,지상 및 해상 여객 운송
+3400,3645,Medical Net Inc,56102010,의료 시설 및 서비스
+3401,9237,Emimen Co Ltd,60101020,부동산 서비스
+3402,6635,Di-Nikko Engineering Co Ltd,57104010,전자 장비 및 부품
+3403,4069,BlueMeme Inc,57201010,IT 서비스 및 컨설팅
+3404,3917,iRidge Inc,57201020,소프트웨어
+3405,8996,HouseFreedom Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3406,7446,Tohoku Chemical Co Ltd,51101010,상품 화학
+3407,4735,Kyoshin Co Ltd,63103010,전문 및 비즈니스 교육
+3408,5884,Kuradashi Co Ltd,53402010,백화점
+3409,9326,Kantsu Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3410,5620,SPO Entertainment Inc,53302030,엔터테인먼트 제작
+3411,3744,SIOS Corp,57201020,소프트웨어
+3412,4596,Kubota Pharmaceutical Holdings Co Ltd,56201040,제약
+3413,7369,Meiho Holdings Inc,52201020,건설 및 엔지니어링
+3414,6662,Ubiteq Inc,57106010,컴퓨터 하드웨어
+3415,2351,ASJ Inc,57201010,IT 서비스 및 컨설팅
+3416,5103,Showa Holdings Co Ltd,54102020,식품 가공
+3417,6666,River Eletec Corp,52102030,전기 부품 및 장비
+3418,9271,Wagokoro Co Ltd,53402010,백화점
+3419,7063,Birdman Inc,53302010,광고 및 마케팅
+3420,8783,GFA Co Ltd,55102020,투자 관리 및 펀드 운영
+3421,248A,Kids Star Inc,57201020,소프트웨어
+3422,5998,Advanex Inc,52102010,산업용 기계 및 장비
+3423,3958,Sasatoku Printing Co Ltd,52203020,상업 인쇄 서비스
+3424,7089,For Startups Inc,52203030,고용 서비스
+3425,3796,e-Seikatsu Co Ltd,57201030,온라인 서비스
+3426,5867,Es Networks Co Ltd,52203040,경영 지원 서비스
+3427,150A,JSH Co Ltd,54201030,개인 서비스
+3428,4257,Evixar Inc,57201020,소프트웨어
+3429,2385,Soiken Holdings Inc,54201020,개인 생활 필수 용품
+3430,7021,Nitchitsu Co Ltd,52102010,산업용 기계 및 장비
+3431,3766,Systems Design Co Ltd,57201010,IT 서비스 및 컨설팅
+3432,5820,Mitsuboshi Co Ltd,52102030,전기 부품 및 장비
+3433,3439,Mitsuchi Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+3434,4440,Witz Corp,57201020,소프트웨어
+3435,4438,Welby Inc,57201020,소프트웨어
+3436,3928,Mynet Inc,57201030,온라인 서비스
+3437,4766,PA Co Ltd,52203030,고용 서비스
+3438,7805,Printnet Inc,57201030,온라인 서비스
+3439,6307,Sansei Co Ltd,52102010,산업용 기계 및 장비
+3440,4736,Nippon Rad Inc,57201010,IT 서비스 및 컨설팅
+3441,142A,Jinjibu Co Ltd,52203030,고용 서비스
+3442,3944,Furubayashi Shiko Co Ltd,51302020,종이 포장재
+3443,5973,Toami Corp,51201020,철 및 강철
+3444,3970,Innovation Inc,57201030,온라인 서비스
+3445,4591,Ribomic Inc,56202010,생명 공학 및 의학 연구
+3446,6265,Convum Ltd,52102010,산업용 기계 및 장비
+3447,6599,Ebrains Inc,57106010,컴퓨터 하드웨어
+3448,3083,Star Seeds Co Ltd,53403040,의류 및 액세서리 소매
+3449,4014,Karadanote Inc,57201020,소프트웨어
+3450,7782,Sincere Co Ltd,56101020,"의료 장비, 물품 및 유통"
+3451,9165,Qualtec Co Ltd,52203040,경영 지원 서비스
+3452,1764,Kudo Corp,52201020,건설 및 엔지니어링
+3453,6522,Asterisk Inc,57106010,컴퓨터 하드웨어
+3454,3035,Ktk Inc,52203060,비즈니스 지원 용품
+3455,7098,Agent Inc,52203030,고용 서비스
+3456,6694,Zoom Corp,53403050,컴퓨터 및 전자 제품 소매
+3457,6198,Career Co Ltd,52203030,고용 서비스
+3458,7162,Astmax Co Ltd,59101010,전력 유틸리티
+3459,3607,Kuraudia Holdings Co Ltd,54201030,개인 서비스
+3460,137A,Cocolive Inc,57201010,IT 서비스 및 컨설팅
+3461,9972,Altech Co Ltd,52102010,산업용 기계 및 장비
+3462,7919,Nozaki Insatsu Shigyo Co Ltd,51302020,종이 포장재
+3463,8742,Kobayashi Yoko Co Ltd,55102010,투자 은행 및 중개 서비스
+3464,6734,Newtech Co Ltd,57106010,컴퓨터 하드웨어
+3465,6548,Tabikobo Co Ltd,53301040,여가 및 오락시설
+3466,3358,Y.S.Food Co Ltd,53301020,레스토랑 및 바
+3467,7219,HKS Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3468,4491,Computer Management Co Ltd,57201010,IT 서비스 및 컨설팅
+3469,3710,Jorudan Co Ltd,57201020,소프트웨어
+3470,3521,Econach Holdings Co Ltd,53301040,여가 및 오락시설
+3471,5928,Almetax Manufacturing Co Ltd,53203020,건설 자재 및 비품
+3472,3054,Hyper Inc,57106010,컴퓨터 하드웨어
+3473,6335,Tokyo Kikai Seisakusho Ltd,52102010,산업용 기계 및 장비
+3474,4102,Maruo Calcium Co Ltd,51101010,상품 화학
+3475,3494,Mullion Co Ltd,60101020,부동산 서비스
+3476,1443,Giken Holdings Co Ltd,52201020,건설 및 엔지니어링
+3477,7112,Cube Co Ltd (Minato),53202020,의류 및 액세서리
+3478,5987,Onex Corp,51201020,철 및 강철
+3479,7359,Tokyo Communications Group Inc,57201020,소프트웨어
+3480,7116,Daiwa Tsushin Co Ltd,57102010,통신 및 네트워킹
+3481,7353,KIYO Learning Co Ltd,52203070,전문 정보 서비스
+3482,5126,Porters Corp,57201010,IT 서비스 및 컨설팅
+3483,4167,Kokopelli Inc,57201020,소프트웨어
+3484,2323,Fonfun Corp,57201030,온라인 서비스
+3485,7183,Anshin Guarantor Service Co Ltd,55101030,소비자 대출
+3486,1444,Nissou Co Ltd,53203010,주택 건설
+3487,6396,Unozawa-gumi Iron Works Ltd,52102010,산업용 기계 및 장비
+3488,8166,Taka-Q Co Ltd,53403040,의류 및 액세서리 소매
+3489,9073,Kyogoku Unyu Shoji Co Ltd,52405030,지상 화물 및 물류
+3490,5257,Nova System Co Ltd,57201010,IT 서비스 및 컨설팅
+3491,2139,Chuco Co Ltd,53302010,광고 및 마케팅
+3492,4247,Poval Kogyo Co Ltd,53101030,타이어 및 고무 제품
+3493,229A,Asumi HD Inc,52201020,건설 및 엔지니어링
+3494,5721,S Science Co Ltd,51201050,특수 채굴 및 금속
+3495,7992,Sailor Pen Co Ltd,52203060,비즈니스 지원 용품
+3496,3747,Intertrade Co Ltd,57301010,핀테크
+3497,9417,Smartvalue Co Ltd,57201010,IT 서비스 및 컨설팅
+3498,3177,Arigatou Services Co Ltd,53403090,기타 전문 소매
+3499,6131,Hamai Co Ltd,52102010,산업용 기계 및 장비
+3500,6721,Wintest Corp,57101020,반도체 장비 및 테스트
+3501,7791,Dreambed Co Ltd,53204040,가정용 가구
+3502,228A,OPRO Co Ltd,57201020,소프트웨어
+3503,2722,IK Holdings Co Ltd,53403090,기타 전문 소매
+3504,9012,Chichibu Railway Co Ltd,52406020,지상 및 해상 여객 운송
+3505,1724,Synclayer Inc,57201010,IT 서비스 및 컨설팅
+3506,2424,Brass Corp,54201030,개인 서비스
+3507,3202,Daitobo Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3508,3372,Kanmonkai Co Ltd,53301020,레스토랑 및 바
+3509,9854,Aigan Co Ltd,53403090,기타 전문 소매
+3510,7687,Micreed Co Ltd,53402010,백화점
+3511,7922,Sanko Sangyo Co Ltd,52203020,상업 인쇄 서비스
+3512,9127,Tamai Steamship Co Ltd,52405020,해양 화물 및 물류
+3513,2872,Seihyo Co Ltd,54102020,식품 가공
+3514,4170,Kaizen Platform Inc,57201010,IT 서비스 및 컨설팅
+3515,5870,Nalnet Communications Inc,54201030,개인 서비스
+3516,5271,Toyo Asano Foundation Co Ltd,51202010,건설 자재
+3517,3266,Fund Creation Group Co Ltd,55102020,투자 관리 및 펀드 운영
+3518,6656,Inspec Inc,57101020,반도체 장비 및 테스트
+3519,7709,Kubotek Corp,52102030,전기 부품 및 장비
+3520,7360,Ondeck Co Ltd,55102010,투자 은행 및 중개 서비스
+3521,193A,Gro-Bels Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3522,7544,Three F Co Ltd,54301020,식품 소매 및 유통
+3523,174A,Agentec Co Ltd,57201020,소프트웨어
+3524,5817,JMACS Japan Co Ltd,52102030,전기 부품 및 장비
+3525,4174,Appirits Inc,57201030,온라인 서비스
+3526,2388,Wedge Holdings Co Ltd,53302030,엔터테인먼트 제작
+3527,7057,New Constructor's Network Co Ltd,52203040,경영 지원 서비스
+3528,6022,Akasaka Diesels Ltd,52102050,조선
+3529,7831,Wellco Holdings Corp,52203020,상업 인쇄 서비스
+3530,8040,Tokyo Soir Co Ltd,53202020,의류 및 액세서리
+3531,3768,Riskmonster.com,57201010,IT 서비스 및 컨설팅
+3532,9647,Kyowa Engineering Consultants Co Ltd,52201020,건설 및 엔지니어링
+3533,2156,Saylor Advertising Inc,53302010,광고 및 마케팅
+3534,3810,Cyberstep Inc,57201030,온라인 서비스
+3535,2435,Cedar Co Ltd,56102010,의료 시설 및 서비스
+3536,9557,airCloset Inc,57201030,온라인 서비스
+3537,4197,Asmarq Co Ltd,53302010,광고 및 마케팅
+3538,7046,TDSE Inc,57201020,소프트웨어
+3539,7083,AHC Group Inc,56102010,의료 시설 및 서비스
+3540,1743,Koatsu Kogyo Co Ltd,52201020,건설 및 엔지니어링
+3541,4427,EduLab Inc,63101010,기타 교육 서비스 제공
+3542,5868,Rococo Co Ltd,57201010,IT 서비스 및 컨설팅
+3543,3920,Internetworking and Broadband Consulting Co Ltd,57201020,소프트웨어
+3544,3297,Toubujyuhan Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3545,7957,Fujicopian Co Ltd,52203060,비즈니스 지원 용품
+3546,7897,Hokushin Co Ltd,51301010,임업 및 목재 제품
+3547,4885,Muromachi Chemicals Inc,56201040,제약
+3548,7810,Crossfor Co Ltd,53202020,의류 및 액세서리
+3549,5386,Tsuruya Co Ltd,51202010,건설 자재
+3550,3352,Buffalo Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3551,5597,Blue Innovation Co Ltd,57201010,IT 서비스 및 컨설팅
+3552,6150,Takeda Machinery Co Ltd,52102010,산업용 기계 및 장비
+3553,4261,AsiaQuest Co Ltd,57201010,IT 서비스 및 컨설팅
+3554,4052,Ficha Inc,57201020,소프트웨어
+3555,7129,Miahelsa Holdings Corp,56102010,의료 시설 및 서비스
+3556,3909,Showcase Inc,57201010,IT 서비스 및 컨설팅
+3557,9363,Daiun Co Ltd,52407020,항만 운영 및 서비스
+3558,7793,Image Magic Inc,57201030,온라인 서비스
+3559,2300,Kyokuto Co Ltd,54201030,개인 서비스
+3560,9466,Aidma Marketing Communication Corp,53302010,광고 및 마케팅
+3561,3071,Stream Co Ltd,57201030,온라인 서비스
+3562,7062,Fureasu Co Ltd,56102010,의료 시설 및 서비스
+3563,6633,C&G Systems Inc,57201010,IT 서비스 및 컨설팅
+3564,5697,Sanyu Co Ltd,51201020,철 및 강철
+3565,9225,Bridge Consulting Group Inc,52203040,경영 지원 서비스
+3566,6046,Linkbal Inc,54201030,개인 서비스
+3567,6181,Tameny Inc,54201030,개인 서비스
+3568,6558,Cookbiz Co Ltd,52203030,고용 서비스
+3569,7899,Mics Chemical Co Ltd,51302010,용기(종이 제외) 및 포장재
+3570,9335,Techno Creative Co Ltd,52203040,경영 지원 서비스
+3571,2789,Karula Co Ltd,53301020,레스토랑 및 바
+3572,4120,Sugai Chemical Industry Co Ltd,51101090,다각적 화학 산업
+3573,6380,Oriental Chain Mfg Co Ltd,52102010,산업용 기계 및 장비
+3574,8072,Japan Publications Trading Co Ltd,53403090,기타 전문 소매
+3575,5458,Takasago Tekko KK,51201020,철 및 강철
+3576,6081,Allied Architects Inc,57201010,IT 서비스 및 컨설팅
+3577,4690,Nippon Pallet Pool Co Ltd,55101050,기업 금융 서비스
+3578,5618,Nyle Inc,53302010,광고 및 마케팅
+3579,7746,Okamoto Glass Co Ltd,57106030,가정용 전자 제품
+3580,1711,SDS Holdings Co Ltd,52203010,환경 서비스 및 장비
+3581,2196,Escrit Inc,54201030,개인 서비스
+3582,7829,Samantha Thavasa Japan Ltd,53202020,의류 및 액세서리
+3583,4341,Seiryo Electric Corp,57102010,통신 및 네트워킹
+3584,2499,Nihonwasou Holdings Inc,53202020,의류 및 액세서리
+3585,9685,Kycom Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+3586,5035,HOUSEI Inc,57201010,IT 서비스 및 컨설팅
+3587,3224,General Oyster Inc,53301020,레스토랑 및 바
+3588,7836,AVIX Inc,57104010,전자 장비 및 부품
+3589,3490,Azplanning Co Ltd,60101020,부동산 서비스
+3590,2687,CVS Bay Area Inc,52203040,경영 지원 서비스
+3591,195A,Ricecurry Inc,57201020,소프트웨어
+3592,7865,People Co Ltd,53205010,장난감 및 어린이 제품
+3593,3930,Hatena Co Ltd,57201030,온라인 서비스
+3594,6822,Oi Electric Co Ltd,57102010,통신 및 네트워킹
+3595,7035,And Factory Inc,57201020,소프트웨어
+3596,7694,Itsumo Inc,53302010,광고 및 마케팅
+3597,5704,JMC Corp,51201050,특수 채굴 및 금속
+3598,196A,MFS Inc,57301010,핀테크
+3599,6186,Ichikura Co Ltd,53403040,의류 및 액세서리 소매
+3600,3077,Horiifoodservice Co Ltd,53301020,레스토랑 및 바
+3601,1439,Yasue Corp,53203010,주택 건설
+3602,3461,Palma Co Ltd,52203040,경영 지원 서비스
+3603,220A,Faber Company Inc,,
+3604,7422,Toho Lamac Co Ltd,53202030,제화
+3605,4178,Sharing Innovations Inc,57201010,IT 서비스 및 컨설팅
+3606,9345,Bizmates Inc,57201030,온라인 서비스
+3607,3011,Banners Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3608,2977,Livenup Group Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3609,211A,Cados Corp,60101010,"부동산 임대, 개발 및 운영"
+3610,9256,Succeed Co Ltd,52203030,고용 서비스
+3611,3550,Studio Atao Co Ltd,53202020,의류 및 액세서리
+3612,9419,WirelessGate Inc,57401020,무선 통신 서비스
+3613,2683,Uoki Co Ltd,54301020,식품 소매 및 유통
+3614,3929,Socialwire Co Ltd,52203040,경영 지원 서비스
+3615,164A,Applepark Co Ltd,52407030,고속도로 및 철도
+3616,9169,Daishinsha Inc,53302010,광고 및 마케팅
+3617,9820,MT Genex Corp,52201020,건설 및 엔지니어링
+3618,4098,Titan Kogyo Ltd,51101010,상품 화학
+3619,6537,Washhouse Co Ltd,54201030,개인 서비스
+3620,8105,Marushohotta Co Ltd,53202020,의류 및 액세서리
+3621,3416,Pixta Inc,57201030,온라인 서비스
+3622,9087,Takase Corp,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3623,3248,Early Age Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3624,7084,Kids Smile Holdings Inc,54201030,개인 서비스
+3625,4494,Vario Secure Inc,57201030,온라인 서비스
+3626,4920,Nippon Shikizai Inc,54201020,개인 생활 필수 용품
+3627,4673,Kawasaki Geological Engineering Co Ltd,51201070,채굴 지원 서비스 및 장비
+3628,149A,Thinca Co Ltd,57201010,IT 서비스 및 컨설팅
+3629,2693,YKT Corp,52102010,산업용 기계 및 장비
+3630,4576,D.Western Therapeutics Institute Inc,56202010,생명 공학 및 의학 연구
+3631,6543,Nissen Inc,53302010,광고 및 마케팅
+3632,2437,Shinwa Wise Holdings Co Ltd,57201030,온라인 서비스
+3633,6840,Akiba Holdings Co Ltd,57102010,통신 및 네트워킹
+3634,9167,Futonmaki Jiro Inc,54201030,개인 서비스
+3635,4196,Neo Marketing Inc,53302010,광고 및 마케팅
+3636,4173,Wacul Inc,57201010,IT 서비스 및 컨설팅
+3637,4335,IPS Co Ltd,57201020,소프트웨어
+3638,8247,Daiwa Co Ltd,53402010,백화점
+3639,3691,Digital Plus Inc,57201010,IT 서비스 및 컨설팅
+3640,6545,Internet Infinity Inc,56102010,의료 시설 및 서비스
+3641,7986,Nihon ISK Co Ltd,52203060,비즈니스 지원 용품
+3642,7850,Sougou Shouken Co Ltd,52203020,상업 인쇄 서비스
+3643,3953,Ohmura Shigyo Co Ltd,51302020,종이 포장재
+3644,7601,Poplar Co Ltd,54301020,식품 소매 및 유통
+3645,4421,D I System Co Ltd,57201020,소프트웨어
+3646,3998,SuRaLa Net Co Ltd,52203070,전문 정보 서비스
+3647,5028,SecondXight Analytica Inc,57201010,IT 서비스 및 컨설팅
+3648,9421,NJ Holdings Inc,57201020,소프트웨어
+3649,3185,Dream Vision Co Ltd,53402010,백화점
+3650,7501,Tiemco Ltd,53202020,의류 및 액세서리
+3651,4650,SD Entertainment Inc,53301040,여가 및 오락시설
+3652,6217,Tsudakoma Corp,52102010,산업용 기계 및 장비
+3653,3935,Edia Co Ltd,57201030,온라인 서비스
+3654,4222,Kodama Chemical Industry Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3655,3577,Tokai Senko KK,53202010,직물 및 가죽제품
+3656,2992,Urban Like Inc,53203010,주택 건설
+3657,9767,Nikken Kogaku Co Ltd,51202010,건설 자재
+3658,5969,Lobtex Co Ltd,52102010,산업용 기계 및 장비
+3659,9258,CS-C Co Ltd,57201020,소프트웨어
+3660,4833,Def Consulting Inc,53302040,소비자 출판
+3661,3842,Nextgen Inc,57201020,소프트웨어
+3662,8836,Rise Inc,60101010,"부동산 임대, 개발 및 운영"
+3663,5616,Ame Kaze Taiyo Inc,57201020,소프트웨어
+3664,4840,Triis Inc,52201020,건설 및 엔지니어링
+3665,5341,Asahi Eito Holdings Co Ltd,53203020,건설 자재 및 비품
+3666,9423,Forval Realstraight Inc,52203040,경영 지원 서비스
+3667,5125,Fines Inc,57201010,IT 서비스 및 컨설팅
+3668,4720,Johnan Academic Preparatory Institute Inc,63101010,기타 교육 서비스 제공
+3669,7072,Intimate Merger Inc,57201010,IT 서비스 및 컨설팅
+3670,8123,T.Kawabe & Co Ltd,53202020,의류 및 액세서리
+3671,5162,Asahi Rubber Inc,53101030,타이어 및 고무 제품
+3672,9220,FB Care Service Co Ltd,56102010,의료 시설 및 서비스
+3673,3646,Ekitan & Co Ltd,57201030,온라인 서비스
+3674,9812,T.O. Holdings Co Ltd,53402010,백화점
+3675,1788,Santo Corp,52201020,건설 및 엔지니어링
+3676,6248,Yokota Manufacturing Co Ltd,52102010,산업용 기계 및 장비
+3677,3477,Forlife Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3678,7031,Inbound Tech Inc,52203040,경영 지원 서비스
+3679,4424,Amazia Inc,57201020,소프트웨어
+3680,3907,Silicon Studio Corp,57201010,IT 서비스 및 컨설팅
+3681,7375,Refinverse Group Inc,52203010,환경 서비스 및 장비
+3682,9353,Sakurajima Futo Kaisha Ltd,52407020,항만 운영 및 서비스
+3683,6803,Teac Corp,57106010,컴퓨터 하드웨어
+3684,7137,Grantomato Co Ltd,54301020,식품 소매 및 유통
+3685,7041,CRG Holdings Co Ltd,52203030,고용 서비스
+3686,7037,teno.Holdings Co Ltd,54201030,개인 서비스
+3687,4558,Chukyoiyakuhin Co Ltd,56201040,제약
+3688,8912,Area Quest Inc,60101020,부동산 서비스
+3689,6647,Morio Denki Co Ltd,52102030,전기 부품 및 장비
+3690,3089,Techno Alpha Co Ltd,57101020,반도체 장비 및 테스트
+3691,7815,Tokyo Board Industries Co Ltd,52203010,환경 서비스 및 장비
+3692,7827,Orvis Corp,51301010,임업 및 목재 제품
+3693,7640,Top Culture Co Ltd,53403090,기타 전문 소매
+3694,3823,The Why How Do Company Inc,57201010,IT 서비스 및 컨설팅
+3695,5587,Inbound Platform Corp,53301040,여가 및 오락시설
+3696,6894,Pulstec Industrial Co Ltd,57104010,전자 장비 및 부품
+3697,4378,CINC Corp,57201020,소프트웨어
+3698,9342,Sumasapo Inc,57201010,IT 서비스 및 컨설팅
+3699,3986,bBreak Systems Co Ltd,57201010,IT 서비스 및 컨설팅
+3700,3598,Yamaki Co Ltd,53202020,의류 및 액세서리
+3701,3181,Kaitori Okoku Co Ltd,53403040,의류 및 액세서리 소매
+3702,7813,Platz Co Ltd,56101020,"의료 장비, 물품 및 유통"
+3703,9238,Value Creation Co Ltd,53302010,광고 및 마케팅
+3704,5279,Nihon Kogyo Co Ltd,51202010,건설 자재
+3705,4394,eXmotion Co Ltd,57201010,IT 서비스 및 컨설팅
+3706,6276,SiriusVision Co Ltd,52102010,산업용 기계 및 장비
+3707,5843,Nippon Insure Co Ltd,55301020,손해보험
+3708,4707,Kitac Corp,52201020,건설 및 엔지니어링
+3709,9439,M H Group Ltd,54201030,개인 서비스
+3710,9563,Atlas Technologies Corp,52203040,경영 지원 서비스
+3711,7356,Retty Inc,57201030,온라인 서비스
+3712,3985,Temona Inc,57201030,온라인 서비스
+3713,4445,Living Technologies Inc,57201030,온라인 서비스
+3714,8921,C's Create Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3715,7578,Nichiryoku Co Ltd,54201030,개인 서비스
+3716,243A,Top's Inc,54102020,식품 가공
+3717,3600,Fujix Ltd,53202010,직물 및 가죽제품
+3718,6775,TB Group Inc,57104010,전자 장비 및 부품
+3719,138A,Hikari Food Service Co Ltd,53301020,레스토랑 및 바
+3720,5025,Mercury Inc,60101020,부동산 서비스
+3721,7131,Nomura Corp,51302010,용기(종이 제외) 및 포장재
+3722,9978,Bunkyodo Group Holdings Co Ltd,53403090,기타 전문 소매
+3723,9240,Delivery Consulting Inc,57201010,IT 서비스 및 컨설팅
+3724,5131,Linkers Corp,57201010,IT 서비스 및 컨설팅
+3725,4068,Basis Corp,52201020,건설 및 엔지니어링
+3726,6193,Virtualex Holdings Inc,57201010,IT 서비스 및 컨설팅
+3727,5199,Fuji Latex Co Ltd,52102010,산업용 기계 및 장비
+3728,3042,SecuAvail Inc,57201020,소프트웨어
+3729,5029,Circlace Inc,57201010,IT 서비스 및 컨설팅
+3730,5134,POPER Co Ltd,57201020,소프트웨어
+3731,3306,Nihon Seima Co Ltd,53202010,직물 및 가죽제품
+3732,8181,Totenko Co Ltd,53301020,레스토랑 및 바
+3733,3138,Fujisan Magazine Service Co Ltd,53302040,소비자 출판
+3734,9914,Uematsu Shokai Co Ltd,52102010,산업용 기계 및 장비
+3735,3375,ZOA Corp,53403050,컴퓨터 및 전자 제품 소매
+3736,7928,Asahi Kagaku Kogyo Co Ltd,51101010,상품 화학
+3737,7571,Yamano Holdings Corp,53403040,의류 및 액세서리 소매
+3738,7585,Kan-Nanmaru Corp,53301020,레스토랑 및 바
+3739,9895,Consec Corp,52102010,산업용 기계 및 장비
+3740,6400,Fuji Seiki Co Ltd,52102010,산업용 기계 및 장비
+3741,9250,GRCS Inc,57201020,소프트웨어
+3742,6555,Ms&Consulting Co Ltd,53302010,광고 및 마케팅
+3743,2321,Softfront Holdings,57201010,IT 서비스 및 컨설팅
+3744,3961,Silver Egg Technology Co Ltd,53302010,광고 및 마케팅
+3745,7877,Eidai Kako Co Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3746,6138,Dijet Industrial Co Ltd,52102010,산업용 기계 및 장비
+3747,6233,KLASS Corp,52102010,산업용 기계 및 장비
+3748,7896,Seven Industries Co Ltd,53203020,건설 자재 및 비품
+3749,9254,Lovable Marketing Group Inc,53302010,광고 및 마케팅
+3750,9635,Musashino Kogyo Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3751,3041,Beauty Kadan Holdings Co Ltd,54201030,개인 서비스
+3752,7939,Kensoh Co Ltd,53302010,광고 및 마케팅
+3753,4657,Environmental Control Center Co Ltd,52203010,환경 서비스 및 장비
+3754,5537,AlbaLink Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3755,3987,Ecomott Inc,57201010,IT 서비스 및 컨설팅
+3756,3070,Jelly Beans Group Co Ltd,53403040,의류 및 액세서리 소매
+3757,2479,JTec Corp,52203030,고용 서비스
+3758,7837,R.C.Core Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3759,7077,ALiNK Internet INC,57201020,소프트웨어
+3760,3672,AltPlus Inc,57201020,소프트웨어
+3761,3195,Generation Pass Co Ltd,52203040,경영 지원 서비스
+3762,7139,Tokyo Koatsu Co Ltd,51101010,상품 화학
+3763,9476,Chuokeizai-Sha Holdings Inc,52203070,전문 정보 서비스
+3764,7255,Sakurai Ltd,53101020,"자동차, 트럭 및 오토바이 부품"
+3765,3189,ANAP Inc,53402010,백화점
+3766,6867,Leader Electronics Corp,52102010,산업용 기계 및 장비
+3767,4241,Atect Corp,56101020,"의료 장비, 물품 및 유통"
+3768,4664,Japan Reliance Service Corp,52203040,경영 지원 서비스
+3769,9222,Manaby Co Ltd,63103010,전문 및 비즈니스 교육
+3770,7345,Ai Partners Financial Inc,55102010,투자 은행 및 중개 서비스
+3771,3647,G Three Holdings Corp,59101010,전력 유틸리티
+3772,4416,True Data Inc,57201030,온라인 서비스
+3773,267A,Towarise Corp,55101030,소비자 대출
+3774,3111,Omikenshi Co Ltd,53202010,직물 및 가죽제품
+3775,3174,Happiness and D Co Ltd,53403040,의류 및 액세서리 소매
+3776,4199,Wonderplanet Inc,57201020,소프트웨어
+3777,3670,Kyoritsu Computer & Communication Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+3778,4361,Kawaguchi Chemical Industry Co Ltd,51101010,상품 화학
+3779,6573,Agile Media Network Inc,53302010,광고 및 마케팅
+3780,6347,Placo Co Ltd,52102010,산업용 기계 및 장비
+3781,6731,Pixela Corp,57106030,가정용 전자 제품
+3782,7268,Tatsumi Corp,53101020,"자동차, 트럭 및 오토바이 부품"
+3783,3779,J Escom Holdings Inc,53302010,광고 및 마케팅
+3784,6578,Correc Holdings Inc,57401010,통합 통신 서비스
+3785,7567,Sakae Electronics Corp,52102030,전기 부품 및 장비
+3786,132A,IN Holdings Co Ltd,52405030,지상 화물 및 물류
+3787,4370,Mobilus Corp,57201010,IT 서비스 및 컨설팅
+3788,8254,Saikaya Department Store Co Ltd,53402010,백화점
+3789,4288,Asgent Inc,57201010,IT 서비스 및 컨설팅
+3790,8013,Naigai Co Ltd,53202020,의류 및 액세서리
+3791,2667,ImageOne Co Ltd,53403050,컴퓨터 및 전자 제품 소매
+3792,3974,SCAT Inc,57201020,소프트웨어
+3793,4422,Valuenex Japan Inc,52203040,경영 지원 서비스
+3794,5905,Nihon Seikan KK,51302010,용기(종이 제외) 및 포장재
+3795,5858,STG Co Ltd,52102010,산업용 기계 및 장비
+3796,9331,Caster Co Ltd,52203030,고용 서비스
+3797,7132,Flobal Corp,53203020,건설 자재 및 비품
+3798,9816,Striders Corp,60101010,"부동산 임대, 개발 및 운영"
+3799,4814,Nextware Ltd,57201010,IT 서비스 및 컨설팅
+3800,3802,Ecomic Co Ltd,52203030,고용 서비스
+3801,7073,Jaic Co Ltd,63103010,전문 및 비즈니스 교육
+3802,189A,D&M Company Co Ltd,52203040,경영 지원 서비스
+3803,8225,Takachiho Co Ltd,53403090,기타 전문 소매
+3804,7800,Amifa Co Ltd,51302020,종이 포장재
+3805,9365,Tradia Corp,52405020,해양 화물 및 물류
+3806,143A,Ishin Co Ltd,53302010,광고 및 마케팅
+3807,5277,Spancrete Corp,51202010,건설 자재
+3808,8215,Ginza Yamagataya Co Ltd,53403040,의류 및 액세서리 소매
+3809,7044,Piala Inc,57201030,온라인 서비스
+3810,9214,Recovery International Co Ltd,56102010,의료 시설 및 서비스
+3811,3664,Mobcast Holdings Inc,53403030,가정용 가구 소매
+3812,246A,ASUA Inc,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3813,4057,Interfactory Inc,57201020,소프트웨어
+3814,6074,JSS Corp,54201030,개인 서비스
+3815,157A,Green Monster Inc,57201020,소프트웨어
+3816,1730,Aso Foam Crete Co Ltd,52201020,건설 및 엔지니어링
+3817,9376,Eurasia Travel Co Ltd,53301040,여가 및 오락시설
+3818,7043,Alue Co Ltd,63103010,전문 및 비즈니스 교육
+3819,3931,Value Golf Inc,53301040,여가 및 오락시설
+3820,5974,ChugokuKogyo Co Ltd,50103020,오일 관련 서비스 및 장비
+3821,4179,G-Next Inc,57201020,소프트웨어
+3822,7376,BCC Co Ltd,52203030,고용 서비스
+3823,3753,Flight Solutions Inc,57201010,IT 서비스 및 컨설팅
+3824,7090,Ligua Inc,57201020,소프트웨어
+3825,2666,Autowave Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+3826,2997,Storage-Oh Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3827,7689,Copa Corporation Inc,53204030,"가전제품, 도구 및 가정 용품"
+3828,3559,p-ban.com Corp,53402010,백화점
+3829,5287,Ito Yogyo Co Ltd,51202010,건설 자재
+3830,6898,Tomita Electric Co Ltd,57104010,전자 장비 및 부품
+3831,6696,TRaaS On Product Inc,57104010,전자 장비 및 부품
+3832,7878,Kohsai Co Ltd,53202020,의류 및 액세서리
+3833,5247,BTM Inc,57201010,IT 서비스 및 컨설팅
+3834,4679,Taya Co Ltd,54201030,개인 서비스
+3835,7524,Marche Corp,53301020,레스토랑 및 바
+3836,8886,Wood Friends Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3837,2402,Amana Inc,53302010,광고 및 마케팅
+3838,7477,Muraki Corp,53403010,"자동차 차량, 부품 및 서비스 소매"
+3839,6063,Emergency Assistance Japan Co Ltd,56102010,의료 시설 및 서비스
+3840,9327,e-LogiT Co Ltd,52405010,"배달, 우편, 항공 화물 및 육상 물류"
+3841,8946,Asian Star Co,60101010,"부동산 임대, 개발 및 운영"
+3842,4678,Shuei Yobiko Co Ltd,63101010,기타 교육 서비스 제공
+3843,5952,Amatei Inc,52102010,산업용 기계 및 장비
+3844,4243,Nix Inc,51101010,상품 화학
+3845,5242,Eyez Inc,57201030,온라인 서비스
+3846,3192,Shirohato Co Ltd,57201030,온라인 서비스
+3847,7623,Sunautas Co Ltd,50102030,"오일, 가스 정제 및 마케팅"
+3848,9425,ReYuu Japan Inc,53403050,컴퓨터 및 전자 제품 소매
+3849,2736,Festaria Holdings Co Ltd,53403040,의류 및 액세서리 소매
+3850,4381,Bplats Inc,57201010,IT 서비스 및 컨설팅
+3851,6048,DesignOne Japan Inc,57201030,온라인 서비스
+3852,3409,Kitanihon Spinning Co Ltd,53202010,직물 및 가죽제품
+3853,4166,Cacco Inc,57201010,IT 서비스 및 컨설팅
+3854,9253,Slogan Inc,52203030,고용 서비스
+3855,6664,OptoElectronics Co Ltd,57105010,사무기기
+3856,139A,Higashinihon Jisho Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3857,9941,Taiyo Bussan Kaisha Ltd,54102010,어업 및 농업
+3858,4444,InfoNet Inc,57201030,온라인 서비스
+3859,2656,Vector Holdings Inc,57201030,온라인 서비스
+3860,7357,Geocode Co Ltd,57201030,온라인 서비스
+3861,4059,Magmag Inc,53302010,광고 및 마케팅
+3862,4124,Osaka Yuka Industry Ltd,51101090,다각적 화학 산업
+3863,6982,Lead Co Inc,53101020,"자동차, 트럭 및 오토바이 부품"
+3864,6550,Unipos Inc,53302010,광고 및 마케팅
+3865,4616,Kawakami Paint Mfg Co Ltd,51101010,상품 화학
+3866,5580,Prodelight Co Ltd,57401010,통합 통신 서비스
+3867,3908,Collabos Corp,57201010,IT 서비스 및 컨설팅
+3868,6190,PhoenixBio Co Ltd,56202010,생명 공학 및 의학 연구
+3869,7771,Nihon Seimitsu Co Ltd,53202020,의류 및 액세서리
+3870,9215,CaSy Co Ltd,54201030,개인 서비스
+3871,7372,Decollte Holdings Corp,54201030,개인 서비스
+3872,3634,Sockets Inc,57201020,소프트웨어
+3873,4017,Creema Ltd,53402010,백화점
+3874,3910,MKSystem Corp,57201010,IT 서비스 및 컨설팅
+3875,5962,Asaka Industrial Co Ltd,53204030,"가전제품, 도구 및 가정 용품"
+3876,7413,Sokensha Co Ltd,54102020,식품 가공
+3877,7125,Ivresse Co Ltd,54201020,개인 생활 필수 용품
+3878,9242,Media Research Institute Inc,52203030,고용 서비스
+3879,2778,Palemo Holdings Co Ltd,53403040,의류 및 액세서리 소매
+3880,3137,Fundely Co Ltd,53301020,레스토랑 및 바
+3881,3326,Runsystem Co Ltd,53301040,여가 및 오락시설
+3882,5252,Nihon Knowledge Co Ltd,57201010,IT 서비스 및 컨설팅
+3883,7067,Branding Technology Inc,53302010,광고 및 마케팅
+3884,131A,CCN Group Corp,57201010,IT 서비스 및 컨설팅
+3885,6663,Taiyo Technolex Co Ltd,57101010,반도체
+3886,5610,Daiwa Heavy Industry Co Ltd,52102010,산업용 기계 및 장비
+3887,4265,Institution For A Global Society Corp,57201020,소프트웨어
+3888,4020,Betrend Corp,57201020,소프트웨어
+3889,2334,Eole Inc,53302010,광고 및 마케팅
+3890,4016,MIT Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+3891,4073,Global Communication Planning Co Ltd,57201010,IT 서비스 및 컨설팅
+3892,7140,Petgo Corp,53403090,기타 전문 소매
+3893,4760,Alpha Co Ltd,53302010,광고 및 마케팅
+3894,6969,Matsuo Electric Co Ltd,57104010,전자 장비 및 부품
+3895,3639,Voltage Inc,57201020,소프트웨어
+3896,5528,Frontier House Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3897,9239,KET Inc,52203010,환경 서비스 및 장비
+3898,7985,Nepon Inc,52102030,전기 부품 및 장비
+3899,7117,Mimona Co Ltd,53403040,의류 및 액세서리 소매
+3900,7138,Torico Co Ltd,57201030,온라인 서비스
+3901,6433,Hephaist Co Ltd,52102010,산업용 기계 및 장비
+3902,7719,Tokyo Koki Co Ltd,52102010,산업용 기계 및 장비
+3903,9236,Japan M&A Solution Inc,55102020,투자 관리 및 펀드 운영
+3904,3845,I-Freek Mobile Inc,57201020,소프트웨어
+3905,3787,Techno Mathematical Co Ltd,57201020,소프트웨어
+3906,4918,Ivy Cosmetics Corp,54201020,개인 생활 필수 용품
+3907,7426,Yamadai Corp,53203020,건설 자재 및 비품
+3908,7946,Koyosha Inc,52203020,상업 인쇄 서비스
+3909,5536,Kyobashi Art Residence Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3910,5249,Asakawa Systems Co Ltd,57201010,IT 서비스 및 컨설팅
+3911,207A,Rising Corp Inc,53203010,주택 건설
+3912,3223,SLD Entertainment Inc,53301020,레스토랑 및 바
+3913,7997,Kurogane Kosakusho Ltd,52203060,비즈니스 지원 용품
+3914,6085,Architects Studio Japan Inc,52203040,경영 지원 서비스
+3915,6029,Artra Group Corp,56102010,의료 시설 및 서비스
+3916,3814,Alphax Food System Co Ltd,57201010,IT 서비스 및 컨설팅
+3917,171A,Zero Japan Co Ltd,53403090,기타 전문 소매
+3918,9878,Sekido Co Ltd,53403040,의류 및 액세서리 소매
+3919,4240,Cluster Technology Co Ltd,57104010,전자 장비 및 부품
+3920,175A,Will Smart Co Ltd,57201010,IT 서비스 및 컨설팅
+3921,3913,GreenBee Inc,57201020,소프트웨어
+3922,1382,Hob Co Ltd,54102010,어업 및 농업
+3923,7462,Capita Inc,50102030,"오일, 가스 정제 및 마케팅"
+3924,7362,Terminalcare Support Institute Inc,56102010,의료 시설 및 서비스
+3925,7886,YAMATO Mobility & Mfg. Co Ltd,52102010,산업용 기계 및 장비
+3926,6147,Yamazaki Co Ltd,52102010,산업용 기계 및 장비
+3927,6579,LOGLY Inc,57201030,온라인 서비스
+3928,6416,Katsuragawa Electric Co Ltd,57105010,사무기기
+3929,168A,Itamiarts Inc,53302010,광고 및 마케팅
+3930,4316,Bemap Inc,57401010,통합 통신 서비스
+3931,3624,Axel Mark Inc,53302010,광고 및 마케팅
+3932,9213,Seyfert Ltd,53302010,광고 및 마케팅
+3933,2459,Aun Consulting Inc,53302010,광고 및 마케팅
+3934,9562,Business Coach Inc,63103010,전문 및 비즈니스 교육
+3935,6174,Dentas Co Ltd,56101020,"의료 장비, 물품 및 유통"
+3936,191A,Mimosa Co Ltd,56102010,의료 시설 및 서비스
+3937,5380,Shinto Co Ltd,51202010,건설 자재
+3938,9226,IGER Inc,53302010,광고 및 마케팅
+3939,5598,Yottavias Co Ltd,52201020,건설 및 엔지니어링
+3940,3976,Shanon Inc,57201010,IT 서비스 및 컨설팅
+3941,7042,Access Group Holdings Co Ltd,53302010,광고 및 마케팅
+3942,7690,Current Motor Corp,53403010,"자동차 차량, 부품 및 서비스 소매"
+3943,6177,AppBank Inc,57201030,온라인 서비스
+3944,271A,Accelia Inc,57201010,IT 서비스 및 컨설팅
+3945,184A,Manabi-aid Co Ltd,63101010,기타 교육 서비스 제공
+3946,5584,Strawberry jams Co Ltd,57201010,IT 서비스 및 컨설팅
+3947,2164,Chiikishinbunsha Co Ltd,53302040,소비자 출판
+3948,6786,RVH Inc,57201010,IT 서비스 및 컨설팅
+3949,8995,Makoto Construction Co Ltd,53203010,주택 건설
+3950,226A,Katsu Mi Japan Inc,54301020,식품 소매 및 유통
+3951,2721,J-Holdings Corp,60101010,"부동산 임대, 개발 및 운영"
+3952,2926,Shinozakiya Inc,54102020,식품 가공
+3953,9241,Future Link Network Co Ltd,57201030,온라인 서비스
+3954,7363,Baby Calendar Inc,57201030,온라인 서비스
+3955,9334,IBIS Holdings Co Ltd,52203030,고용 서비스
+3956,9244,Digitalift Inc,53302010,광고 및 마케팅
+3957,7851,Kawase Computer Supplies Co Ltd,52203020,상업 인쇄 서비스
+3958,3803,Image Information Inc,57201010,IT 서비스 및 컨설팅
+3959,7901,Matsumoto Inc,52203020,상업 인쇄 서비스
+3960,8209,Friendly Corp,53301020,레스토랑 및 바
+3961,9330,Ageha Inc,53302010,광고 및 마케팅
+3962,7093,Adish Co Ltd,57201010,IT 서비스 및 컨설팅
+3963,7074,Twenty-four Seven Inc,54201030,개인 서비스
+3964,7364,Ryukyu Asteeda Sports Club Co Ltd,53301040,여가 및 오락시설
+3965,6173,Aqualine Ltd,52201020,건설 및 엔지니어링
+3966,161A,Mitsuba Co Ltd,54201030,개인 서비스
+3967,185A,Recycle Tech Japan Corp,52203010,환경 서비스 및 장비
+3968,252A,Wedge Co Ltd,57102010,통신 및 네트워킹
+3969,3448,Suga Steel Co Ltd,51201020,철 및 강철
+3970,136A,Sankosyoji Co Ltd,52201020,건설 및 엔지니어링
+3971,2673,Yumemitsuketai Co Ltd,53402010,백화점
+3972,5886,Ookabe Glass Co Ltd,53204040,가정용 가구
+3973,6977,Japan Resistor Mfg. Co Ltd,57104010,전자 장비 및 부품
+3974,5893,RAVIPA Ltd,53402010,백화점
+3975,4255,Thecoo Inc,53302010,광고 및 마케팅
+3976,227A,Insight Lab Inc,57201010,IT 서비스 및 컨설팅
+3977,7790,Barcos Co Ltd,53403040,의류 및 액세서리 소매
+3978,7056,Maruc Co Ltd,54201030,개인 서비스
+3979,7615,Kyoto Kimono Yuzen Holdings Co Ltd,53403040,의류 및 액세서리 소매
+3980,5581,Chi Technology Co Ltd,57201010,IT 서비스 및 컨설팅
+3981,199A,Mediair Corp,57201030,온라인 서비스
+3982,5573,Doraku Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+3983,154A,GAIA Inc,55102010,투자 은행 및 중개 서비스
+3984,1452,Yokohama Wright Industries Co Ltd,52201020,건설 및 엔지니어링
+3985,7170,Chuou International Group Co Ltd,55301010,복합보험 및 중개인
+3986,5072,Art Force Japan Co Ltd,52201020,건설 및 엔지니어링
+3987,1445,Hikari Holdings Co Ltd,51202010,건설 자재
+3988,5037,Fitworks Co Ltd,57201010,IT 서비스 및 컨설팅
+3989,5077,Hands Co Ltd,52201020,건설 및 엔지니어링
+3990,3370,Fujita Corporation Co Ltd,53301020,레스토랑 및 바
+3991,9224,Kankyou No Mikata Inc,52203010,환경 서비스 및 장비
+3992,5622,OneBe Inc,57201020,소프트웨어
+3993,5529,No.1 Urban Development Co Ltd,60101020,부동산 서비스
+3994,9610,Wilson Learning Worldwide Inc,63103010,전문 및 비즈니스 교육
+3995,217A,Support Co Ltd,52201020,건설 및 엔지니어링
+3996,2994,Answer Holdings Co Ltd,60101020,부동산 서비스
+3997,239A,Balleggs Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3998,3483,Shoei Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+3999,7355,Issunbou Co Ltd,52201020,건설 및 엔지니어링
+4000,5840,Nippon Souken Co Ltd,55301010,복합보험 및 중개인
+4001,6527,Waka Manufacturing Co Ltd,57104010,전자 장비 및 부품
+4002,6168,One Group Corp,52102010,산업용 기계 및 장비
+4003,232A,Hillstone Inc,52203030,고용 서비스
+4004,8143,Lapine Co Ltd,53202020,의류 및 액세서리
+4005,9156,Hana Holdings Co Ltd,54201030,개인 서비스
+4006,5881,Sun Feste Corp,54301020,식품 소매 및 유통
+4007,5887,Kokyo Inc,57104010,전자 장비 및 부품
+4008,249A,Human Adjust Co Ltd,56102010,의료 시설 및 서비스
+4009,7693,Hokkaido Shika Sangyo Co Ltd,56101020,"의료 장비, 물품 및 유통"
+4010,5594,M.D.B Corp,57201010,IT 서비스 및 컨설팅
+4011,216A,Life Create Co Ltd,53403090,기타 전문 소매
+4012,6576,Youkosha Co Ltd,56102010,의료 시설 및 서비스
+4013,172A,Neo Home Co Ltd,53203010,주택 건설
+4014,3450,Sato Sangyo Co Ltd,52201020,건설 및 엔지니어링
+4015,9243,Fujitechno Holdings Co Ltd,57201010,IT 서비스 및 컨설팅
+4016,203A,Shunbin Co Ltd,52203040,경영 지원 서비스
+4017,266A,Glocal Marketing Co Ltd,52203040,경영 지원 서비스
+4018,204A,TaiyoPackage Co Ltd,51302020,종이 포장재
+4019,158A,Exseli Co Ltd,57102010,통신 및 네트워킹
+4020,263A,DigitalCube Co Ltd,57201010,IT 서비스 및 컨설팅
+4021,134A,Upraise Inc,52203030,고용 서비스
+4022,1432,Doryoku Co Ltd,52102030,전기 부품 및 장비
+4023,3039,Heki Co Ltd,53301020,레스토랑 및 바
+4024,9388,Papanets Co Ltd,60101020,부동산 서비스
+4025,5241,Nihon Office Automation Research Co Ltd,57201010,IT 서비스 및 컨설팅
+4026,4426,Passlogy Co Ltd,57201020,소프트웨어
+4027,6695,Castrico Co Ltd,57101020,반도체 장비 및 테스트
+4028,5617,WiLLDo Inc,57201010,IT 서비스 및 컨설팅
+4029,152A,OPTY Co Ltd,51101010,상품 화학
+4030,222A,Nippon Information Control System Inc,57201010,IT 서비스 및 컨설팅
+4031,5531,Nakayama Fudousan Co Ltd,60101010,"부동산 임대, 개발 및 운영"
+4032,251A,Neuromagic Co Ltd,57201010,IT 서비스 및 컨설팅
+4033,5251,WISS1 Co Ltd,57201010,IT 서비스 및 컨설팅
+4034,2452,Computer Mind Co Ltd,57201010,IT 서비스 및 컨설팅
+4035,7680,Keijidoushakan Co Ltd,53403010,"자동차 차량, 부품 및 서비스 소매"
+4036,5866,WizBiz Inc,53302010,광고 및 마케팅
+4037,5130,HiroHoldings Co Ltd,53403050,컴퓨터 및 전자 제품 소매
